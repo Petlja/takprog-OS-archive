@@ -120,4 +120,5 @@ Please check the tasks against your own copies too.
 | 2025-26 | Okružno | 7 | [Sedlasti element](takprog-2025-26/05_OKRUZNO/7_razred/03_sedlasti_element) | standard | 2.5 s | 64 MB | 7 | default | — | — |
 | 2025-26 | Okružno | 7 | [Navodnjavanje](takprog-2025-26/05_OKRUZNO/7_razred/04_navodnjavanje) | standard | 0.4 s | 64 MB | 21 | default | — | — |
 | 2025-26 | Okružno | 8 | [Zaboravna plesačica](takprog-2025-26/05_OKRUZNO/8_razred/01_zaboravna_plesacica) | standard | 0.1 s | 64 MB | 11 | default | — | — |
+| 2025-26 | Okružno | 8 | [Veći od svih parnih](takprog-2025-26/05_OKRUZNO/8_razred/02_veci_od_svih_parnih) | standard | 0.2 s | 256 MB | 12 | default | — | — |
 | 2025-26 | Okružno | 8 | [Sedlasti element](takprog-2025-26/05_OKRUZNO/8_razred/03_sedlasti_element) | standard | 2.5 s | 64 MB | 7 | default | — | — |
