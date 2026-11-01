@@ -142,3 +142,12 @@ Please check the tasks against your own copies too.
 | 2025-26 | Izborno | — | [Lampice](takprog-2025-26/08_IZBORNO/01_lampice) | standard | 1 s | 256 MB | 29 | default | — | — |
 | 2025-26 | Izborno | — | [Grane uzastopnih](takprog-2025-26/08_IZBORNO/02_grane_uzastopnih) | standard | 1 s | 256 MB | 84 | default | — | — |
 | 2025-26 | Izborno | — | [Fabrika](takprog-2025-26/08_IZBORNO/03_fabrika) | standard | 1 s | 256 MB | 60 | default | — | — |
+| 2025-26 | Izborno | — | [Najduži testerasti podnizovi](takprog-2025-26/08_IZBORNO/04_najduzi_testerasti_podnizovi) | standard | 1 s | 256 MB | 87 | default | — | — |
+
+## Summary
+
+All 72 tasks of 2025-26 (84 task folders in 18 grade competitions) have their statement, pictures, limits, scoring
+and checker (two custom ones, the rest default). None has a known problem: the commission's main solutions pass every
+test, and solutions submitted at each contest get the verdict the contest recorded on every test. The one exception is
+test 1 of [Harshad brojevi 2](takprog-2025-26/06_DRZAVNO/7_razred/03_harshad_brojevi_2), a 0-point example: the
+commission corrected it during the contest, but Petlja's grader kept the old one, which every submission failed.
