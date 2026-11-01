@@ -133,3 +133,4 @@ Please check the tasks against your own copies too.
 | 2025-26 | Državno | 7 | [Igra na nizu](takprog-2025-26/06_DRZAVNO/7_razred/04_igra_na_nizu) | standard | 2.5 s | 64 MB | 22 | default | — | — |
 | 2025-26 | Državno | 8 | [Kružni Menhetn](takprog-2025-26/06_DRZAVNO/8_razred/01_kruzni_menhetn) | standard | 0.1 s | 64 MB | 28 | default | — | — |
 | 2025-26 | Državno | 8 | [Novi Menhetn](takprog-2025-26/06_DRZAVNO/8_razred/02_novi_menhetn) | standard | 1 s | 64 MB | 11 | default | — | — |
+| 2025-26 | Državno | 8 | [Autobusi](takprog-2025-26/06_DRZAVNO/8_razred/03_autobusi) | standard | 2.5 s | 64 MB | 36 | default | — | — |
