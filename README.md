@@ -112,3 +112,5 @@ Please check the tasks against your own copies too.
 | 2025-26 | Opštinsko | 8 | [Baunding boks](takprog-2025-26/04_OPSTINSKO/8_razred/03_bounding_box) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 | 2025-26 | Opštinsko | 8 | [Različite majice](takprog-2025-26/04_OPSTINSKO/8_razred/04_razlicite_majice) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 | 2025-26 | Okružno | 6 | [Nz](takprog-2025-26/05_OKRUZNO/6_razred/01_nz) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2025-26 | Okružno | 6 | [Drugarice](takprog-2025-26/05_OKRUZNO/6_razred/02_drugarice) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2025-26 | Okružno | 7 | [Drugarice](takprog-2025-26/05_OKRUZNO/7_razred/01_drugarice) | standard | 0.1 s | 64 MB | 12 | default | — | — |
