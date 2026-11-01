@@ -125,3 +125,4 @@ Please check the tasks against your own copies too.
 | 2025-26 | Okružno | 8 | [Bridž](takprog-2025-26/05_OKRUZNO/8_razred/04_bridz) | standard | 1 s | 64 MB | 11 | default | — | — |
 | 2025-26 | Državno | 6 | [Bioskop](takprog-2025-26/06_DRZAVNO/6_razred/01_bioskop) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2025-26 | Državno | 6 | [Plasman na JSIO](takprog-2025-26/06_DRZAVNO/6_razred/02_plasman_na_jsio) | standard | 1 s | 64 MB | 11 | default | — | — |
+| 2025-26 | Državno | 6 | [Baka i ćufte](takprog-2025-26/06_DRZAVNO/6_razred/03_baka_i_cufte) | standard | 1.5 s | 64 MB | 13 | default | — | — |
