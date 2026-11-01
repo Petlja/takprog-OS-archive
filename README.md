@@ -137,3 +137,4 @@ Please check the tasks against your own copies too.
 | 2025-26 | Državno | 8 | [Premijum slike](takprog-2025-26/06_DRZAVNO/8_razred/04_premijum_slike) | standard | 3 s | 64 MB | 36 | default | — | — |
 | 2025-26 | JSIO | — | [Kvadrati](takprog-2025-26/07_JSIO/01_kvadrati) | standard | 2 s | 256 MB | 24 | default | — | — |
 | 2025-26 | JSIO | — | [Dve vrednosti](takprog-2025-26/07_JSIO/02_dve_vrednosti) | standard | 0.5 s | 256 MB | 37 | default | — | — |
+| 2025-26 | JSIO | — | [Profitabilni skokovi](takprog-2025-26/07_JSIO/03_profitabilni_skokovi) | standard | 1.5 s | 256 MB | 31 | default | — | — |
