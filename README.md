@@ -274,6 +274,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Državno | 8 | [Zbir prostih](takprog-2023-24/05_DRZAVNO/8_razred/03_zbir_prostih) | standard | 5 s | 256 MB | 21 | default | — | — |
 | 2023-24 | Državno | 8 | [Domine](takprog-2023-24/05_DRZAVNO/8_razred/04_domine) | standard | 1 s | 128 MB | 20 | default | — | — |
 | 2023-24 | JSIO | — | [Neodgovoran student](takprog-2023-24/06_JSIO/01_neodgovoran_student) | standard | 0.5 s | 64 MB | 22 | default | — | — |
+| 2023-24 | JSIO | — | [Najbolja zamena](takprog-2023-24/06_JSIO/02_najbolja_zamena) | standard | 0.5 s | 128 MB | 17 | default | — | — |
 
 ## Summary
 
