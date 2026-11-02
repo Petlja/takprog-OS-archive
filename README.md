@@ -340,6 +340,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Okružno | 6 | [Merenje sa tri tega](takprog-2022-23/04_OKRUZNO/6_razred/02_merenje_sa_tri_tega) | standard | 0.2 s | 64 MB | 22 | default | — | — |
 | 2022-23 | Okružno | 6 | [Klub](takprog-2022-23/04_OKRUZNO/6_razred/03_klub) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 | 2022-23 | Okružno | 6 | [Serije vežbi](takprog-2022-23/04_OKRUZNO/6_razred/04_serije_vezbi) | standard | 0.1 s | 16 MB | 11 | default | — | — |
+| 2022-23 | Okružno | 7 | [Milioner](takprog-2022-23/04_OKRUZNO/7_razred/01_milioner) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
