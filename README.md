@@ -235,6 +235,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Kvalifikacije 2 | 8 | [Neravnoteža](takprog-2023-24/02_KV2/8_razred/02_neravnoteza) | standard | 0.2 s | 64 MB | 17 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 8 | [Najbrže do cilja](takprog-2023-24/02_KV2/8_razred/03_najbrze_do_cilja) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 8 | [Neparni delioci](takprog-2023-24/02_KV2/8_razred/04_neparni_delioci) | standard | 0.25 s | 64 MB | 14 | default | — | — |
+| 2023-24 | Kvalifikacije 2 | 8 | [Najmanje promena](takprog-2023-24/02_KV2/8_razred/05_najmanje_promena) | standard | 1 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
