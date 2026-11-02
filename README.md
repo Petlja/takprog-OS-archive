@@ -355,6 +355,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Državno | 7 | [Parno-neparni nizovi](takprog-2022-23/05_DRZAVNO/7_razred/01_parno_neparni) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 | 2022-23 | Državno | 7 | [Prevod](takprog-2022-23/05_DRZAVNO/7_razred/02_prevod) | standard | 0.25 s | 16 MB | 11 | default | — | — |
 | 2022-23 | Državno | 7 | [Uljez](takprog-2022-23/05_DRZAVNO/7_razred/03_najmanji_broj_inverzija) | standard | 1 s | 64 MB | 15 | default | — | — |
+| 2022-23 | Državno | 7 | [Najbrojnija okolina](takprog-2022-23/05_DRZAVNO/7_razred/04_okolina) | standard | 1 s | 64 MB | 13 | default | — | — |
 
 ## Summary
 
