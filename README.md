@@ -11,8 +11,8 @@ Paths follow the competitions: `takprog-{season}/{round}/{grade}/{nn}_{task}/`. 
 competition per grade (`6_razred` is the sixth grade and younger, then `7_razred` and `8_razred`), and `nn` is the
 task's place in that competition. Each grade folder is the whole competition: a task that was set in several grades
 is copied into each of them. Rounds held as one competition for everyone (the selection rounds for international
-competitions: for infO(1)Cup and IATI, JSIO, Izborno, and in 2024-25 the two levels of the selection cycle) have no
-grade folder.
+competitions: for infO(1)Cup and IATI, JSIO (SIO in 2022-23), Izborno, and in 2024-25 the two levels of the
+selection cycle) have no grade folder.
 
 | File | What |
 |---|---|
@@ -27,8 +27,8 @@ grade folder.
 **Tests, limits, checker and scoring come from the competition on Petlja**, as the contest ran. They are taken byte
 for byte from the problem's test version that was live on the contest date, with any tests uploaded separately before
 the contest ended. Where the commission corrected tests during or after a contest and graded every submission again,
-the set is the corrected one. Where a test or a limit changed during a contest without that, the archive has what the
-contest ended with.
+the set is the corrected one. Where a test, a limit or the scoring changed during or after a contest without that,
+the archive has what the contest ended with.
 
 **The statement is the one Petlja showed at the contest**, in Cyrillic, as the commission wrote it in Markdown. The
 author line at the top comes from the commission's collection (`takprog-osnovci`), where the statements were edited
@@ -42,7 +42,8 @@ working is listed in the table below.
 
 From the 2024-25 selection cycle (May 2025) on, the contests ran on Petlja's Linux grader, the one these tasks were
 checked on; the earlier ones ran on a Windows machine with other compilers. In 2024-25 the municipal, district and
-state competitions were not held on Petlja, so that season has only the qualifying and selection rounds.
+state competitions were not held on Petlja, so that season has only the qualifying and selection rounds. In 2022-23
+there was no municipal round: three qualifying rounds led to the district one.
 
 ## Limits
 
@@ -281,6 +282,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Izborno | — | [Četiri delioca](takprog-2023-24/07_IZBORNO/02_cetiri_delioca) | standard | 1 s | 128 MB | 27 | default | — | — |
 | 2023-24 | Izborno | — | [Slojevi tačaka u ravni](takprog-2023-24/07_IZBORNO/03_slojevi) | standard | 1.5 s | 64 MB | 10 | default | — | — |
 | 2023-24 | Izborno | — | [Mešalica](takprog-2023-24/07_IZBORNO/04_mesalica) | standard | 2 s | 128 MB | 72 | default | — | — |
+| 2022-23 | Kvalifikacije 1 | 6 | [Kviz](takprog-2022-23/01_KV1/6_razred/01_kviz) | standard | 0.15 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
