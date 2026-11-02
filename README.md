@@ -180,6 +180,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Kvalifikacije 2 | 7 | [Harshad brojevi 3](takprog-2024-25/02_KV2/7_razred/05_harshad_brojevi_3) | standard | 1 s | 64 MB | 11 | default | — | — |
 | 2024-25 | Kvalifikacije 2 | 7 | [Pakovanje kutija](takprog-2024-25/02_KV2/7_razred/06_pakovanje_kutija) | standard | 1 s | 256 MB | 23 | default | — | — |
 | 2024-25 | Kvalifikacije 2 | 8 | [Skočko broj](takprog-2024-25/02_KV2/8_razred/01_skocko_broj) | standard | 0.1 s | 64 MB | 26 | default | — | — |
+| 2024-25 | Kvalifikacije 2 | 8 | [Robot](takprog-2024-25/02_KV2/8_razred/02_robot) | standard | 0.2 s | 64 MB | 22 | default | — | — |
 
 ## Summary
 
