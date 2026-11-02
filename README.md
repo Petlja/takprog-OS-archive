@@ -297,6 +297,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Kvalifikacije 1 | 8 | [Kuvar](takprog-2022-23/01_KV1/8_razred/01_kuvar) | standard | 0.15 s | 64 MB | 12 | default | — | — |
 | 2022-23 | Kvalifikacije 1 | 8 | [Stubići od kockica](takprog-2022-23/01_KV1/8_razred/02_stubici_od_kockica) | standard | 0.15 s | 64 MB | 12 | default | — | — |
 | 2022-23 | Kvalifikacije 1 | 8 | [Note](takprog-2022-23/01_KV1/8_razred/03_note) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2022-23 | Kvalifikacije 1 | 8 | [Datum sa najvećom zaradom](takprog-2022-23/01_KV1/8_razred/04_datum_sa_najvecom_zaradom) | standard | 0.2 s | 64 MB | 11 | default | `scoring.yaml` repeats group id 3, so Petlja scores tests 2–8 as two groups (30 and 40 points) that each need all seven (as at the contest) | — |
 | 2022-23 | Kvalifikacije 1 | 8 | [Dopuna mejlova](takprog-2022-23/01_KV1/8_razred/05_dopuna_mejlova) | standard | 0.45 s | 64 MB | 11 | default | — | — |
 
 ## Summary
