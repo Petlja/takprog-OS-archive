@@ -279,6 +279,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | JSIO | — | [Graf od klika](takprog-2023-24/06_JSIO/04_graf_od_klika) | standard | 2.5 s | 512 MB | 60 | default | — | — |
 | 2023-24 | Izborno | — | [Najbolji zbir](takprog-2023-24/07_IZBORNO/01_najbolji_zbir) | standard | 1 s | 64 MB | 28 | default | — | — |
 | 2023-24 | Izborno | — | [Četiri delioca](takprog-2023-24/07_IZBORNO/02_cetiri_delioca) | standard | 1 s | 128 MB | 27 | default | — | — |
+| 2023-24 | Izborno | — | [Slojevi tačaka u ravni](takprog-2023-24/07_IZBORNO/03_slojevi) | standard | 1.5 s | 64 MB | 10 | default | — | — |
 
 ## Summary
 
