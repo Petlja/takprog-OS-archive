@@ -214,6 +214,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Kvalifikacije 1 | 7 | [WiFi snaga](takprog-2023-24/01_KV1/7_razred/05_wifi_snaga) | standard | 0.15 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 7 | [Najveći NZD](takprog-2023-24/01_KV1/7_razred/06_max_nzd) | standard | 0.25 s | 64 MB | 14 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 8 | [Nedostajuća stranica četvorougla](takprog-2023-24/01_KV1/8_razred/01_nedostajuca_stranica_cetvorougla) | standard | 0.2 s | 64 MB | 13 | default | — | — |
+| 2023-24 | Kvalifikacije 1 | 8 | [Eksel](takprog-2023-24/01_KV1/8_razred/02_eksel) | standard | 0.1 s | 64 MB | 13 | default | Example 2's input is written with a Cyrillic А (`АC`); test 2 is `AC` | — |
 | 2023-24 | Kvalifikacije 1 | 8 | [WiFi snaga](takprog-2023-24/01_KV1/8_razred/05_wifi_snaga) | standard | 0.15 s | 64 MB | 12 | default | — | — |
 
 ## Summary
