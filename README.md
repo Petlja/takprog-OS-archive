@@ -324,6 +324,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Kvalifikacije 3 | 6 | [Vrhovi](takprog-2022-23/03_KV3/6_razred/04_vrhovi) | standard | 0.1 s | 16 MB | 13 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 6 | [Klase cifara](takprog-2022-23/03_KV3/6_razred/05_po_tri_cifre) | standard | 0.1 s | 16 MB | 13 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 6 | [Dijagonale](takprog-2022-23/03_KV3/6_razred/06_dijagonale) | standard | 0.2 s | 16 MB | 13 | default | — | — |
+| 2022-23 | Kvalifikacije 3 | 7 | [Dodavanje cifre stotina](takprog-2022-23/03_KV3/7_razred/01_dodata_cifra_stotina) | standard | 0.1 s | 16 MB | 13 | default | `scoring.yaml` repeats group id 4, so Petlja scores tests 4–13 as five 20-point groups that each need all ten (as at the contest; the ids were made distinct on Petlja afterwards) | — |
 | 2022-23 | Kvalifikacije 3 | 7 | [Rezultat u teniskom gemu](takprog-2022-23/03_KV3/7_razred/02_teniski_rezultat_gem) | standard | 0.1 s | 16 MB | 14 | default | — | — |
 
 ## Summary
