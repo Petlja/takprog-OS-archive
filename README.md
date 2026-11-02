@@ -194,6 +194,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Izborni ciklus, 1. nivo | — | [Banane](takprog-2024-25/04_PRVI_KRUG_IZBORNOG/02_banane) | standard | 0.5 s | 64 MB | 12 | default | — | — |
 | 2024-25 | Izborni ciklus, 1. nivo | — | [Raspored kuća](takprog-2024-25/04_PRVI_KRUG_IZBORNOG/03_raspored_kuca) | standard | 1 s | 64 MB | 16 | default | — | — |
 | 2024-25 | Izborni ciklus, 1. nivo | — | [Kutije i žice](takprog-2024-25/04_PRVI_KRUG_IZBORNOG/04_kutije_i_zice) | standard | 1 s | 256 MB | 22 | default | — | — |
+| 2024-25 | Izborni ciklus, 2. nivo, 1. dan | — | [Maksimalna suma ograničenog podniza](takprog-2024-25/05_PRVI_DAN_IZB/01_maksimalna_suma_ogranicenog_podniza) | standard | 0.5 s | 256 MB | 18 | default | — | — |
 
 ## Summary
 
