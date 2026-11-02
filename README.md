@@ -343,6 +343,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Okružno | 7 | [Milioner](takprog-2022-23/04_OKRUZNO/7_razred/01_milioner) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2022-23 | Okružno | 7 | [Dve slike na papiru](takprog-2022-23/04_OKRUZNO/7_razred/02_dve_slike_na_papiru) | standard | 0.1 s | 16 MB | 33 | default | — | — |
 | 2022-23 | Okružno | 7 | [Proizvod bez trenutnog broja](takprog-2022-23/04_OKRUZNO/7_razred/03_proizvod_bez_trenutnog) | standard | 0.1 s | 16 MB | 12 | default | — | — |
+| 2022-23 | Okružno | 7 | [K najbližih](takprog-2022-23/04_OKRUZNO/7_razred/04_k_najblizih) | standard | 0.5 s | 64 MB | 13 | default | — | — |
 
 ## Summary
 
