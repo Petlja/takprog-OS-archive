@@ -2,15 +2,17 @@
 
 Tasks from the Serbian primary-school programming competitions (Takprog for primary school), restored from Petlja
 and checked, for the competition archive. Each task has everything needed to set it again: statement with examples,
-testcases, checker, scoring, and time and memory limits. The tasks' authors are named at the top of each statement.
+testcases, checker, scoring, and time and memory limits. Where the commission's collection names a task's authors,
+they are named at the top of its statement.
 
 ## Layout
 
 Paths follow the competitions: `takprog-{season}/{round}/{grade}/{nn}_{task}/`. Most rounds are held as one
 competition per grade (`6_razred` is the sixth grade and younger, then `7_razred` and `8_razred`), and `nn` is the
 task's place in that competition. Each grade folder is the whole competition: a task that was set in several grades
-is copied into each of them. Rounds held as one competition for everyone (the qualifying round for infO(1)Cup and
-IATI, JSIO, Izborno) have no grade folder.
+is copied into each of them. Rounds held as one competition for everyone (the selection rounds for international
+competitions: for infO(1)Cup and IATI, JSIO, Izborno, and in 2024-25 the two levels of the selection cycle) have no
+grade folder.
 
 | File | What |
 |---|---|
@@ -33,10 +35,13 @@ later for the bulletin of solutions. Where the two differ in more than wording (
 contest's version is kept, because the tests and scoring match it.
 
 Before a task is added, solutions are run against the chosen testcases in a copy of Petlja's grader: the commission's
-main C++ solution, which must pass every test, and two C++ solutions submitted at the contest, which must get the
-verdict the contest recorded on every test. Anything missing or not working is listed in the table below.
+main C++ solution, which must pass every test (where the collection has a working one), and two C++ solutions
+submitted at the contest, which must get the verdict the contest recorded on every test. Anything missing or not
+working is listed in the table below.
 
-From 2025-26 on, every contest ran on Petlja's Linux grader, the one these tasks were checked on.
+From the 2024-25 selection cycle (May 2025) on, the contests ran on Petlja's Linux grader, the one these tasks were
+checked on; the earlier ones ran on a Windows machine with other compilers. In 2024-25 the municipal, district and
+state competitions were not held on Petlja, so that season has only the qualifying and selection rounds.
 
 ## Limits
 
@@ -45,8 +50,9 @@ From 2025-26 on, every contest ran on Petlja's Linux grader, the one these tasks
 - **Where they were checked:** Petlja's grader as of 2026. That's Linux on an Intel Xeon Platinum 8272CL at
   2.6 GHz. C++ is compiled with g++ 14.2,
   `-std=gnu++17 -O2 -static`; Python is 3.13.
-- The limits are the ones set for the competition. Every task's solutions were re-run on today's grader and pass
-  within the limits, except where the table says otherwise.
+- The limits are the ones set for the competition, on the grader of that time (until May 2025 a Windows machine with
+  other compilers). Every task's solutions were re-run on today's grader and pass within the limits, except where
+  the table says otherwise.
 
 ## Tasks
 
