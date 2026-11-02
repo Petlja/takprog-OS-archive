@@ -318,6 +318,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Kvalifikacije 2 | 8 | [Puž](takprog-2022-23/02_KV2/8_razred/04_puz) | standard | 0.1 s | 64 MB | 14 | default | — | Inputs 3–8 end with a stray NUL character after the name, so the name is never found and the expected answer is −1; Petlja's tests were corrected the day after the contest, which wasn't graded again |
 | 2022-23 | Kvalifikacije 2 | 8 | [Tačan izraz](takprog-2022-23/02_KV2/8_razred/05_tacan_izraz) | standard | 0.1 s | 64 MB | 14 | `checker.cpp` (custom) | — | — |
 | 2022-23 | Kvalifikacije 2 | 8 | [Najmanji dobitak](takprog-2022-23/02_KV2/8_razred/06_najmanji_dobitak) | standard | 0.4 s | 64 MB | 20 | default | — | — |
+| 2022-23 | Kvalifikacije 3 | 6 | [AM/PM](takprog-2022-23/03_KV3/6_razred/01_am_pm) | standard | 0.1 s | 16 MB | 14 | default | — | — |
 
 ## Summary
 
