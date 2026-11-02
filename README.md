@@ -166,6 +166,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Kvalifikacije 1 | 8 | [Broj jakih lozinki](takprog-2024-25/01_KV1/8_razred/03_broj_jakih_lozinki) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 8 | [Čudna osmosmerka](takprog-2024-25/01_KV1/8_razred/04_cudna_osmosmerka) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 8 | [Najduži podniz sa 3 parna broja](takprog-2024-25/01_KV1/8_razred/05_najduzi_podniz_max_3_parna) | standard | 0.75 s | 64 MB | 53 | default | — | — |
+| 2024-25 | Kvalifikacije 1 | 8 | [Astronom](takprog-2024-25/01_KV1/8_razred/06_astronom) | standard | 2.5 s | 64 MB | 17 | default | — | — |
 
 ## Summary
 
