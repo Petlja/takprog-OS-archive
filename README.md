@@ -197,6 +197,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Izborni ciklus, 2. nivo, 1. dan | — | [Maksimalna suma ograničenog podniza](takprog-2024-25/05_PRVI_DAN_IZB/01_maksimalna_suma_ogranicenog_podniza) | standard | 0.5 s | 256 MB | 18 | default | — | — |
 | 2024-25 | Izborni ciklus, 2. nivo, 1. dan | — | [Grafovski savez](takprog-2024-25/05_PRVI_DAN_IZB/02_grafovski_savez) | standard | 2 s | 256 MB | 31 | default | — | — |
 | 2024-25 | Izborni ciklus, 2. nivo, 1. dan | — | [Do nule](takprog-2024-25/05_PRVI_DAN_IZB/03_do_nule) | standard | 1 s | 256 MB | 26 | default | — | — |
+| 2024-25 | Izborni ciklus, 2. nivo, 2. dan | — | [Saberi pomnoži](takprog-2024-25/06_DRUGI_DAN_IZB/01_saberi_pomnozi) | standard | 1.5 s | 256 MB | 44 | default | — | — |
 
 ## Summary
 
