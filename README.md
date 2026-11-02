@@ -303,6 +303,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Kvalifikacije 2 | 6 | [Šljive](takprog-2022-23/02_KV2/6_razred/01_sljive) | standard | 0.1 s | 64 MB | 13 | default | — | — |
 | 2022-23 | Kvalifikacije 2 | 6 | [Flaše](takprog-2022-23/02_KV2/6_razred/02_pakovanje_soka_u_flase) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 | 2022-23 | Kvalifikacije 2 | 6 | [Katanac](takprog-2022-23/02_KV2/6_razred/03_katanac) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2022-23 | Kvalifikacije 2 | 6 | [Fudbalska grupa - tabela](takprog-2022-23/02_KV2/6_razred/04_fudbalska_grupa_tabela) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2022-23 | Kvalifikacije 2 | 7 | [Katanac](takprog-2022-23/02_KV2/7_razred/02_katanac) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 
 ## Summary
