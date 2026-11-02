@@ -283,6 +283,8 @@ Please check the tasks against your own copies too.
 | 2023-24 | Izborno | — | [Slojevi tačaka u ravni](takprog-2023-24/07_IZBORNO/03_slojevi) | standard | 1.5 s | 64 MB | 10 | default | — | — |
 | 2023-24 | Izborno | — | [Mešalica](takprog-2023-24/07_IZBORNO/04_mesalica) | standard | 2 s | 128 MB | 72 | default | — | — |
 | 2022-23 | Kvalifikacije 1 | 6 | [Kviz](takprog-2022-23/01_KV1/6_razred/01_kviz) | standard | 0.15 s | 64 MB | 12 | default | — | — |
+| 2022-23 | Kvalifikacije 1 | 6 | [Gorivo](takprog-2022-23/01_KV1/6_razred/02_gorivo) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2022-23 | Kvalifikacije 1 | 7 | [Gorivo](takprog-2022-23/01_KV1/7_razred/01_gorivo) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
