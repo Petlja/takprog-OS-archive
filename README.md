@@ -332,6 +332,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Kvalifikacije 3 | 7 | [Što sličnija trojka](takprog-2022-23/03_KV3/7_razred/06_sto_slicnija_trojka) | standard | 0.5 s | 64 MB | 12 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 8 | [Ko prvi igra?](takprog-2022-23/03_KV3/8_razred/01_ko_prvi_igra) | standard | 0.1 s | 16 MB | 15 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 8 | [Poslednja štanglica](takprog-2022-23/03_KV3/8_razred/02_poslednja_stanglica) | standard | 0.1 s | 16 MB | 24 | default | — | — |
+| 2022-23 | Kvalifikacije 3 | 8 | [Kontrolna cifra](takprog-2022-23/03_KV3/8_razred/03_kontrolna_cifra) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 8 | [Obrtanja](takprog-2022-23/03_KV3/8_razred/04_obrtanja) | standard | 0.2 s | 16 MB | 17 | default | — | — |
 
 ## Summary
