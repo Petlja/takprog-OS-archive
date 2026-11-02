@@ -276,6 +276,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | JSIO | — | [Neodgovoran student](takprog-2023-24/06_JSIO/01_neodgovoran_student) | standard | 0.5 s | 64 MB | 22 | default | — | — |
 | 2023-24 | JSIO | — | [Najbolja zamena](takprog-2023-24/06_JSIO/02_najbolja_zamena) | standard | 0.5 s | 128 MB | 17 | default | — | — |
 | 2023-24 | JSIO | — | [Pogađanje nepoznatog broja](takprog-2023-24/06_JSIO/03_pogadjanje_nepoznatog_broja) | standard | 1 s | 512 MB | 31 | default | — | — |
+| 2023-24 | JSIO | — | [Graf od klika](takprog-2023-24/06_JSIO/04_graf_od_klika) | standard | 2.5 s | 512 MB | 60 | default | — | — |
 
 ## Summary
 
