@@ -308,7 +308,9 @@ Please check the tasks against your own copies too.
 | 2022-23 | Kvalifikacije 2 | 6 | [Doline](takprog-2022-23/02_KV2/6_razred/06_doline) | standard | 1 s | 64 MB | 13 | default | — | — |
 | 2022-23 | Kvalifikacije 2 | 7 | [Poslednji meč](takprog-2022-23/02_KV2/7_razred/01_poslednji_mec) | standard | 0.1 s | 64 MB | 33 | default | — | — |
 | 2022-23 | Kvalifikacije 2 | 7 | [Katanac](takprog-2022-23/02_KV2/7_razred/02_katanac) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2022-23 | Kvalifikacije 2 | 7 | [Raspon krila](takprog-2022-23/02_KV2/7_razred/03_raspon_krila) | standard | 0.1 s | 64 MB | 22 | default | — | — |
 | 2022-23 | Kvalifikacije 2 | 8 | [Poslednji meč](takprog-2022-23/02_KV2/8_razred/01_poslednji_mec) | standard | 0.1 s | 64 MB | 33 | default | — | — |
+| 2022-23 | Kvalifikacije 2 | 8 | [Raspon krila](takprog-2022-23/02_KV2/8_razred/02_raspon_krila) | standard | 0.1 s | 64 MB | 22 | default | — | — |
 
 ## Summary
 
