@@ -206,6 +206,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Kvalifikacije 1 | 6 | [Promena škole](takprog-2023-24/01_KV1/6_razred/03_promena_skole) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 6 | [Nabrajanje](takprog-2023-24/01_KV1/6_razred/04_nabrajanje) | standard | 0.2 s | 64 MB | 13 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 6 | [Top](takprog-2023-24/01_KV1/6_razred/05_top) | standard | 1 s | 64 MB | 11 | default | — | — |
+| 2023-24 | Kvalifikacije 1 | 6 | [Mica štucalica](takprog-2023-24/01_KV1/6_razred/06_mica_stucalica) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 7 | [Promena škole](takprog-2023-24/01_KV1/7_razred/03_promena_skole) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 
 ## Summary
