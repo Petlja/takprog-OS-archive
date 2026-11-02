@@ -338,6 +338,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Kvalifikacije 3 | 8 | [Seča stabala](takprog-2022-23/03_KV3/8_razred/06_seca_stabala) | standard | 2 s | 64 MB | 22 | default | — | — |
 | 2022-23 | Okružno | 6 | [Slobodna bacanja](takprog-2022-23/04_OKRUZNO/6_razred/01_slobodna_bacanja) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 | 2022-23 | Okružno | 6 | [Merenje sa tri tega](takprog-2022-23/04_OKRUZNO/6_razred/02_merenje_sa_tri_tega) | standard | 0.2 s | 64 MB | 22 | default | — | — |
+| 2022-23 | Okružno | 6 | [Klub](takprog-2022-23/04_OKRUZNO/6_razred/03_klub) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
