@@ -365,6 +365,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | SIO | — | [Broj cifara iza zareza](takprog-2022-23/06_SIO/03_broj_cifara_iza_zareza) | standard | 0.5 s | 64 MB | 24 | default | — | — |
 | 2022-23 | SIO | — | [Rušenje mostova](takprog-2022-23/06_SIO/04_rusenje_mostova) | standard | 1 s | 64 MB | 13 | default | — | — |
 | 2022-23 | Izborno | — | [Flip](takprog-2022-23/07_IZBORNO/01_flip) | standard | 1 s | 64 MB | 22 | default | — | — |
+| 2022-23 | Izborno | — | [Podniske nesusednih elemenata](takprog-2022-23/07_IZBORNO/02_podniske_nesusednih_elemenata) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 
 ## Summary
 
