@@ -254,6 +254,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Okružno | 6 | [Popravka stepeništa](takprog-2023-24/04_OKRUZNO/6_razred/03_popravka_stepenista) | standard | 0.15 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Okružno | 6 | [Zameni najveću cifru](takprog-2023-24/04_OKRUZNO/6_razred/04_zameni_najvecu_cifru) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 | 2023-24 | Okružno | 7 | [Čudno putovanje](takprog-2023-24/04_OKRUZNO/7_razred/01_putovanje) | standard | 0.1 s | 64 MB | 13 | default | — | — |
+| 2023-24 | Okružno | 7 | [Proizvod prostih cifara](takprog-2023-24/04_OKRUZNO/7_razred/02_proizvod_prostih) | standard | 0.1 s | 64 MB | 13 | default | — | — |
 
 ## Summary
 
