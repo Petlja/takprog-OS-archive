@@ -202,6 +202,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Izborni ciklus, 2. nivo, 2. dan | — | [Majstor Bob](takprog-2024-25/06_DRUGI_DAN_IZB/02_majstor_bob) | standard | 1 s | 256 MB | 27 | default | — | — |
 | 2024-25 | Izborni ciklus, 2. nivo, 2. dan | — | [Svi prosti](takprog-2024-25/06_DRUGI_DAN_IZB/03_svi_prosti) | standard | 1 s | 256 MB | 21 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 6 | [Preklapanje cifara](takprog-2023-24/01_KV1/6_razred/01_cifre_se_preklapaju) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2023-24 | Kvalifikacije 1 | 6 | [Najveća prednost domaćih](takprog-2023-24/01_KV1/6_razred/02_najveca_prednost_domacih) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
