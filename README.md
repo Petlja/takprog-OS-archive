@@ -186,6 +186,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Kvalifikacije 2 | 8 | [Palindromski upiti](takprog-2024-25/02_KV2/8_razred/05_palindromski_upiti) | standard | 0.5 s | 64 MB | 11 | default | — | — |
 | 2024-25 | Kvalifikacije 2 | 8 | [Pakovanje kutija](takprog-2024-25/02_KV2/8_razred/06_pakovanje_kutija) | standard | 1 s | 256 MB | 23 | default | — | — |
 | 2024-25 | Izborno (infO(1)Cup) | — | [Operacija](takprog-2024-25/03_INFOCUPIZB/01_operacija) | standard | 0.5 s | 64 MB | 41 | default | — | — |
+| 2024-25 | Izborno (infO(1)Cup) | — | [Ciglice](takprog-2024-25/03_INFOCUPIZB/02_ciglice) | standard | 2.5 s | 64 MB | 41 | default | — | — |
 
 ## Summary
 
