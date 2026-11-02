@@ -219,6 +219,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Kvalifikacije 1 | 8 | [Broj segmenata sa proizvodom nula](takprog-2023-24/01_KV1/8_razred/04_broj_segmenata_sa_proizvodom_nula) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 8 | [WiFi snaga](takprog-2023-24/01_KV1/8_razred/05_wifi_snaga) | standard | 0.15 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 8 | [Jedan-dva-tri-četiri](takprog-2023-24/01_KV1/8_razred/06_jedan_dva_tri_cetiri) | standard | 0.2 s | 64 MB | 12 | default | — | — |
+| 2023-24 | Kvalifikacije 2 | 6 | [Zakucavanje](takprog-2023-24/02_KV2/6_razred/01_zakucavanje) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
