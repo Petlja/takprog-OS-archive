@@ -335,6 +335,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Kvalifikacije 3 | 8 | [Kontrolna cifra](takprog-2022-23/03_KV3/8_razred/03_kontrolna_cifra) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 8 | [Obrtanja](takprog-2022-23/03_KV3/8_razred/04_obrtanja) | standard | 0.2 s | 16 MB | 17 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 8 | [Mešalica](takprog-2022-23/03_KV3/8_razred/05_mesalica) | standard | 1 s | 64 MB | 13 | default | — | — |
+| 2022-23 | Kvalifikacije 3 | 8 | [Seča stabala](takprog-2022-23/03_KV3/8_razred/06_seca_stabala) | standard | 2 s | 64 MB | 22 | default | — | — |
 
 ## Summary
 
