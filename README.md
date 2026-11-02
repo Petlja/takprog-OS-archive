@@ -170,6 +170,8 @@ Please check the tasks against your own copies too.
 | 2024-25 | Kvalifikacije 2 | 6 | [Kupovina pribora](takprog-2024-25/02_KV2/6_razred/01_kupovina_pribora) | standard | 1 s | 64 MB | 12 | default | — | — |
 | 2024-25 | Kvalifikacije 2 | 6 | [Pomeranje časovnika](takprog-2024-25/02_KV2/6_razred/02_pomeranje_casovnika) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2024-25 | Kvalifikacije 2 | 6 | [Tri na tri](takprog-2024-25/02_KV2/6_razred/03_tri_na_tri) | standard | 1 s | 64 MB | 23 | default | — | — |
+| 2024-25 | Kvalifikacije 2 | 6 | [Rođendanski poklon](takprog-2024-25/02_KV2/6_razred/04_rodjendanski_poklon) | standard | 0.5 s | 64 MB | 11 | default | — | — |
+| 2024-25 | Kvalifikacije 2 | 7 | [Rođendanski poklon](takprog-2024-25/02_KV2/7_razred/03_rodjendanski_poklon) | standard | 0.5 s | 64 MB | 11 | default | — | — |
 
 ## Summary
 
