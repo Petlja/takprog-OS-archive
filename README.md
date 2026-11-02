@@ -293,6 +293,8 @@ Please check the tasks against your own copies too.
 | 2022-23 | Kvalifikacije 1 | 7 | [Odmeren trening](takprog-2022-23/01_KV1/7_razred/03_odmeren_trening) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2022-23 | Kvalifikacije 1 | 7 | [Slovarica](takprog-2022-23/01_KV1/7_razred/04_slovarica) | standard | 0.2 s | 64 MB | 13 | default | — | — |
 | 2022-23 | Kvalifikacije 1 | 7 | [Ć++](takprog-2022-23/01_KV1/7_razred/05_cpp) | standard | 0.5 s | 64 MB | 12 | default | — | — |
+| 2022-23 | Kvalifikacije 1 | 7 | [Dopuna mejlova](takprog-2022-23/01_KV1/7_razred/06_dopuna_mejlova) | standard | 0.45 s | 64 MB | 11 | default | — | — |
+| 2022-23 | Kvalifikacije 1 | 8 | [Dopuna mejlova](takprog-2022-23/01_KV1/8_razred/05_dopuna_mejlova) | standard | 0.45 s | 64 MB | 11 | default | — | — |
 
 ## Summary
 
