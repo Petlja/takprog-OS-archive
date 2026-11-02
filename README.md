@@ -26,8 +26,9 @@ grade folder.
 
 **Tests, limits, checker and scoring come from the competition on Petlja**, as the contest ran. They are taken byte
 for byte from the problem's test version that was live on the contest date, with any tests uploaded separately before
-the contest ended. Where the commission corrected a test during a contest and graded every submission again, the set
-is the corrected one.
+the contest ended. Where the commission corrected tests during or after a contest and graded every submission again,
+the set is the corrected one. Where a test or a limit changed during a contest without that, the archive has what the
+contest ended with.
 
 **The statement is the one Petlja showed at the contest**, in Cyrillic, as the commission wrote it in Markdown. The
 author line at the top comes from the commission's collection (`takprog-osnovci`), where the statements were edited
@@ -200,6 +201,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Izborni ciklus, 2. nivo, 2. dan | — | [Saberi pomnoži](takprog-2024-25/06_DRUGI_DAN_IZB/01_saberi_pomnozi) | standard | 1.5 s | 256 MB | 44 | default | — | — |
 | 2024-25 | Izborni ciklus, 2. nivo, 2. dan | — | [Majstor Bob](takprog-2024-25/06_DRUGI_DAN_IZB/02_majstor_bob) | standard | 1 s | 256 MB | 27 | default | — | — |
 | 2024-25 | Izborni ciklus, 2. nivo, 2. dan | — | [Svi prosti](takprog-2024-25/06_DRUGI_DAN_IZB/03_svi_prosti) | standard | 1 s | 256 MB | 21 | default | — | — |
+| 2023-24 | Kvalifikacije 1 | 6 | [Preklapanje cifara](takprog-2023-24/01_KV1/6_razred/01_cifre_se_preklapaju) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
