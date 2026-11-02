@@ -268,6 +268,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Državno | 7 | [Teške torbe](takprog-2023-24/05_DRZAVNO/7_razred/01_teske_torbe) | standard | 0.15 s | 64 MB | 13 | default | — | — |
 | 2023-24 | Državno | 7 | [Kvantna zavrzlama](takprog-2023-24/05_DRZAVNO/7_razred/02_kvantna_zavrzlama) | standard | 1 s | 64 MB | 15 | default | — | — |
 | 2023-24 | Državno | 7 | [Patikarnica](takprog-2023-24/05_DRZAVNO/7_razred/03_patikarnica) | standard | 2 s | 64 MB | 11 | default | — | — |
+| 2023-24 | Državno | 7 | [Rotiranje reči](takprog-2023-24/05_DRZAVNO/7_razred/04_rotiranje_reci) | standard | 0.5 s | 64 MB | 13 | default | — | — |
 
 ## Summary
 
