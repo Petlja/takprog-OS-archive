@@ -237,6 +237,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Kvalifikacije 2 | 8 | [Neparni delioci](takprog-2023-24/02_KV2/8_razred/04_neparni_delioci) | standard | 0.25 s | 64 MB | 14 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 8 | [Najmanje promena](takprog-2023-24/02_KV2/8_razred/05_najmanje_promena) | standard | 1 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 8 | [Aljmez](takprog-2023-24/02_KV2/8_razred/06_aljmez) | standard | 1 s | 64 MB | 11 | `checker.cpp` (custom) | The statement gives 20 points to the tests where every y is 0; the scoring gives them (tests 6 and 11) 10 | — |
+| 2023-24 | Opštinsko | 6 | [Dani u nedelji](takprog-2023-24/03_OPSTINSKO/6_razred/01_dani_u_nedelji) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
