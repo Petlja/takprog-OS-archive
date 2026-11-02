@@ -210,6 +210,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Kvalifikacije 1 | 7 | [Pogrešna operacija](takprog-2023-24/01_KV1/7_razred/01_pogresna_operacija) | standard | 0.2 s | 64 MB | 11 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 7 | [Razvrstavanje](takprog-2023-24/01_KV1/7_razred/02_razvrstavanje) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 7 | [Promena škole](takprog-2023-24/01_KV1/7_razred/03_promena_skole) | standard | 0.2 s | 64 MB | 12 | default | — | — |
+| 2023-24 | Kvalifikacije 1 | 7 | [Najdalji najbliži](takprog-2023-24/01_KV1/7_razred/04_najdalji_najblizi) | standard | 0.2 s | 64 MB | 17 | default | — | — |
 
 ## Summary
 
