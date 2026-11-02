@@ -231,6 +231,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Kvalifikacije 2 | 7 | [Dorćol open](takprog-2023-24/02_KV2/7_razred/04_dorcol_open) | standard | 1.3 s | 64 MB | 12 | `checker.cpp` (custom) | — | — |
 | 2023-24 | Kvalifikacije 2 | 7 | [Neparni delioci](takprog-2023-24/02_KV2/7_razred/05_neparni_delioci) | standard | 0.25 s | 64 MB | 14 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 7 | [Šibice](takprog-2023-24/02_KV2/7_razred/06_sibice) | standard | 0.25 s | 16 MB | 23 | default | — | — |
+| 2023-24 | Kvalifikacije 2 | 8 | [Bioskop](takprog-2023-24/02_KV2/8_razred/01_bioskop) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 8 | [Neravnoteža](takprog-2023-24/02_KV2/8_razred/02_neravnoteza) | standard | 0.2 s | 64 MB | 17 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 8 | [Neparni delioci](takprog-2023-24/02_KV2/8_razred/04_neparni_delioci) | standard | 0.25 s | 64 MB | 14 | default | — | — |
 
