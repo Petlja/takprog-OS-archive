@@ -225,6 +225,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Kvalifikacije 2 | 6 | [Gorivo](takprog-2023-24/02_KV2/6_razred/04_gorivo) | standard | 0.099 s | 64 MB | 13 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 6 | [Prva i poslednja cifra](takprog-2023-24/02_KV2/6_razred/05_prva_i_poslednja_cifra) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 6 | [Najgušći podskup](takprog-2023-24/02_KV2/6_razred/06_najgusci_podskup) | standard | 0.5 s | 64 MB | 12 | default | — | — |
+| 2023-24 | Kvalifikacije 2 | 7 | [Mesec rođenja](takprog-2023-24/02_KV2/7_razred/01_mesec_rodjenja) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
