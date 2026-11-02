@@ -158,6 +158,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Kvalifikacije 1 | 7 | [Taksi promo-kôd](takprog-2024-25/01_KV1/7_razred/01_taksi_promo_kod) | standard | 0.1 s | 64 MB | 5 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 7 | [Broj suglasnika](takprog-2024-25/01_KV1/7_razred/02_broj_suglasnika) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 7 | [Presek intervala](takprog-2024-25/01_KV1/7_razred/03_presek_intervala) | standard | 0.1 s | 64 MB | 13 | default | Example 2 shows `5 202`; test 2 is `5 2024` (same answer) | Tests 2 and 12 have numbers up to 2061, above the statement's bound of 1000 |
+| 2024-25 | Kvalifikacije 1 | 7 | [Programski jezici](takprog-2024-25/01_KV1/7_razred/04_programski_jezici) | standard | 0.5 s | 64 MB | 11 | default | — | — |
 
 ## Summary
 
