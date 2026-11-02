@@ -359,6 +359,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Državno | 8 | [Odbijanje](takprog-2022-23/05_DRZAVNO/8_razred/01_odbijanje) | standard | 1 s | 64 MB | 52 | default | — | — |
 | 2022-23 | Državno | 8 | [Jamb](takprog-2022-23/05_DRZAVNO/8_razred/02_jamb) | standard | 0.1 s | 16 MB | 35 | default | — | — |
 | 2022-23 | Državno | 8 | [Dvobojna ogrlica](takprog-2022-23/05_DRZAVNO/8_razred/03_dvobojna_ogrlica) | standard | 0.2 s | 64 MB | 12 | default | — | — |
+| 2022-23 | Državno | 8 | [Sva kretanja rezultata](takprog-2022-23/05_DRZAVNO/8_razred/04_sva_kretanja_rezultata) | standard | 0.2 s | 64 MB | 13 | default | — | — |
 
 ## Summary
 
