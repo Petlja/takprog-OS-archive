@@ -328,6 +328,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Kvalifikacije 3 | 7 | [Rezultat u teniskom gemu](takprog-2022-23/03_KV3/7_razred/02_teniski_rezultat_gem) | standard | 0.1 s | 16 MB | 14 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 7 | [Poslednja štanglica](takprog-2022-23/03_KV3/7_razred/03_poslednja_stanglica) | standard | 0.1 s | 16 MB | 24 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 7 | [Obrtanja](takprog-2022-23/03_KV3/7_razred/04_obrtanja) | standard | 0.2 s | 16 MB | 17 | default | — | — |
+| 2022-23 | Kvalifikacije 3 | 7 | [Seča drva](takprog-2022-23/03_KV3/7_razred/05_seca_drva) | standard | 1.7 s | 64 MB | 15 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 8 | [Poslednja štanglica](takprog-2022-23/03_KV3/8_razred/02_poslednja_stanglica) | standard | 0.1 s | 16 MB | 24 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 8 | [Obrtanja](takprog-2022-23/03_KV3/8_razred/04_obrtanja) | standard | 0.2 s | 16 MB | 17 | default | — | — |
 
