@@ -223,6 +223,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Kvalifikacije 2 | 6 | [Nepoznat broj](takprog-2023-24/02_KV2/6_razred/02_nepoznati_broj) | standard | 0.1 s | 16 MB | 23 | default | `scoring.yaml` repeats group id 12, so Petlja scores tests 11, 12, 15 and 16 as two 10-point groups that each need all four (as at the contest) | — |
 | 2023-24 | Kvalifikacije 2 | 6 | [Ski karta](takprog-2023-24/02_KV2/6_razred/03_ski_pas) | standard | 0.1 s | 64 MB | 15 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 6 | [Gorivo](takprog-2023-24/02_KV2/6_razred/04_gorivo) | standard | 0.099 s | 64 MB | 13 | default | — | — |
+| 2023-24 | Kvalifikacije 2 | 6 | [Prva i poslednja cifra](takprog-2023-24/02_KV2/6_razred/05_prva_i_poslednja_cifra) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 
 ## Summary
 
