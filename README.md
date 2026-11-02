@@ -155,6 +155,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Kvalifikacije 1 | 6 | [Najuspešnija partija](takprog-2024-25/01_KV1/6_razred/04_najuspesnija_partija) | standard | 0.2 s | 64 MB | 11 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 6 | [Imena prezimena](takprog-2024-25/01_KV1/6_razred/05_imena_prezimena) | standard | 0.2 s | 64 MB | 12 | `checker.cpp` (custom) | — | — |
 | 2024-25 | Kvalifikacije 1 | 6 | [Kupovina skija](takprog-2024-25/01_KV1/6_razred/06_kupovina_skija) | standard | 0.15 s | 64 MB | 12 | default | — | — |
+| 2024-25 | Kvalifikacije 1 | 7 | [Taksi promo-kôd](takprog-2024-25/01_KV1/7_razred/01_taksi_promo_kod) | standard | 0.1 s | 64 MB | 5 | default | — | — |
 
 ## Summary
 
