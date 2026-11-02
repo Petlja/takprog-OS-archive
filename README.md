@@ -367,6 +367,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Izborno | — | [Flip](takprog-2022-23/07_IZBORNO/01_flip) | standard | 1 s | 64 MB | 22 | default | — | — |
 | 2022-23 | Izborno | — | [Podniske nesusednih elemenata](takprog-2022-23/07_IZBORNO/02_podniske_nesusednih_elemenata) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 | 2022-23 | Izborno | — | [Ekskurzija](takprog-2022-23/07_IZBORNO/03_ekskurzija) | standard | 1 s | 64 MB | 22 | default | — | — |
+| 2022-23 | Izborno | — | [Antena](takprog-2022-23/07_IZBORNO/04_antena) | standard | 1 s | 64 MB | 39 | default | — | — |
 
 ## Summary
 
@@ -394,3 +395,13 @@ problem, all in the statement or the scoring:
 [Eksel](takprog-2023-24/01_KV1/8_razred/02_eksel)'s example 2 has a Cyrillic letter in its input,
 [Aljmez](takprog-2023-24/02_KV2/8_razred/06_aljmez)'s statement promises other points than the scoring gives, and
 [Nepoznat broj](takprog-2023-24/02_KV2/6_razred/02_nepoznati_broj)'s scoring repeats a group id.
+
+**2022-23:** all 76 tasks (86 task folders in 17 competitions: the three qualifying rounds, the district and state
+rounds in each grade, SIO and Izborno; there was no municipal round that season) have their statement, pictures,
+limits, scoring and checker (one custom one, the rest default). The commission's main solution passes every test in
+all 76, and solutions submitted at each contest get the verdict the contest recorded on every test. Three tasks have
+a known problem: inputs 3–8 of [Puž](takprog-2022-23/02_KV2/8_razred/04_puz) end with a stray character, so their
+expected answer is −1 (corrected on Petlja after the contest, which wasn't graded again), and the scoring of
+[Datum sa najvećom zaradom](takprog-2022-23/01_KV1/8_razred/04_datum_sa_najvecom_zaradom) and
+[Dodavanje cifre stotina](takprog-2022-23/03_KV3/7_razred/01_dodata_cifra_stotina) repeats a group id, as the
+contest's did.
