@@ -227,6 +227,8 @@ Please check the tasks against your own copies too.
 | 2023-24 | Kvalifikacije 2 | 6 | [Najgušći podskup](takprog-2023-24/02_KV2/6_razred/06_najgusci_podskup) | standard | 0.5 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 7 | [Mesec rođenja](takprog-2023-24/02_KV2/7_razred/01_mesec_rodjenja) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 7 | [Vrabac i mačka](takprog-2023-24/02_KV2/7_razred/02_vrabac_i_macka) | standard | 0.2 s | 64 MB | 14 | default | — | — |
+| 2023-24 | Kvalifikacije 2 | 7 | [Neravnoteža](takprog-2023-24/02_KV2/7_razred/03_neravnoteza) | standard | 0.2 s | 64 MB | 17 | default | — | — |
+| 2023-24 | Kvalifikacije 2 | 8 | [Neravnoteža](takprog-2023-24/02_KV2/8_razred/02_neravnoteza) | standard | 0.2 s | 64 MB | 17 | default | — | — |
 
 ## Summary
 
