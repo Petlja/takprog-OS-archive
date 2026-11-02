@@ -152,6 +152,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Kvalifikacije 1 | 6 | [Srednja brzina](takprog-2024-25/01_KV1/6_razred/01_srednja_brzina) | standard | 0.1 s | 64 MB | 12 | `checker.cpp` (custom) | — | — |
 | 2024-25 | Kvalifikacije 1 | 6 | [Atletičari](takprog-2024-25/01_KV1/6_razred/02_atleticari) | standard | 0.1 s | 64 MB | 13 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 6 | [Gps](takprog-2024-25/01_KV1/6_razred/03_gps) | standard | 0.2 s | 64 MB | 11 | default | — | — |
+| 2024-25 | Kvalifikacije 1 | 6 | [Najuspešnija partija](takprog-2024-25/01_KV1/6_razred/04_najuspesnija_partija) | standard | 0.2 s | 64 MB | 11 | default | — | — |
 
 ## Summary
 
