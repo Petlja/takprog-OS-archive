@@ -259,6 +259,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Okružno | 7 | [Takmičari](takprog-2023-24/04_OKRUZNO/7_razred/04_takmicari) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Okružno | 8 | [Trougao najvećeg obima](takprog-2023-24/04_OKRUZNO/8_razred/01_trougao_najveceg_obima) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 | 2023-24 | Okružno | 8 | [Najbolji učesnici turnira](takprog-2023-24/04_OKRUZNO/8_razred/02_turnir) | standard | 0.15 s | 64 MB | 11 | default | — | — |
+| 2023-24 | Okružno | 8 | [Makazice](takprog-2023-24/04_OKRUZNO/8_razred/03_makazice) | standard | 0.15 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
