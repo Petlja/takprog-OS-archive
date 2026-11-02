@@ -168,6 +168,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Kvalifikacije 1 | 8 | [Najduži podniz sa 3 parna broja](takprog-2024-25/01_KV1/8_razred/05_najduzi_podniz_max_3_parna) | standard | 0.75 s | 64 MB | 53 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 8 | [Astronom](takprog-2024-25/01_KV1/8_razred/06_astronom) | standard | 2.5 s | 64 MB | 17 | default | — | — |
 | 2024-25 | Kvalifikacije 2 | 6 | [Kupovina pribora](takprog-2024-25/02_KV2/6_razred/01_kupovina_pribora) | standard | 1 s | 64 MB | 12 | default | — | — |
+| 2024-25 | Kvalifikacije 2 | 6 | [Pomeranje časovnika](takprog-2024-25/02_KV2/6_razred/02_pomeranje_casovnika) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
