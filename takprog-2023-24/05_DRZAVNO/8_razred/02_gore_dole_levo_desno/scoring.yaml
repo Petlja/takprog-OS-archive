@@ -1,0 +1,28 @@
+type: subtask
+score_total: 100
+groups:
+- id: 1
+  score: 0
+  testcases: [1]
+- id: 2
+  score: 0
+  testcases: [2]
+- id: 3
+  score: 0
+  testcases: [3]
+- id: 4
+  score: 20
+  testcases: [4, 5, 6, 7, 8, 9, 10, 11] # pravougaonik
+- id: 5
+  score: 20
+  testcases: [12, 13, 14, 15, 25] # lazni pravougaonik 1
+- id: 6
+  score: 20
+  testcases: [16, 17, 18, 19, 26] # lazni pravougaonik 2
+- id: 7
+  score: 20
+  testcases: [20, 21, 22, 23, 27] # lazni pravougaonik 3
+- id: 8
+  score: 20
+  testcases: [24, 25, 26, 27, 28, 8] # otvorene konture
+public: [1, 2, 3]

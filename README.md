@@ -270,6 +270,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Državno | 7 | [Patikarnica](takprog-2023-24/05_DRZAVNO/7_razred/03_patikarnica) | standard | 2 s | 64 MB | 11 | default | — | — |
 | 2023-24 | Državno | 7 | [Rotiranje reči](takprog-2023-24/05_DRZAVNO/7_razred/04_rotiranje_reci) | standard | 0.5 s | 64 MB | 13 | default | — | — |
 | 2023-24 | Državno | 8 | [Biciklisti](takprog-2023-24/05_DRZAVNO/8_razred/01_biciklisti) | standard | 0.15 s | 64 MB | 27 | default | — | — |
+| 2023-24 | Državno | 8 | [Gore-dole-levo-desno](takprog-2023-24/05_DRZAVNO/8_razred/02_gore_dole_levo_desno) | standard | 0.15 s | 64 MB | 28 | default | — | — |
 
 ## Summary
 
