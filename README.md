@@ -189,6 +189,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Izborno (infO(1)Cup) | — | [Ciglice](takprog-2024-25/03_INFOCUPIZB/02_ciglice) | standard | 2.5 s | 64 MB | 41 | default | — | — |
 | 2024-25 | Izborno (infO(1)Cup) | — | [Vodoinstalater](takprog-2024-25/03_INFOCUPIZB/03_vodoinstalater) | standard | 3 s | 256 MB | 38 | default | — | — |
 | 2024-25 | Izborno (infO(1)Cup) | — | [Sabiranje, NZD i XOR](takprog-2024-25/03_INFOCUPIZB/04_sabiranje_nzd_i_xor) | standard | 0.5 s | 256 MB | 85 | default | — | — |
+| 2024-25 | Izborno (infO(1)Cup) | — | [Upiti nad stablom](takprog-2024-25/03_INFOCUPIZB/05_upiti_nad_stablom) | standard | 4 s | 512 MB | 57 | default | — | — |
 
 ## Summary
 
