@@ -349,6 +349,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Okružno | 8 | [Potez u tetrisu](takprog-2022-23/04_OKRUZNO/8_razred/03_potez_u_tetrisu) | standard | 0.2 s | 64 MB | 16 | default | — | — |
 | 2022-23 | Okružno | 8 | [Što više sličnih elemenata niza](takprog-2022-23/04_OKRUZNO/8_razred/04_sto_vise_slicnih) | standard | 0.2 s | 16 MB | 12 | default | — | — |
 | 2022-23 | Državno | 6 | [Parno-neparni niz](takprog-2022-23/05_DRZAVNO/6_razred/01_parno_neparni_1) | standard | 0.1 s | 16 MB | 53 | default | — | — |
+| 2022-23 | Državno | 6 | [Odnos susednih](takprog-2022-23/05_DRZAVNO/6_razred/02_odnos_susednih) | standard | 0.1 s | 64 MB | 18 | default | — | — |
 
 ## Summary
 
