@@ -285,6 +285,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Kvalifikacije 1 | 6 | [Kviz](takprog-2022-23/01_KV1/6_razred/01_kviz) | standard | 0.15 s | 64 MB | 12 | default | — | — |
 | 2022-23 | Kvalifikacije 1 | 6 | [Gorivo](takprog-2022-23/01_KV1/6_razred/02_gorivo) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2022-23 | Kvalifikacije 1 | 6 | [Kakuro provera](takprog-2022-23/01_KV1/6_razred/03_kakuro_provera) | standard | 0.1 s | 64 MB | 18 | default | — | — |
+| 2022-23 | Kvalifikacije 1 | 6 | [Spisak proizvoda](takprog-2022-23/01_KV1/6_razred/04_spisak_proizvoda) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2022-23 | Kvalifikacije 1 | 7 | [Gorivo](takprog-2022-23/01_KV1/7_razred/01_gorivo) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2022-23 | Kvalifikacije 1 | 7 | [Kakuro provera](takprog-2022-23/01_KV1/7_razred/02_kakuro_provera) | standard | 0.1 s | 64 MB | 18 | default | — | — |
 
