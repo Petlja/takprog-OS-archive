@@ -240,6 +240,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Opštinsko | 6 | [Dani u nedelji](takprog-2023-24/03_OPSTINSKO/6_razred/01_dani_u_nedelji) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Opštinsko | 6 | [Toplotni pojas](takprog-2023-24/03_OPSTINSKO/6_razred/02_toplotni_pojas) | standard | 0.1 s | 16 MB | 13 | default | — | — |
 | 2023-24 | Opštinsko | 6 | [Dostavljač](takprog-2023-24/03_OPSTINSKO/6_razred/03_dostavljac) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2023-24 | Opštinsko | 6 | [Minimaks](takprog-2023-24/03_OPSTINSKO/6_razred/04_minimax) | standard | 0.1 s | 64 MB | 13 | default | — | — |
 
 ## Summary
 
