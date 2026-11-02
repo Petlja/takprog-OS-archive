@@ -264,6 +264,8 @@ Please check the tasks against your own copies too.
 | 2023-24 | Državno | 6 | [Motivacija](takprog-2023-24/05_DRZAVNO/6_razred/01_motivacija) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Državno | 6 | [Harshad brojevi](takprog-2023-24/05_DRZAVNO/6_razred/02_harshad_brojevi) | standard | 1 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Državno | 6 | [Đavolski kvadrat](takprog-2023-24/05_DRZAVNO/6_razred/03_djavolski_kvadrat) | standard | 2.5 s | 128 MB | 18 | default | — | — |
+| 2023-24 | Državno | 6 | [Patikarnica](takprog-2023-24/05_DRZAVNO/6_razred/04_patikarnica) | standard | 2 s | 64 MB | 11 | default | — | — |
+| 2023-24 | Državno | 7 | [Patikarnica](takprog-2023-24/05_DRZAVNO/7_razred/03_patikarnica) | standard | 2 s | 64 MB | 11 | default | — | — |
 
 ## Summary
 
