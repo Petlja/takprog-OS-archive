@@ -191,6 +191,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Izborno (infO(1)Cup) | — | [Sabiranje, NZD i XOR](takprog-2024-25/03_INFOCUPIZB/04_sabiranje_nzd_i_xor) | standard | 0.5 s | 256 MB | 85 | default | — | — |
 | 2024-25 | Izborno (infO(1)Cup) | — | [Upiti nad stablom](takprog-2024-25/03_INFOCUPIZB/05_upiti_nad_stablom) | standard | 4 s | 512 MB | 57 | default | — | — |
 | 2024-25 | Izborni ciklus, 1. nivo | — | [Ograda](takprog-2024-25/04_PRVI_KRUG_IZBORNOG/01_ograda) | standard | 1 s | 64 MB | 22 | default | — | — |
+| 2024-25 | Izborni ciklus, 1. nivo | — | [Banane](takprog-2024-25/04_PRVI_KRUG_IZBORNOG/02_banane) | standard | 0.5 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
