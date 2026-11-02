@@ -199,11 +199,20 @@ Please check the tasks against your own copies too.
 | 2024-25 | Izborni ciklus, 2. nivo, 1. dan | — | [Do nule](takprog-2024-25/05_PRVI_DAN_IZB/03_do_nule) | standard | 1 s | 256 MB | 26 | default | — | — |
 | 2024-25 | Izborni ciklus, 2. nivo, 2. dan | — | [Saberi pomnoži](takprog-2024-25/06_DRUGI_DAN_IZB/01_saberi_pomnozi) | standard | 1.5 s | 256 MB | 44 | default | — | — |
 | 2024-25 | Izborni ciklus, 2. nivo, 2. dan | — | [Majstor Bob](takprog-2024-25/06_DRUGI_DAN_IZB/02_majstor_bob) | standard | 1 s | 256 MB | 27 | default | — | — |
+| 2024-25 | Izborni ciklus, 2. nivo, 2. dan | — | [Svi prosti](takprog-2024-25/06_DRUGI_DAN_IZB/03_svi_prosti) | standard | 1 s | 256 MB | 21 | default | — | — |
 
 ## Summary
 
-All 72 tasks of 2025-26 (84 task folders in 18 grade competitions) have their statement, pictures, limits, scoring
+**2025-26:** all 72 tasks (84 task folders in 18 grade competitions) have their statement, pictures, limits, scoring
 and checker (two custom ones, the rest default). None has a known problem: the commission's main solutions pass every
 test, and solutions submitted at each contest get the verdict the contest recorded on every test. The one exception is
 test 1 of [Harshad brojevi 2](takprog-2025-26/06_DRZAVNO/7_razred/03_harshad_brojevi_2), a 0-point example: the
 commission corrected it during the contest, but Petlja's grader kept the old one, which every submission failed.
+
+**2024-25:** all 49 tasks (51 task folders in 10 competitions: both qualifying rounds in each grade, the selection for
+infO(1)Cup and the three contests of the selection cycle) have their statement, pictures, limits, scoring and checker
+(four custom ones, the rest default). Solutions submitted at each contest get the verdict the contest recorded on
+every test, and the commission's main solution passes every test in the 44 tasks where the collection has a working
+one (for the other five it is a placeholder or was written for an earlier version of the task). The one known problem
+is [Presek intervala](takprog-2024-25/01_KV1/7_razred/03_presek_intervala) (grades 7 and 8): tests 2 and 12 go beyond
+the statement's bound of 1000.
