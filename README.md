@@ -172,6 +172,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Kvalifikacije 2 | 6 | [Tri na tri](takprog-2024-25/02_KV2/6_razred/03_tri_na_tri) | standard | 1 s | 64 MB | 23 | default | — | — |
 | 2024-25 | Kvalifikacije 2 | 6 | [Rođendanski poklon](takprog-2024-25/02_KV2/6_razred/04_rodjendanski_poklon) | standard | 0.5 s | 64 MB | 11 | default | — | — |
 | 2024-25 | Kvalifikacije 2 | 6 | [Učešljavanje automobila](takprog-2024-25/02_KV2/6_razred/05_ucesljavanje_automobila) | standard | 0.2 s | 64 MB | 12 | default | — | — |
+| 2024-25 | Kvalifikacije 2 | 6 | [Plasman](takprog-2024-25/02_KV2/6_razred/06_plasman) | standard | 1 s | 64 MB | 11 | `checker.cpp` (custom) | — | — |
 | 2024-25 | Kvalifikacije 2 | 7 | [Rođendanski poklon](takprog-2024-25/02_KV2/7_razred/03_rodjendanski_poklon) | standard | 0.5 s | 64 MB | 11 | default | — | — |
 
 ## Summary
