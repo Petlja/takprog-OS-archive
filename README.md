@@ -177,6 +177,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Kvalifikacije 2 | 7 | [Ziplajn](takprog-2024-25/02_KV2/7_razred/02_zipline) | standard | 0.2 s | 64 MB | 17 | default | — | — |
 | 2024-25 | Kvalifikacije 2 | 7 | [Rođendanski poklon](takprog-2024-25/02_KV2/7_razred/03_rodjendanski_poklon) | standard | 0.5 s | 64 MB | 11 | default | — | — |
 | 2024-25 | Kvalifikacije 2 | 7 | [Plasman](takprog-2024-25/02_KV2/7_razred/04_plasman) | standard | 1 s | 64 MB | 11 | `checker.cpp` (custom) | — | — |
+| 2024-25 | Kvalifikacije 2 | 7 | [Harshad brojevi 3](takprog-2024-25/02_KV2/7_razred/05_harshad_brojevi_3) | standard | 1 s | 64 MB | 11 | default | — | — |
 
 ## Summary
 
