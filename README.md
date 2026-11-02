@@ -280,6 +280,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Izborno | — | [Najbolji zbir](takprog-2023-24/07_IZBORNO/01_najbolji_zbir) | standard | 1 s | 64 MB | 28 | default | — | — |
 | 2023-24 | Izborno | — | [Četiri delioca](takprog-2023-24/07_IZBORNO/02_cetiri_delioca) | standard | 1 s | 128 MB | 27 | default | — | — |
 | 2023-24 | Izborno | — | [Slojevi tačaka u ravni](takprog-2023-24/07_IZBORNO/03_slojevi) | standard | 1.5 s | 64 MB | 10 | default | — | — |
+| 2023-24 | Izborno | — | [Mešalica](takprog-2023-24/07_IZBORNO/04_mesalica) | standard | 2 s | 128 MB | 72 | default | — | — |
 
 ## Summary
 
@@ -296,3 +297,14 @@ every test, and the commission's main solution passes every test in the 44 tasks
 one (for the other five it is a placeholder or was written for an earlier version of the task). The one known problem
 is [Presek intervala](takprog-2024-25/01_KV1/7_razred/03_presek_intervala) (grades 7 and 8): tests 2 and 12 go beyond
 the statement's bound of 1000.
+
+**2023-24:** all 74 tasks (80 task folders in 17 competitions: the qualifying, municipal, district and state rounds in
+each grade, JSIO and Izborno) have their statement, pictures, limits, scoring and checker (two custom ones, the rest
+default). Solutions submitted at each contest get the verdict the contest recorded on every test, and the commission's
+main solution passes every test in the 71 tasks where the collection has a working one (in Promena škole it divides
+integers, in Četiri delioca it solves only the smaller subtasks, and Mešalica is not in the collection). Several tasks
+were corrected right after their contest and graded again; the archive has those sets. Three tasks have a known
+problem, all in the statement or the scoring:
+[Eksel](takprog-2023-24/01_KV1/8_razred/02_eksel)'s example 2 has a Cyrillic letter in its input,
+[Aljmez](takprog-2023-24/02_KV2/8_razred/06_aljmez)'s statement promises other points than the scoring gives, and
+[Nepoznat broj](takprog-2023-24/02_KV2/6_razred/02_nepoznati_broj)'s scoring repeats a group id.
