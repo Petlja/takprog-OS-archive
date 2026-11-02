@@ -184,6 +184,7 @@ Please check the tasks against your own copies too.
 | 2024-25 | Kvalifikacije 2 | 8 | [Učešljavanje automobila](takprog-2024-25/02_KV2/8_razred/03_ucesljavanje_automobila) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2024-25 | Kvalifikacije 2 | 8 | [Avionske karte](takprog-2024-25/02_KV2/8_razred/04_avionske_karte) | standard | 0.5 s | 64 MB | 12 | default | — | — |
 | 2024-25 | Kvalifikacije 2 | 8 | [Palindromski upiti](takprog-2024-25/02_KV2/8_razred/05_palindromski_upiti) | standard | 0.5 s | 64 MB | 11 | default | — | — |
+| 2024-25 | Kvalifikacije 2 | 8 | [Pakovanje kutija](takprog-2024-25/02_KV2/8_razred/06_pakovanje_kutija) | standard | 1 s | 256 MB | 23 | default | — | — |
 
 ## Summary
 
