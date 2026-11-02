@@ -248,6 +248,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Opštinsko | 8 | [Bejzbol](takprog-2023-24/03_OPSTINSKO/8_razred/01_bejzbol_hitac) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 | 2023-24 | Opštinsko | 8 | [Godišnje doba](takprog-2023-24/03_OPSTINSKO/8_razred/02_godisnje_doba) | standard | 0.1 s | 16 MB | 32 | default | — | — |
 | 2023-24 | Opštinsko | 8 | [Odbojkaški rezultat](takprog-2023-24/03_OPSTINSKO/8_razred/03_odbojkaski_rezultat) | standard | 0.1 s | 64 MB | 17 | default | — | — |
+| 2023-24 | Opštinsko | 8 | [Par-nepar u krug](takprog-2023-24/03_OPSTINSKO/8_razred/04_parnepar_u_krug) | standard | 0.5 s | 16 MB | 12 | default | — | — |
 
 ## Summary
 
