@@ -363,6 +363,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | SIO | — | [0-1 matrica](takprog-2022-23/06_SIO/01_matrica_01) | standard | 0.2 s | 128 MB | 12 | default | — | — |
 | 2022-23 | SIO | — | [Uravnotežen podniz](takprog-2022-23/06_SIO/02_uravnotezeni_podnizovi) | standard | 0.1 s | 64 MB | 21 | default | — | — |
 | 2022-23 | SIO | — | [Broj cifara iza zareza](takprog-2022-23/06_SIO/03_broj_cifara_iza_zareza) | standard | 0.5 s | 64 MB | 24 | default | — | — |
+| 2022-23 | SIO | — | [Rušenje mostova](takprog-2022-23/06_SIO/04_rusenje_mostova) | standard | 1 s | 64 MB | 13 | default | — | — |
 
 ## Summary
 
