@@ -13,16 +13,16 @@ groups:
 - id: 4
   score: 20
   testcases: [4, 5]
-- id: 4
+- id: 5
   score: 20
   testcases: [6, 7]
-- id: 4
+- id: 6
   score: 20
   testcases: [8, 9]
-- id: 4
+- id: 7
   score: 20
   testcases: [10, 12]
-- id: 4
+- id: 8
   score: 20
   testcases: [11, 13]
 

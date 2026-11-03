@@ -304,7 +304,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Kvalifikacije 3 | 6 | [Vrhovi](takprog-2022-23/03_KV3/6_razred/04_vrhovi) | standard | 0.1 s | 16 MB | 13 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 6 | [Klase cifara](takprog-2022-23/03_KV3/6_razred/05_po_tri_cifre) | standard | 0.1 s | 16 MB | 13 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 6 | [Dijagonale](takprog-2022-23/03_KV3/6_razred/06_dijagonale) | standard | 0.2 s | 16 MB | 13 | default | — | — |
-| 2022-23 | Kvalifikacije 3 | 7 | [Dodavanje cifre stotina](takprog-2022-23/03_KV3/7_razred/01_dodata_cifra_stotina) | standard | 0.1 s | 16 MB | 13 | default | `scoring.yaml` repeats group id 4, so Petlja scores tests 4–13 as five 20-point groups that each need all ten (as at the contest; the ids were made distinct on Petlja afterwards) | — |
+| 2022-23 | Kvalifikacije 3 | 7 | [Dodavanje cifre stotina](takprog-2022-23/03_KV3/7_razred/01_dodata_cifra_stotina) | standard | 0.1 s | 16 MB | 13 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 7 | [Rezultat u teniskom gemu](takprog-2022-23/03_KV3/7_razred/02_teniski_rezultat_gem) | standard | 0.1 s | 16 MB | 14 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 7 | [Poslednja štanglica](takprog-2022-23/03_KV3/7_razred/03_poslednja_stanglica) | standard | 0.1 s | 16 MB | 24 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 7 | [Obrtanja](takprog-2022-23/03_KV3/7_razred/04_obrtanja) | standard | 0.2 s | 16 MB | 17 | default | — | — |
@@ -691,9 +691,9 @@ Please check the tasks against your own copies too.
 ## Summary
 
 All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on; 13 have
-their own checker, the rest use the default one. **7 tasks have a problem**, listed below.
+their own checker, the rest use the default one. **6 tasks have a problem**, listed below.
 
-**Task problems (6 tasks)**
+**Task problems (5 tasks)**
 
 - **Statement only in English (3):** [Prebroj](takprog-2020-21/01_KV1/5_razred/02_varijacije_sa_ponavljanjem)
   (2020-21, grade 5), [Značajni datumi](takprog-2020-21/01_KV1/5_razred/05_datumi_istorija) (2020-21, grades 5 to 7,
@@ -702,8 +702,6 @@ their own checker, the rest use the default one. **7 tasks have a problem**, lis
 - **Lost pictures (2):** [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) (2017-18),
   [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli) (2018-19; the commission's collection has
   its picture).
-- **Scoring repeats a group id, as at the contest (1):**
-  [Dodavanje cifre stotina](takprog-2022-23/03_KV3/7_razred/01_dodata_cifra_stotina) (2022-23).
 
 **Testcase problems (1 task)**
 
