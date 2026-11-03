@@ -373,7 +373,9 @@ Please check the tasks against your own copies too.
 | 2022-23 | Izborno | — | [Ekskurzija](takprog-2022-23/07_IZBORNO/03_ekskurzija) | standard | 1 s | 64 MB | 22 | default | — | — |
 | 2022-23 | Izborno | — | [Antena](takprog-2022-23/07_IZBORNO/04_antena) | standard | 1 s | 64 MB | 39 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 5 | [Ram](takprog-2021-22/01_KV1/5_razred/01_ram) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2021-22 | Kvalifikacije 1 | 5 | [Povećaj svaku cifru](takprog-2021-22/01_KV1/5_razred/02_povecaj_svaku_cifru) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 6 | [Ram](takprog-2021-22/01_KV1/6_razred/01_ram) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2021-22 | Kvalifikacije 1 | 6 | [Povećaj svaku cifru](takprog-2021-22/01_KV1/6_razred/02_povecaj_svaku_cifru) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
