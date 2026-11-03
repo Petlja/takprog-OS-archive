@@ -1,9 +1,8 @@
 # Takprog archive: primary school
 
-Tasks from the Serbian primary-school programming competitions (Takprog for primary school), restored from Petlja
-and checked, for the competition archive. Each task has everything needed to set it again: statement with examples,
-testcases, checker, scoring, and time and memory limits. Where the commission's collection names a task's authors,
-they are named at the top of its statement.
+Tasks from the Serbian primary-school programming competitions (Takprog for primary school), 2016-17 to 2025-26.
+Each task has everything needed to set it again: statement with examples, testcases, checker, scoring, and time and
+memory limits. Where the commission's collection names a task's authors, they are named at the top of its statement.
 
 ## Layout
 
@@ -14,46 +13,16 @@ grades together is named for both (`5-6_razred`). Each grade folder is the whole
 several grades is copied into each of them. Rounds held as one competition for everyone (the selection rounds for
 international competitions: for infO(1)Cup and IATI, JSIO (SIO until 2022-23), Izborno, and in 2024-25 the two
 levels of the selection cycle) have no grade folder, and neither do the rounds that were one competition for every
-grade (Okružno and SIO from 2016-17 to 2018-19, and Državno 2018-19).
+grade (Okružno and SIO from 2016-17 to 2018-19, and Državno 2018-19). Only rounds held on Petlja are here, so some
+seasons have no municipal round, and 2024-25 has only its qualifying and selection rounds.
 
 | File | What |
 |---|---|
-| `statement.md` | The statement in Markdown, with examples. Its header gives `timelimit` (seconds) and `memlimit` (MB) |
+| `statement.md` | The statement in Markdown, with examples. Its header gives `timelimit` (seconds) and `memlimit` (MB). In Cyrillic, except 2016-17's (Latin script) and three 2020-21 statements that exist only in English (listed below) |
 | `*.png`, `*.jpg` | Pictures the statement shows, if any |
-| `testcases/` | `NN.in` / `NN.out`: the test set the competition actually ran on |
-| `checker.cpp` | The competition's checker, when it had one. Called as `checker <contestant output> <expected output> <input>`. Exit code 0 = accepted, anything else = wrong |
-| `scoring.yaml` | The competition's scoring: points per test or per subtask, and which tests are public |
-
-## How a task gets here
-
-**Tests, limits, checker and scoring come from the competition on Petlja**, as the contest ran. They are taken byte
-for byte from the problem's test version that was live on the contest date, with any tests uploaded separately before
-the contest ended. Where the commission corrected tests during or after a contest and graded every submission again,
-the set is the corrected one. Where a test, a limit or the scoring changed during or after a contest without that,
-the archive has what the contest ended with.
-
-**The statement is the one Petlja showed at the contest**, as the commission wrote it in Markdown (2016-17's in HTML,
-converted here; in Latin script that season, in Cyrillic since). The author line at the top comes from the
-commission's collection (`takprog-osnovci`), where the statements were edited later for the bulletin of solutions.
-Where the two differ in more than wording (an example, a subtask's points), the contest's version is kept, because
-the tests and scoring match it.
-
-Before a task is added, solutions are run against the chosen testcases in a copy of Petlja's grader: the commission's
-main C++ solution, which must pass every test (where the collection has a working one), and two C++ solutions
-submitted at the contest, which must get the verdict the contest recorded on every test. Anything missing or not
-working is listed in the table below.
-
-From the 2024-25 selection cycle (May 2025) on, the contests ran on Petlja's Linux grader, the one these tasks were
-checked on; the earlier ones ran on a Windows machine with other compilers. In 2024-25 the municipal, district and
-state competitions were not held on Petlja, so that season has only the qualifying and selection rounds. From 2020-21
-to 2022-23 there was no municipal round: the qualifying rounds (two in 2020-21, then three) led to the district one.
-Until 2019-20 the municipal round was held in schools, not on Petlja; in 2019-20 the district round was cancelled
-(COVID-19) and an exhibition round (Revijalno) was held online instead. Where the commission set no scoring (2016-17,
-2017-18, Okružno and SIO 2019, Revijalno, Državno and SIO 2020, all of 2020-21) every test was worth one point (SIO
-2017's first tests nothing) and all were visible. Until 2021-22 the state competition was one competition for grades
-5 and 6 and one for 7 and 8 (in 2018-19 one for all), and in 2021-22 Izborno was the selection for EJOI, held for
-primary and secondary school together; the secondary-school archive has its three tasks too. The commission sometimes
-gave a task set in several grades a different name in each; the table shows each grade's.
+| `testcases/` | `NN.in` / `NN.out`: the test set the competition ran on |
+| `checker.cpp` | The competition's checker, when it had one. Called as `checker <contestant output> <expected output> <input>`. Exit code 0 = accepted, anything else = wrong. *One include added* marks a checker that needed an `#include` for today's compilers |
+| `scoring.yaml` | The competition's scoring: points per test or per subtask, and which tests are public. Where the commission set no scoring (2016-17 to 2020-21 in many rounds), every test is worth one point and all are public, as at the contest |
 
 ## Limits
 
@@ -69,8 +38,8 @@ gave a task set in several grades a different name in each; the table shows each
 ## Tasks
 
 Limits are the competition's. *Grade* is the grade competition the task was set in (6 = sixth grade and younger
-from 2022-23; 5–6 = one competition for both);
-a task set in several grades has a row for each. *Type* is `standard` (the program reads the input and writes the
+from 2022-23; 5–6 = one competition for both); a task set in several grades has a row for each, under the name that
+grade's competition gave it (it sometimes differs). *Type* is `standard` (the program reads the input and writes the
 output). *Checker* is `default` when the task uses a plain token comparison and needs no `checker.cpp`.
 
 The last two columns list only what is missing or doesn't work; everything else is as the contest had it.
@@ -718,91 +687,36 @@ Please check the tasks against your own copies too.
 | 2016-17 | SIO | — | [Ograda](takprog-2016-17/03_SIO/02_ograda) | standard | 1 s | 64 MB | 26 | default | — | — |
 | 2016-17 | SIO | — | [Podcifra](takprog-2016-17/03_SIO/03_podcifra) | standard | 1 s | 64 MB | 20 | default | — | — |
 
+
 ## Summary
 
-**2025-26:** all 72 tasks (84 task folders in 18 grade competitions) have their statement, pictures, limits, scoring
-and checker (two custom ones, the rest default). None has a known problem: the commission's main solutions pass every
-test, and solutions submitted at each contest get the verdict the contest recorded on every test. The one exception is
-test 1 of [Harshad brojevi 2](takprog-2025-26/06_DRZAVNO/7_razred/03_harshad_brojevi_2), a 0-point example: the
-commission corrected it during the contest, but Petlja's grader kept the old one, which every submission failed.
+All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on; 13 have
+their own checker, the rest use the default one. **15 tasks have a problem**, listed below (Presek intervala is in
+both lists).
 
-**2024-25:** all 49 tasks (51 task folders in 10 competitions: both qualifying rounds in each grade, the selection for
-infO(1)Cup and the three contests of the selection cycle) have their statement, pictures, limits, scoring and checker
-(four custom ones, the rest default). Solutions submitted at each contest get the verdict the contest recorded on
-every test, and the commission's main solution passes every test in the 44 tasks where the collection has a working
-one (for the other five it is a placeholder or was written for an earlier version of the task). The one known problem
-is [Presek intervala](takprog-2024-25/01_KV1/7_razred/03_presek_intervala) (grades 7 and 8): tests 2 and 12 go beyond
-the statement's bound of 1000.
+**Task problems (13 tasks)**
 
-**2023-24:** all 74 tasks (80 task folders in 17 competitions: the qualifying, municipal, district and state rounds in
-each grade, JSIO and Izborno) have their statement, pictures, limits, scoring and checker (two custom ones, the rest
-default). Solutions submitted at each contest get the verdict the contest recorded on every test, and the commission's
-main solution passes every test in the 71 tasks where the collection has a working one (in Promena škole it divides
-integers, in Četiri delioca it solves only the smaller subtasks, and Mešalica is not in the collection). Several tasks
-were corrected right after their contest and graded again; the archive has those sets. Three tasks have a known
-problem, all in the statement or the scoring:
-[Eksel](takprog-2023-24/01_KV1/8_razred/02_eksel)'s example 2 has a Cyrillic letter in its input,
-[Aljmez](takprog-2023-24/02_KV2/8_razred/06_aljmez)'s statement promises other points than the scoring gives, and
-[Nepoznat broj](takprog-2023-24/02_KV2/6_razred/02_nepoznati_broj)'s scoring repeats a group id.
+- **Statement only in English (3):** [Prebroj](takprog-2020-21/01_KV1/5_razred/02_varijacije_sa_ponavljanjem)
+  (2020-21, grade 5), [Značajni datumi](takprog-2020-21/01_KV1/5_razred/05_datumi_istorija) (2020-21, grades 5 to 7,
+  under three names) and [Osvetljenje](takprog-2020-21/01_KV1/6_razred/04_osvetljenje) (2020-21, grade 6): the
+  Serbian text the contestants read isn't on Petlja any more.
+- **Lost pictures (2):** [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) (2017-18),
+  [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli) (2018-19; the commission's collection has
+  its picture).
+- **An example that differs from its test (3):** [Eksel](takprog-2023-24/01_KV1/8_razred/02_eksel) (2023-24, a
+  Cyrillic letter in the input), [Presek intervala](takprog-2024-25/01_KV1/7_razred/03_presek_intervala) (2024-25,
+  grade 7), [Kocke](takprog-2021-22/02_KV2/5_razred/06_kocke) (2021-22, a stray `#` in the input).
+- **Statement and scoring disagree (2):** [Aljmez](takprog-2023-24/02_KV2/8_razred/06_aljmez) (2023-24),
+  [Postavljanje domina](takprog-2021-22/01_KV1/8_razred/04_postavljanje_domina) (2021-22).
+- **Scoring repeats a group id, as at the contest (3):**
+  [Nepoznat broj](takprog-2023-24/02_KV2/6_razred/02_nepoznati_broj) (2023-24),
+  [Datum sa najvećom zaradom](takprog-2022-23/01_KV1/8_razred/04_datum_sa_najvecom_zaradom) and
+  [Dodavanje cifre stotina](takprog-2022-23/03_KV3/7_razred/01_dodata_cifra_stotina) (2022-23).
 
-**2022-23:** all 76 tasks (86 task folders in 17 competitions: the three qualifying rounds, the district and state
-rounds in each grade, SIO and Izborno; there was no municipal round that season) have their statement, pictures,
-limits, scoring and checker (one custom one, the rest default). The commission's main solution passes every test in
-all 76, and solutions submitted at each contest get the verdict the contest recorded on every test. Three tasks have
-a known problem: inputs 3–8 of [Puž](takprog-2022-23/02_KV2/8_razred/04_puz) end with a stray character, so their
-expected answer is −1 (corrected on Petlja after the contest, which wasn't graded again), and the scoring of
-[Datum sa najvećom zaradom](takprog-2022-23/01_KV1/8_razred/04_datum_sa_najvecom_zaradom) and
-[Dodavanje cifre stotina](takprog-2022-23/03_KV3/7_razred/01_dodata_cifra_stotina) repeats a group id, as the
-contest's did.
+**Testcase problems (3 tasks)**
 
-**2021-22:** all 84 tasks (103 task folders in 20 competitions: the three qualifying and the district rounds in each
-of grades 5 to 8, the state round for grades 5–6 and 7–8, SIO and Izborno; there was no municipal round that
-season) have their statement, pictures, limits, scoring and checker (five custom ones, the rest default; Dokaz's
-needed one `#include` for today's compiler). Solutions submitted at each contest get the verdict the contest recorded
-on every test, and the commission's main solution passes every test in the 83 tasks where it compiles on today's
-compiler (Dokaz's lacks an `#include`). Three tasks have a known problem:
-[Magacin](takprog-2021-22/02_KV2/5_razred/05_magacin)'s tests go far beyond the statement's bound on the heights
-(corrected on Petlja after the contest, which wasn't graded again),
-[Kocke](takprog-2021-22/02_KV2/5_razred/06_kocke)'s example 2 has a stray `#` in its input, and
-[Postavljanje domina](takprog-2021-22/01_KV1/8_razred/04_postavljanje_domina)'s statement says there are no partial
-points while its scoring gives some, as the contest's did.
-
-**2020-21:** all 45 tasks (67 task folders in 15 competitions: the two qualifying rounds and the district round in
-each of grades 5 to 8, the state round for grades 5–6 and 7–8, and SIO) have their limits, scoring and tests; every
-test is worth one point, as at the contest, and every checker is the default. Solutions submitted at each contest get
-the verdict the contest recorded on every test. The commission's collection has only the district, state and SIO
-tasks (all but one); its main solution passes every test in 19 of those 21, and in the other two it is too slow or
-overflows. Three statements are a problem: those of
-[Prebroj](takprog-2020-21/01_KV1/5_razred/02_varijacije_sa_ponavljanjem) (grade 5) and
-[Značajni datumi](takprog-2020-21/01_KV1/5_razred/05_datumi_istorija) (grades 5 to 7) were replaced on Petlja by
-English ones for MG Cup after the contest, and [Osvetljenje](takprog-2020-21/01_KV1/6_razred/04_osvetljenje)'s is MG
-Cup 2019's English one; the Serbian texts the contestants read aren't on Petlja any more.
-
-**2019-20:** all 55 tasks (100 task folders in 17 competitions: the three qualifying rounds in each of grades 5 to 8,
-Revijalno, the state round for grades 5–6 and 7–8, and SIO) have their statement, limits, scoring and tests; every
-checker is the default. After each qualifying round and after Revijalno the commission re-uploaded the tests and
-graded the whole contest again on them; the archive has those sets. The commission's main solution passes every
-test in all 43 tasks the collection has (it lacks Državno and SIO), and solutions submitted at each contest get the
-verdict the contest recorded on every test. No task has a known problem.
-
-**2018-19:** all 22 tasks (three competitions, each for every grade: the district and state rounds and SIO) have
-their statement, limits, scoring and tests; every checker is the default. The commission's main solution passes every
-test in 19 of the 20 tasks the collection has (for Min-max dužina podnizova it is too slow; the collection has only a
-placeholder statement for it), and solutions submitted at each contest get the verdict the contest recorded on every
-test (for three district tasks Petlja's recorded verdicts are from tests uploaded by mistake a week later; the
-archive has the contest's). The one known problem is
-[dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli)'s statement, which refers to a picture that
-isn't on Petlja.
-
-**2017-18:** all 24 tasks (four competitions: the district round and SIO for every grade, the state round for grades
-5–6 and 7–8) have their statement, limits, scoring and tests; every checker is the default and every test is worth one
-point. Petlja kept only the test versions current in November 2018, when its files were moved; solutions submitted at
-each contest get the verdict the contest recorded on every test with them. The commission's collection doesn't have
-this season. The one known problem is [Sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku)'s statement, which refers to a
-picture that isn't on Petlja.
-
-**2016-17:** all 22 tasks (four competitions: the district round and SIO for every grade, the state round for grades
-5–6 and 7–8) have their statement (in Latin script, as on Petlja), limits, scoring and tests; every checker is the
-default. Petlja kept only the test versions current in November 2018, when its files were moved; solutions submitted
-at each contest get the verdict the contest recorded on every test with them. The commission's collection doesn't
-have this season. No task has a known problem.
+- **Tests beyond the statement's bounds (2):**
+  [Presek intervala](takprog-2024-25/01_KV1/7_razred/03_presek_intervala) (2024-25, grades 7 and 8),
+  [Magacin](takprog-2021-22/02_KV2/5_razred/05_magacin) (2021-22).
+- **A stray character in the input (1):** [Puž](takprog-2022-23/02_KV2/8_razred/04_puz) (2022-23): inputs 3–8 end
+  with a NUL character, and the expected answers count on it.
