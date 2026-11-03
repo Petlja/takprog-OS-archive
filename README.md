@@ -425,6 +425,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 3 | 5 | [Ukrasna traka](takprog-2021-22/03_KV3/5_razred/03_ukrasna_traka) | standard | 0.1 s | 16 MB | 13 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 5 | [Veliko sniženje](takprog-2021-22/03_KV3/5_razred/04_veliko_snizenje) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 5 | [Struja](takprog-2021-22/03_KV3/5_razred/05_struja) | standard | 0.1 s | 16 MB | 11 | default | — | — |
+| 2021-22 | Kvalifikacije 3 | 5 | [Šifra](takprog-2021-22/03_KV3/5_razred/06_sifra) | standard | 0.2 s | 16 MB | 11 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 6 | [Ukrasna traka](takprog-2021-22/03_KV3/6_razred/02_ukrasna_traka) | standard | 0.1 s | 16 MB | 13 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 6 | [Struja](takprog-2021-22/03_KV3/6_razred/05_struja) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 
