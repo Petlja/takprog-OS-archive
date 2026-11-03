@@ -671,6 +671,7 @@ Please check the tasks against your own copies too.
 | 2018-19 | SIO | — | [Alarmi](takprog-2018-19/03_SIO/03_alarmi) | standard | 0.3 s | 64 MB | 11 | default | — | — |
 | 2018-19 | SIO | — | [Niske](takprog-2018-19/03_SIO/04_broj_manjih_reci) | standard | 0.3 s | 16 MB | 10 | default | — | — |
 | 2017-18 | Okružno | — | [stepeni](takprog-2017-18/01_OKRUZNO/01_stepeni) | standard | 1 s | 64 MB | 20 | default | — | — |
+| 2017-18 | Okružno | — | [iksoks](takprog-2017-18/01_OKRUZNO/02_iksoks) | standard | 1 s | 64 MB | 20 | default | — | — |
 
 ## Summary
 
