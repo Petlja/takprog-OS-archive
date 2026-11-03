@@ -386,7 +386,9 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 1 | 6 | [Zgrade](takprog-2021-22/01_KV1/6_razred/06_zgrade) | standard | 1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 7 | [Kupovina](takprog-2021-22/01_KV1/7_razred/01_kupovina) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 7 | [Najveći dvocifren broj](takprog-2021-22/01_KV1/7_razred/02_najveci_dvocifreni_broj) | standard | 0.1 s | 64 MB | 15 | default | — | — |
+| 2021-22 | Kvalifikacije 1 | 7 | [Taksi rastojanje oko pravougaonika](takprog-2021-22/01_KV1/7_razred/03_taksi_rastojanje_oko_pravougaonika) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 8 | [Kupovina](takprog-2021-22/01_KV1/8_razred/01_kupovina) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2021-22 | Kvalifikacije 1 | 8 | [Taksi rastojanje oko pravougaonika](takprog-2021-22/01_KV1/8_razred/03_taksi_rastojanje_oko_pravougaonika) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 
 ## Summary
 
