@@ -20,7 +20,7 @@ seasons have no municipal round, and 2024-25 has only its qualifying and selecti
 |---|---|
 | `statement.md` | The statement in Markdown, with examples. Its header gives `timelimit` (seconds) and `memlimit` (MB). In Cyrillic, except 2016-17's (Latin script) and three 2020-21 statements that exist only in English (listed below) |
 | `*.png`, `*.jpg` | Pictures the statement shows, if any |
-| `testcases/` | `NN.in` / `NN.out`: the test set the competition ran on |
+| `testcases/` | `NN.in` / `NN.out`: the test set the competition ran on, except Puž's (2022-23) inputs 3–8 and their answers: the commission corrected them the day after the contest |
 | `checker.cpp` | The competition's checker, when it had one. Called as `checker <contestant output> <expected output> <input>`. Exit code 0 = accepted, anything else = wrong. *One include added* marks a checker that needed an `#include` for today's compilers |
 | `scoring.yaml` | The competition's scoring: points per test or per subtask, and which tests are public. Where the commission set no scoring (2016-17 to 2020-21 in many rounds), every test is worth one point and all are public, as at the contest |
 
@@ -295,7 +295,7 @@ Please check the tasks against your own copies too.
 | 2022-23 | Kvalifikacije 2 | 8 | [Poslednji meč](takprog-2022-23/02_KV2/8_razred/01_poslednji_mec) | standard | 0.1 s | 64 MB | 33 | default | — | — |
 | 2022-23 | Kvalifikacije 2 | 8 | [Raspon krila](takprog-2022-23/02_KV2/8_razred/02_raspon_krila) | standard | 0.1 s | 64 MB | 22 | default | — | — |
 | 2022-23 | Kvalifikacije 2 | 8 | [Greška u tekstu](takprog-2022-23/02_KV2/8_razred/03_greska_u_tekstu) | standard | 0.1 s | 64 MB | 13 | default | — | — |
-| 2022-23 | Kvalifikacije 2 | 8 | [Puž](takprog-2022-23/02_KV2/8_razred/04_puz) | standard | 0.1 s | 64 MB | 14 | default | — | Inputs 3–8 end with a stray NUL character after the name, so the name is never found and the expected answer is −1; Petlja's tests were corrected the day after the contest, which wasn't graded again |
+| 2022-23 | Kvalifikacije 2 | 8 | [Puž](takprog-2022-23/02_KV2/8_razred/04_puz) | standard | 0.1 s | 64 MB | 14 | default | — | — |
 | 2022-23 | Kvalifikacije 2 | 8 | [Tačan izraz](takprog-2022-23/02_KV2/8_razred/05_tacan_izraz) | standard | 0.1 s | 64 MB | 14 | `checker.cpp` (custom) | — | — |
 | 2022-23 | Kvalifikacije 2 | 8 | [Najmanji dobitak](takprog-2022-23/02_KV2/8_razred/06_najmanji_dobitak) | standard | 0.4 s | 64 MB | 20 | default | — | — |
 | 2022-23 | Kvalifikacije 3 | 6 | [AM/PM](takprog-2022-23/03_KV3/6_razred/01_am_pm) | standard | 0.1 s | 16 MB | 14 | default | — | — |
@@ -691,7 +691,7 @@ Please check the tasks against your own copies too.
 ## Summary
 
 All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on; 13 have
-their own checker, the rest use the default one. **6 tasks have a problem**, listed below.
+their own checker, the rest use the default one. **5 tasks have a problem**, listed below.
 
 **Task problems (5 tasks)**
 
@@ -702,8 +702,3 @@ their own checker, the rest use the default one. **6 tasks have a problem**, lis
 - **Lost pictures (2):** [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) (2017-18),
   [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli) (2018-19; the commission's collection has
   its picture).
-
-**Testcase problems (1 task)**
-
-- **A stray character in the input (1):** [Puž](takprog-2022-23/02_KV2/8_razred/04_puz) (2022-23): inputs 3–8 end
-  with a NUL character, and the expected answers count on it.
