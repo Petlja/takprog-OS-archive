@@ -548,8 +548,10 @@ Please check the tasks against your own copies too.
 | 2020-21 | SIO | — | [Broj pojava reči](takprog-2020-21/05_SIO/03_broj_pojava_reci) | standard | 1.2 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 1 | 5 | [Knjiga](takprog-2019-20/01_KV1/5_razred/01_knjiga) | standard | 0.1 s | 64 MB | 3 | default | — | — |
 | 2019-20 | Kvalifikacije 1 | 5 | [Sijalica](takprog-2019-20/01_KV1/5_razred/02_sijalica) | standard | 0.1 s | 64 MB | 6 | default | — | — |
+| 2019-20 | Kvalifikacije 1 | 5 | [Neplivači](takprog-2019-20/01_KV1/5_razred/03_neplivaci) | standard | 0.1 s | 64 MB | 8 | default | — | — |
 | 2019-20 | Kvalifikacije 1 | 6 | [Knjiga](takprog-2019-20/01_KV1/6_razred/01_knjiga) | standard | 0.1 s | 64 MB | 3 | default | — | — |
 | 2019-20 | Kvalifikacije 1 | 6 | [Sijalica](takprog-2019-20/01_KV1/6_razred/02_sijalica) | standard | 0.1 s | 64 MB | 6 | default | — | — |
+| 2019-20 | Kvalifikacije 1 | 6 | [Neplivači](takprog-2019-20/01_KV1/6_razred/03_neplivaci) | standard | 0.1 s | 64 MB | 8 | default | — | — |
 
 ## Summary
 
