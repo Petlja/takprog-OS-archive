@@ -195,7 +195,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Kvalifikacije 1 | 7 | [WiFi snaga](takprog-2023-24/01_KV1/7_razred/05_wifi_snaga) | standard | 0.15 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 7 | [Najveći NZD](takprog-2023-24/01_KV1/7_razred/06_max_nzd) | standard | 0.25 s | 64 MB | 14 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 8 | [Nedostajuća stranica četvorougla](takprog-2023-24/01_KV1/8_razred/01_nedostajuca_stranica_cetvorougla) | standard | 0.2 s | 64 MB | 13 | default | — | — |
-| 2023-24 | Kvalifikacije 1 | 8 | [Eksel](takprog-2023-24/01_KV1/8_razred/02_eksel) | standard | 0.1 s | 64 MB | 13 | default | Example 2's input is written with a Cyrillic А (`АC`); test 2 is `AC` | — |
+| 2023-24 | Kvalifikacije 1 | 8 | [Eksel](takprog-2023-24/01_KV1/8_razred/02_eksel) | standard | 0.1 s | 64 MB | 13 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 8 | [Krađa dijamanta](takprog-2023-24/01_KV1/8_razred/03_kradja_dijamanta) | standard | 1 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 8 | [Broj segmenata sa proizvodom nula](takprog-2023-24/01_KV1/8_razred/04_broj_segmenata_sa_proizvodom_nula) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 8 | [WiFi snaga](takprog-2023-24/01_KV1/8_razred/05_wifi_snaga) | standard | 0.15 s | 64 MB | 12 | default | — | — |
@@ -691,10 +691,10 @@ Please check the tasks against your own copies too.
 ## Summary
 
 All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on; 13 have
-their own checker, the rest use the default one. **15 tasks have a problem**, listed below (Presek intervala is in
+their own checker, the rest use the default one. **14 tasks have a problem**, listed below (Presek intervala is in
 both lists).
 
-**Task problems (13 tasks)**
+**Task problems (12 tasks)**
 
 - **Statement only in English (3):** [Prebroj](takprog-2020-21/01_KV1/5_razred/02_varijacije_sa_ponavljanjem)
   (2020-21, grade 5), [Značajni datumi](takprog-2020-21/01_KV1/5_razred/05_datumi_istorija) (2020-21, grades 5 to 7,
@@ -703,9 +703,9 @@ both lists).
 - **Lost pictures (2):** [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) (2017-18),
   [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli) (2018-19; the commission's collection has
   its picture).
-- **An example that differs from its test (3):** [Eksel](takprog-2023-24/01_KV1/8_razred/02_eksel) (2023-24, a
-  Cyrillic letter in the input), [Presek intervala](takprog-2024-25/01_KV1/7_razred/03_presek_intervala) (2024-25,
-  grade 7), [Kocke](takprog-2021-22/02_KV2/5_razred/06_kocke) (2021-22, a stray `#` in the input).
+- **An example that differs from its test (2):**
+  [Presek intervala](takprog-2024-25/01_KV1/7_razred/03_presek_intervala) (2024-25, grade 7),
+  [Kocke](takprog-2021-22/02_KV2/5_razred/06_kocke) (2021-22, a stray `#` in the input).
 - **Statement and scoring disagree (2):** [Aljmez](takprog-2023-24/02_KV2/8_razred/06_aljmez) (2023-24),
   [Postavljanje domina](takprog-2021-22/01_KV1/8_razred/04_postavljanje_domina) (2021-22).
 - **Scoring repeats a group id, as at the contest (3):**
