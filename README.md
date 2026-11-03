@@ -639,6 +639,7 @@ Please check the tasks against your own copies too.
 | 2019-20 | Državno | 5–6 | [Sirakuza](takprog-2019-20/05_DRZAVNO/5-6_razred/03_sirakuza) | standard | 0.04 s | 12 MB | 10 | default | — | — |
 | 2019-20 | Državno | 5–6 | [Transformacije](takprog-2019-20/05_DRZAVNO/5-6_razred/04_transformacije) | standard | 0.05 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Državno | 7–8 | [Grafika](takprog-2019-20/05_DRZAVNO/7-8_razred/01_grafika) | standard | 0.5 s | 256 MB | 10 | default | — | — |
+| 2019-20 | Državno | 7–8 | [Treniranje](takprog-2019-20/05_DRZAVNO/7-8_razred/02_treniranje) | standard | 0.7 s | 512 MB | 10 | default | — | — |
 
 ## Summary
 
