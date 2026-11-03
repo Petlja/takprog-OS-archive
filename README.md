@@ -692,6 +692,7 @@ Please check the tasks against your own copies too.
 | 2017-18 | Državno | 7–8 | [Domine](takprog-2017-18/02_DRZAVNO/7-8_razred/04_domine) | standard | 0.2 s | 64 MB | 25 | default | — | — |
 | 2017-18 | SIO | — | [Aranđelovac](takprog-2017-18/03_SIO/01_arandjelovac) | standard | 0.5 s | 64 MB | 38 | default | — | — |
 | 2017-18 | SIO | — | [Beograd](takprog-2017-18/03_SIO/02_beograd) | standard | 0.5 s | 64 MB | 31 | default | — | — |
+| 2017-18 | SIO | — | [Vranje](takprog-2017-18/03_SIO/03_vranje) | standard | 0.5 s | 64 MB | 32 | default | — | — |
 
 ## Summary
 
