@@ -466,6 +466,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Državno | 5–6 | [Jedna razmena](takprog-2021-22/05_DRZAVNO/5-6_razred/04_jedna_razmena) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 | 2021-22 | Državno | 7–8 | [Plesna priredba](takprog-2021-22/05_DRZAVNO/7-8_razred/01_obrnute_razmene) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 | 2021-22 | Državno | 7–8 | [Lopte](takprog-2021-22/05_DRZAVNO/7-8_razred/02_lopte) | standard | 0.1 s | 16 MB | 11 | default | — | — |
+| 2021-22 | Državno | 7–8 | [Rale i Spale](takprog-2021-22/05_DRZAVNO/7-8_razred/03_rale_i_spale) | standard | 0.25 s | 64 MB | 11 | default | — | — |
 
 ## Summary
 
