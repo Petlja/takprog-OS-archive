@@ -495,6 +495,7 @@ Please check the tasks against your own copies too.
 | 2020-21 | Kvalifikacije 1 | 8 | [3d otisak](takprog-2020-21/01_KV1/8_razred/01_3d_stampac) | standard | 0.2 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 8 | [Nagrada](takprog-2020-21/01_KV1/8_razred/02_video_igrice) | standard | 1 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 8 | [Ana voli Milovana](takprog-2020-21/01_KV1/8_razred/03_ana_voli_milovana) | standard | 0.3 s | 64 MB | 25 | default | — | — |
+| 2020-21 | Kvalifikacije 1 | 8 | [Čarolija među brojevima](takprog-2020-21/01_KV1/8_razred/04_carolija_medju_brojevima) | standard | 0.1 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 8 | [Algebra reči](takprog-2020-21/01_KV1/8_razred/05_string_dp) | standard | 0.05 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 5 | [Video igrica](takprog-2020-21/02_KV2/5_razred/05_video_igrice) | standard | 1 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 6 | [EJOI poklon](takprog-2020-21/02_KV2/6_razred/05_video_igrice) | standard | 1 s | 32 MB | 10 | default | — | — |
