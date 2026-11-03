@@ -630,6 +630,7 @@ Please check the tasks against your own copies too.
 | 2019-20 | Revijalno | 5–6 | [ABACABA](takprog-2019-20/04_REVIJALNO/5-6_razred/04_abacaba) | standard | 0.1 s | 16 MB | 10 | default | — | — |
 | 2019-20 | Revijalno | 5–6 | [Najmanja suma od datih cifara](takprog-2019-20/04_REVIJALNO/5-6_razred/05_min_suma_od_cifara) | standard | 0.1 s | 16 MB | 10 | default | — | — |
 | 2019-20 | Revijalno | 7–8 | [Maksimalni prinos](takprog-2019-20/04_REVIJALNO/7-8_razred/01_maksimalni_prinos) | standard | 0.1 s | 16 MB | 10 | default | — | — |
+| 2019-20 | Revijalno | 7–8 | [Najveći duplikat](takprog-2019-20/04_REVIJALNO/7-8_razred/02_najveci_duplikat) | standard | 0.1 s | 16 MB | 10 | default | — | — |
 
 ## Summary
 
