@@ -2,50 +2,61 @@
 timelimit: 0.1
 memlimit: 4
 ---
-There are  $N$ ($1 \leq N \leq 50$) LED disco strobes numbered from 1 to $N$.
+Дато је $N$ ($1 \leq N \leq 50$) LED диско светала, означених бројевима од 1 до $N$.
 
-For each LED disco strobe it is known whether it's turned on or off.
-You can change the state of LED disco strobe $i$ if LED disco strobe $i+1$ is turned on and
-LED disco strobes $i+2, i+3, ... N$ are turned off. 
-This rule is not targeted toward LED
-disco strobe $N$, which can be switched on or off voluntarily.
+За свако светло познато је да ли је укључено или искључено. Стање светла $i$ може се променити ако је светло $i+1$
+укључено, а светла $i+2, i+3, \ldots, N$ искључена. Ово правило не важи за светло $N$, које се може укључити или
+искључити у сваком тренутку.
 
+Напиши програм који исписује најмањи број промена стања потребних да се сва LED диско светла искључе.
 
-Write the program that prints the minimum number of switches you need to make in
-order to turn off all the LED disco strobes.
+## Улаз
 
-## Input
+Стандардни улаз садржи једну ниску од $N$ бинарних цифара (0 или 1), по једну за свако LED диско светло, редом од
+светла 1 до светла $N$. Искључено светло представљено је цифром 0, а укључено цифром 1.
 
-The standard input contains a single string of $N$  binary digits (0 or 1). Each LED disco
-strobe is represented by a binary digit.
-A LED disco strobe that is switched off is represented by a 0, and one that is switched
-on by a 1.
+## Излаз
 
+На стандардни излаз исписати најмањи број промена стања потребних да се сва светла искључе.
 
-## Example 1
+## Пример 1
 
-### Input
+### Улаз
+
 ~~~
 1101
 ~~~
-### Output
+
+### Излаз
+
 ~~~
 9
 ~~~
 
-## Example 2
-### Input 
+## Пример 2
+
+### Улаз
+
 ~~~
 1011
 ~~~
-### Output
+
+### Излаз
+
 ~~~
 13
 ~~~
-## Example 3
-### Input
+
+## Пример 3
+
+### Улаз
+
 ~~~
 1001101011
 ~~~
-### Output
+
+### Излаз
+
+~~~
 946
+~~~

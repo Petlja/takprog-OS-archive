@@ -459,7 +459,7 @@ Please check the tasks against your own copies too.
 | 2020-21 | Kvalifikacije 1 | 6 | [Test iz istorije](takprog-2020-21/01_KV1/6_razred/01_datumi_istorija) | standard | 1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 6 | [Put oko sveta](takprog-2020-21/01_KV1/6_razred/02_biciklo) | standard | 1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 6 | [E-dnevnik](takprog-2020-21/01_KV1/6_razred/03_e_dnevnik) | standard | 0.1 s | 64 MB | 10 | default | — | — |
-| 2020-21 | Kvalifikacije 1 | 6 | [Osvetljenje](takprog-2020-21/01_KV1/6_razred/04_osvetljenje) | standard | 0.1 s | 4 MB | 10 | default | Petlja's statement is in English (the task comes from MG Cup 2019); a Serbian text, if the contest showed one, isn't on Petlja | — |
+| 2020-21 | Kvalifikacije 1 | 6 | [Osvetljenje](takprog-2020-21/01_KV1/6_razred/04_osvetljenje) | standard | 0.1 s | 4 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 6 | [Prebroj](takprog-2020-21/01_KV1/6_razred/05_string_dp) | standard | 0.05 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 7 | [Gađanje](takprog-2020-21/01_KV1/7_razred/01_gadjanje) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 7 | [Otkrij slova](takprog-2020-21/01_KV1/7_razred/02_otkrij_slova) | standard | 1 s | 64 MB | 10 | default | — | — |
@@ -691,9 +691,4 @@ Please check the tasks against your own copies too.
 ## Summary
 
 All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on; 13 have
-their own checker, the rest use the default one. **1 task has a problem**, listed below.
-
-**Task problems (1 task)**
-
-- **Statement only in English (1):** [Osvetljenje](takprog-2020-21/01_KV1/6_razred/04_osvetljenje) (2020-21, grade 6): the
-  Serbian text the contestants read isn't on Petlja any more.
+their own checker, the rest use the default one. No task has a known problem.
