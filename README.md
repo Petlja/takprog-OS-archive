@@ -376,7 +376,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 2 | 5 | [Pakovanje](takprog-2021-22/02_KV2/5_razred/02_pakovanje) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 5 | [Samoglasnici](takprog-2021-22/02_KV2/5_razred/03_samoglasnici) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 5 | [Dežurstvo](takprog-2021-22/02_KV2/5_razred/04_dezurstvo) | standard | 0.1 s | 64 MB | 11 | default | — | — |
-| 2021-22 | Kvalifikacije 2 | 5 | [Magacin](takprog-2021-22/02_KV2/5_razred/05_magacin) | standard | 0.3 s | 64 MB | 16 | default | — | Tests 8, 11 and 12–16 have heights up to 990288, above the statement's bound of 100; Petlja's tests 12–16 were scaled down the day after the contest, which wasn't graded again |
+| 2021-22 | Kvalifikacije 2 | 5 | [Magacin](takprog-2021-22/02_KV2/5_razred/05_magacin) | standard | 0.3 s | 64 MB | 16 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 5 | [Kocke](takprog-2021-22/02_KV2/5_razred/06_kocke) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 6 | [Pakovanje](takprog-2021-22/02_KV2/6_razred/01_pakovanje) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 6 | [Samoglasnici](takprog-2021-22/02_KV2/6_razred/02_samoglasnici) | standard | 0.1 s | 16 MB | 12 | default | — | — |
@@ -691,7 +691,7 @@ Please check the tasks against your own copies too.
 ## Summary
 
 All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on; 13 have
-their own checker, the rest use the default one. **12 tasks have a problem**, listed below.
+their own checker, the rest use the default one. **11 tasks have a problem**, listed below.
 
 **Task problems (10 tasks)**
 
@@ -709,8 +709,7 @@ their own checker, the rest use the default one. **12 tasks have a problem**, li
   [Datum sa najvećom zaradom](takprog-2022-23/01_KV1/8_razred/04_datum_sa_najvecom_zaradom) and
   [Dodavanje cifre stotina](takprog-2022-23/03_KV3/7_razred/01_dodata_cifra_stotina) (2022-23).
 
-**Testcase problems (2 tasks)**
+**Testcase problems (1 task)**
 
-- **Tests beyond the statement's bounds (1):** [Magacin](takprog-2021-22/02_KV2/5_razred/05_magacin) (2021-22).
 - **A stray character in the input (1):** [Puž](takprog-2022-23/02_KV2/8_razred/04_puz) (2022-23): inputs 3–8 end
   with a NUL character, and the expected answers count on it.
