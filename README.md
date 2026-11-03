@@ -452,6 +452,8 @@ Please check the tasks against your own copies too.
 | 2021-22 | Okružno | 6 | [Prvi ponedeljak](takprog-2021-22/04_OKRUZNO/6_razred/02_prvi_ponedeljak_u_mesecu) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 | 2021-22 | Okružno | 6 | [Čudne stepenice](takprog-2021-22/04_OKRUZNO/6_razred/03_cudne_stepenice) | standard | 0.2 s | 64 MB | 11 | default | — | — |
 | 2021-22 | Okružno | 6 | [Romb sa dijagonalama](takprog-2021-22/04_OKRUZNO/6_razred/04_crtez_tezi) | standard | 0.1 s | 64 MB | 15 | default | — | — |
+| 2021-22 | Okružno | 7 | [Iks-oks](takprog-2021-22/04_OKRUZNO/7_razred/01_iks_oks) | standard | 0.1 s | 64 MB | 25 | default | — | — |
+| 2021-22 | Okružno | 8 | [Iks-oks](takprog-2021-22/04_OKRUZNO/8_razred/01_iks_oks) | standard | 0.1 s | 64 MB | 25 | default | — | — |
 
 ## Summary
 
