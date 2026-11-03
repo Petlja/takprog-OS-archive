@@ -2,69 +2,71 @@
 timelimit: 1
 memlimit: 64
 ---
-As You know, the best tennis player in the world is a famous Serbian sportsman, Mr Novak Djokovic.
-Also, the famous Serbian basketball player, Nikola Jokić has been named this year's NBA MVP.
-Novak Djokovic and Nikola Jokic are chatting on ViberSport about the approaching Olympiad and dates. 
+Као што знаш, најбољи тенисер на свету је чувени српски спортиста Новак Ђоковић. Чувени српски кошаркаш Никола Јокић
+проглашен је ове године за најкориснијег играча NBA лиге (MVP). Новак Ђоковић и Никола Јокић ћаскају на ViberSport-у
+о Олимпијским играма које се ближе и о датумима.
 
-Novak Djokovic is called a joker. Guess what - Jokic has been also called The Joker.
-Novak on the other hand is very fond of informatics and decides to give his friend an interesting numeric joke:
-„Nikola, I’m writing to you  2 number sequences (8 digits per each). 
-Each of those two sequences represents a valid date – the day is written by 2 digits, the month also by 2 digits and the year is written by 4 digits. The order of the day, the month and the year is unknown. That means both dates may be in one of the following formats DDMMYYYY, MMDDYYYY, DDYYYYMM, MMYYYYDD, YYYYDDMM or YYYYMMDD. Note that the dates may be in different formats each. I’ll also write down the number of the days between the dates. Knowing the number of the days of the period and the fact that both dates are from the same year, you must find both dates. To make your task easier I’ll tell you that there is only one solution to the task.” 
+Новака Ђоковића зову Џокер. Замисли – и Јокића зову Џокер. Новак, с друге стране, много воли информатику и одлучи да
+свом пријатељу зада занимљиву шалу са бројевима:
 
-Please, help Nikola Jokic solving the task. Write a program, which given two groups of eight digits representing the scrambled dates and the number of the days between the two dates, determines and prints out both dates in format $DD-MM-YYYY$.
+„Никола, написаћу ти два низа цифара (сваки од по 8 цифара). Сваки од њих представља исправан датум – дан је записан
+са 2 цифре, месец такође са 2 цифре, а година са 4 цифре. Редослед дана, месеца и године није познат. То значи да
+сваки од два датума може бити записан у једном од следећих облика: DDMMYYYY, MMDDYYYY, DDYYYYMM, MMYYYYDD, YYYYDDMM
+или YYYYMMDD. Пази, датуми могу бити записани у различитим облицима. Написаћу ти и број дана између та два датума.
+Знајући број дана тог периода и то да су оба датума из исте године, треба да пронађеш оба датума. Да ти олакшам,
+рећи ћу ти да задатак има само једно решење.”
 
+Помози Николи Јокићу да реши задатак. Напиши програм који, за две групе од по осам цифара које представљају
+испретумбане датуме и за број дана између та два датума, одређује и исписује оба датума у облику $DD-MM-YYYY$.
 
-## Input
+## Улаз
 
-On the first row of the standard input, a sequence of eight digits is given 
-– the first “scrambled” date (it may be the beginning or the ending date of the period). 
+У првом реду стандардног улаза налази се низ од осам цифара – први „испретумбани” датум (то може бити почетни или
+крајњи датум периода).
 
-On the second row, another eight digits are given
-– the second “scrambled” date (again it may represent the beginning or the ending date of the period).
+У другом реду налази се још осам цифара – други „испретумбани” датум (и он може бити почетни или крајњи датум
+периода).
 
-A positive integer is given on the third row – the count of the days between the two dates. 
+У трећем реду налази се природан број – број дана између та два датума ($1 \le$ број дана у периоду $\le 350$). Оба
+датума се урачунавају у тај број дана.
 
-Both dates are counted in the final result (total number of days).
+За сваки тест постоји тачно једно решење.
 
-For each test case there is exactly one solution
+## Излаз
 
-   ($1 \le$ number of days in the period  $\le 350; $).
- 
-## Output
+Програм треба да испише два датума у облику DD-MM-YYYY: у првом реду почетни датум периода, а у другом реду крајњи
+датум периода.
 
-Your program should print two dates in format DD-MM-YYYY:
-   on the first row – the beginning date of the period, 
-	 and on the second row – the ending date of the period. 
+## Пример 1
 
-### Example 1
+### Улаз
 
-### Input
-
+~~~
 03282021
-
 20211205
-
 46
+~~~
 
-### Output
+### Излаз
 
-28-03-2021 
-
+~~~
+28-03-2021
 12-05-2021
+~~~
 
-### Example 2
+## Пример 2
 
-### Input
+### Улаз
 
+~~~
 11111111
-
 11111112
-
 31
+~~~
 
+### Излаз
 
-### Output
-
+~~~
 11-11-1111
-
 11-12-1111
+~~~
