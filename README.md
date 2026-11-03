@@ -499,10 +499,12 @@ Please check the tasks against your own copies too.
 | 2020-21 | Kvalifikacije 1 | 8 | [Algebra reči](takprog-2020-21/01_KV1/8_razred/05_string_dp) | standard | 0.05 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 5 | [Najveći trocifren broj](takprog-2020-21/02_KV2/5_razred/01_najveci_trocifren) | standard | 0.2 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 5 | [Semafor](takprog-2020-21/02_KV2/5_razred/02_semafor) | standard | 0.2 s | 32 MB | 10 | default | — | — |
+| 2020-21 | Kvalifikacije 2 | 5 | [Značajan završetak](takprog-2020-21/02_KV2/5_razred/03_mnozenje) | standard | 0.3 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 5 | [Video igrica](takprog-2020-21/02_KV2/5_razred/05_video_igrice) | standard | 1 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 6 | [Trougao cifri](takprog-2020-21/02_KV2/6_razred/04_najveci_trocifren) | standard | 0.2 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 6 | [EJOI poklon](takprog-2020-21/02_KV2/6_razred/05_video_igrice) | standard | 1 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 7 | [Cifre u trouglu](takprog-2020-21/02_KV2/7_razred/01_najveci_trocifren) | standard | 0.2 s | 32 MB | 10 | default | — | — |
+| 2020-21 | Kvalifikacije 2 | 7 | [Važan je kraj](takprog-2020-21/02_KV2/7_razred/02_mnozenje) | standard | 0.3 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 8 | [Saobraćajna signalizacija](takprog-2020-21/02_KV2/8_razred/01_semafor) | standard | 0.2 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 8 | [Putovanje](takprog-2020-21/02_KV2/8_razred/03_biciklo) | standard | 1 s | 64 MB | 10 | default | — | — |
 
