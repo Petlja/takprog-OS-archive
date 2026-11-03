@@ -572,6 +572,7 @@ Please check the tasks against your own copies too.
 | 2019-20 | Kvalifikacije 1 | 8 | [Sekcija](takprog-2019-20/01_KV1/8_razred/04_sekcija) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 1 | 8 | [Statistike](takprog-2019-20/01_KV1/8_razred/05_statistike_3od5) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 1 | 8 | [Pokloni za roditelje](takprog-2019-20/01_KV1/8_razred/06_pokloni_za_roditelje) | standard | 1 s | 64 MB | 16 | default | — | — |
+| 2019-20 | Kvalifikacije 2 | 5 | [Kusur](takprog-2019-20/02_KV2/5_razred/01_kusur) | standard | 0.1 s | 64 MB | 8 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 5 | [Statistike3od5 (kvalifikacije OŠ prva runda 2019/2](takprog-2019-20/02_KV2/5_razred/06_triple_double_3od5) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 6 | [Statistike3od5 (kvalifikacije OŠ prva runda 2019/2](takprog-2019-20/02_KV2/6_razred/05_triple_double_3od5) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 
