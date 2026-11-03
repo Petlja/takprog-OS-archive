@@ -418,6 +418,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 2 | 8 | [Prozor i ograda](takprog-2021-22/02_KV2/8_razred/02_prozor_i_ograda) | standard | 0.2 s | 64 MB | 11 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 8 | [Činilac manje](takprog-2021-22/02_KV2/8_razred/03_cinilac_manje) | standard | 0.1 s | 64 MB | 16 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 8 | [Množenje i korenovanje](takprog-2021-22/02_KV2/8_razred/04_mnozenje_i_korenovanje) | standard | 0.3 s | 16 MB | 12 | default | — | — |
+| 2021-22 | Kvalifikacije 2 | 8 | [Eksperiment](takprog-2021-22/02_KV2/8_razred/05_eksperiment) | standard | 0.5 s | 64 MB | 16 | default | — | — |
 
 ## Summary
 
