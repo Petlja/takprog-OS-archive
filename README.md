@@ -446,6 +446,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 3 | 8 | [Blago u pećini](takprog-2021-22/03_KV3/8_razred/06_blago_u_pecini) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Okružno | 5 | [Klasifikacija](takprog-2021-22/04_OKRUZNO/5_razred/01_klasifikacija) | standard | 0.1 s | 64 MB | 9 | default | — | — |
 | 2021-22 | Okružno | 5 | [Prosek cifara](takprog-2021-22/04_OKRUZNO/5_razred/02_prosek_cifara) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2021-22 | Okružno | 5 | [Visok pritisak](takprog-2021-22/04_OKRUZNO/5_razred/03_visok_pritisak) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 
 ## Summary
 
