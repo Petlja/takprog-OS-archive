@@ -408,6 +408,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 2 | 6 | [Telegraf](takprog-2021-22/02_KV2/6_razred/04_telegraf) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 6 | [Skočko](takprog-2021-22/02_KV2/6_razred/05_skocko) | standard | 0.1 s | 16 MB | 16 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 6 | [Podmornica](takprog-2021-22/02_KV2/6_razred/06_podmornica) | standard | 1 s | 64 MB | 17 | default | — | — |
+| 2021-22 | Kvalifikacije 2 | 7 | [Četvorougao](takprog-2021-22/02_KV2/7_razred/01_cetvorougao) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 7 | [Broj poseta kućici](takprog-2021-22/02_KV2/7_razred/02_broj_poseta_kucici) | standard | 0.3 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 7 | [Podmornica](takprog-2021-22/02_KV2/7_razred/05_podmornica) | standard | 1 s | 64 MB | 17 | default | — | — |
 
