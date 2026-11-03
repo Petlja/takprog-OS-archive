@@ -2,43 +2,49 @@
 timelimit: 0.1
 memlimit: 8
 ---
-Let us analyze magical strings that contain only capital letters  $M$ and $G$. Determine the maximum number of magic strings that have no more than  ***n*** letters.
+Посматрамо магичне ниске, које се састоје само од великих слова $M$ и $G$. Одреди колико има магичних ниски које
+имају највише $n$ слова.
 
-### Input
+## Улаз
 
-From the first row of standard input, read an integer  **n** ($1 \le n \lt 56$). 
+У првом реду стандардног улаза налази се цео број $n$ ($1 \le n \lt 56$).
 
-### Output
+## Излаз
 
-Print to standard output the number of magic strings that have no more than   **n** letters.
+На стандардни излаз исписати број магичних ниски које имају највише $n$ слова.
 
+## Пример 1
 
-#### Example 1
+### Улаз
 
-#### Input
 ~~~
 1
 ~~~
-#### Output
+
+### Излаз
+
 ~~~
 2
 ~~~
-#### Clarification
 
-Magical strings: М, G
+### Објашњење
 
-#### Example 2
+Магичне ниске: M, G
 
+## Пример 2
 
-#### Input
+### Улаз
+
 ~~~
 2
 ~~~
-#### Output
+
+### Излаз
+
 ~~~
 6
 ~~~
-#### Clarification
 
+### Објашњење
 
-Magical strings: М, G, MG, GM, MM, GG
+Магичне ниске: M, G, MG, GM, MM, GG
