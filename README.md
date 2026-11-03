@@ -650,6 +650,7 @@ Please check the tasks against your own copies too.
 | 2019-20 | SIO | — | [Nina Gruzijska](takprog-2019-20/06_SIO/04_nina_gruzijska) | standard | 1 s | 256 MB | 10 | default | — | — |
 | 2018-19 | Okružno | — | [festival](takprog-2018-19/01_OKRUZNO/01_festival) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 | 2018-19 | Okružno | — | [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli) | standard | 0.2 s | 32 MB | 25 | default | — | — |
+| 2018-19 | Okružno | — | [medalje](takprog-2018-19/01_OKRUZNO/03_medalje) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 
 ## Summary
 
