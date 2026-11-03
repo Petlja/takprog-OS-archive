@@ -714,6 +714,7 @@ Please check the tasks against your own copies too.
 | 2016-17 | Državno | 7–8 | [Pikado](takprog-2016-17/02_DRZAVNO/7-8_razred/03_pikado) | standard | 1.3 s | 64 MB | 25 | default | — | — |
 | 2016-17 | Državno | 7–8 | [Kolona u tabeli sa datim brojem](takprog-2016-17/02_DRZAVNO/7-8_razred/04_kolona_u_tabeli_sa_datim_brojem) | standard | 0.5 s | 64 MB | 25 | default | — | — |
 | 2016-17 | SIO | — | [Karte](takprog-2016-17/03_SIO/01_karte) | standard | 0.6 s | 64 MB | 26 | default | — | — |
+| 2016-17 | SIO | — | [Ograda](takprog-2016-17/03_SIO/02_ograda) | standard | 1 s | 64 MB | 26 | default | — | — |
 
 ## Summary
 
