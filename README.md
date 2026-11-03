@@ -558,6 +558,7 @@ Please check the tasks against your own copies too.
 | 2019-20 | Kvalifikacije 1 | 6 | [Neplivači](takprog-2019-20/01_KV1/6_razred/03_neplivaci) | standard | 0.1 s | 64 MB | 8 | default | — | — |
 | 2019-20 | Kvalifikacije 1 | 6 | [Susret](takprog-2019-20/01_KV1/6_razred/04_susret) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2019-20 | Kvalifikacije 1 | 6 | [Sekcija](takprog-2019-20/01_KV1/6_razred/05_sekcija) | standard | 0.1 s | 64 MB | 10 | default | — | — |
+| 2019-20 | Kvalifikacije 1 | 6 | [Statistike](takprog-2019-20/01_KV1/6_razred/06_statistike_3od3) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 1 | 6 | [Blizanci](takprog-2019-20/01_KV1/6_razred/07_blizanci) | standard | 1 s | 64 MB | 15 | default | — | — |
 | 2019-20 | Kvalifikacije 1 | 7 | [Susret](takprog-2019-20/01_KV1/7_razred/02_susret) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2019-20 | Kvalifikacije 1 | 7 | [Sekcija](takprog-2019-20/01_KV1/7_razred/04_sekcija) | standard | 0.1 s | 64 MB | 10 | default | — | — |
