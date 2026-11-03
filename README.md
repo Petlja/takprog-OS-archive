@@ -684,6 +684,7 @@ Please check the tasks against your own copies too.
 | 2017-18 | Okružno | — | [koferi](takprog-2017-18/01_OKRUZNO/12_koferi) | standard | 0.1 s | 64 MB | 20 | default | — | — |
 | 2017-18 | Državno | 5–6 | [Pločice](takprog-2017-18/02_DRZAVNO/5-6_razred/01_plocice) | standard | 0.1 s | 64 MB | 25 | default | — | — |
 | 2017-18 | Državno | 5–6 | [Kupovina](takprog-2017-18/02_DRZAVNO/5-6_razred/02_kupovina) | standard | 0.1 s | 64 MB | 25 | default | — | — |
+| 2017-18 | Državno | 5–6 | [Utovar](takprog-2017-18/02_DRZAVNO/5-6_razred/03_utovar) | standard | 0.2 s | 64 MB | 25 | default | — | — |
 
 ## Summary
 
