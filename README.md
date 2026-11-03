@@ -369,7 +369,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 1 | 8 | [Kupovina](takprog-2021-22/01_KV1/8_razred/01_kupovina) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 8 | [Karte](takprog-2021-22/01_KV1/8_razred/02_preferans) | standard | 0.1 s | 64 MB | 13 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 8 | [Taksi rastojanje oko pravougaonika](takprog-2021-22/01_KV1/8_razred/03_taksi_rastojanje_oko_pravougaonika) | standard | 0.1 s | 64 MB | 11 | default | — | — |
-| 2021-22 | Kvalifikacije 1 | 8 | [Postavljanje domina](takprog-2021-22/01_KV1/8_razred/04_postavljanje_domina) | standard | 0.1 s | 64 MB | 13 | default | The statement says there are no partial points; the scoring gives 70 points for tests 3–12 and 30 for test 13 alone (as at the contest) | — |
+| 2021-22 | Kvalifikacije 1 | 8 | [Postavljanje domina](takprog-2021-22/01_KV1/8_razred/04_postavljanje_domina) | standard | 0.1 s | 64 MB | 13 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 8 | [Tačke](takprog-2021-22/01_KV1/8_razred/05_tacke) | standard | 1 s | 64 MB | 11 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 8 | [Španska serija](takprog-2021-22/01_KV1/8_razred/06_spanska_serija) | standard | 0.6 s | 64 MB | 12 | `checker.cpp` (custom) | — | — |
 | 2021-22 | Kvalifikacije 2 | 5 | [Stolnjak](takprog-2021-22/02_KV2/5_razred/01_stolnjak) | standard | 0.1 s | 64 MB | 12 | default | — | — |
@@ -691,9 +691,9 @@ Please check the tasks against your own copies too.
 ## Summary
 
 All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on; 13 have
-their own checker, the rest use the default one. **10 tasks have a problem**, listed below.
+their own checker, the rest use the default one. **9 tasks have a problem**, listed below.
 
-**Task problems (9 tasks)**
+**Task problems (8 tasks)**
 
 - **Statement only in English (3):** [Prebroj](takprog-2020-21/01_KV1/5_razred/02_varijacije_sa_ponavljanjem)
   (2020-21, grade 5), [Značajni datumi](takprog-2020-21/01_KV1/5_razred/05_datumi_istorija) (2020-21, grades 5 to 7,
@@ -702,8 +702,6 @@ their own checker, the rest use the default one. **10 tasks have a problem**, li
 - **Lost pictures (2):** [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) (2017-18),
   [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli) (2018-19; the commission's collection has
   its picture).
-- **Statement and scoring disagree (1):**
-  [Postavljanje domina](takprog-2021-22/01_KV1/8_razred/04_postavljanje_domina) (2021-22).
 - **Scoring repeats a group id, as at the contest (3):**
   [Nepoznat broj](takprog-2023-24/02_KV2/6_razred/02_nepoznati_broj) (2023-24),
   [Datum sa najvećom zaradom](takprog-2022-23/01_KV1/8_razred/04_datum_sa_najvecom_zaradom) and
