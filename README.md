@@ -627,6 +627,7 @@ Please check the tasks against your own copies too.
 | 2019-20 | Revijalno | 5–6 | [Dan](takprog-2019-20/04_REVIJALNO/5-6_razred/01_dan_u_mesecu) | standard | 0.1 s | 16 MB | 10 | default | — | — |
 | 2019-20 | Revijalno | 5–6 | [Vetrenje](takprog-2019-20/04_REVIJALNO/5-6_razred/02_vetrenje) | standard | 0.1 s | 16 MB | 8 | default | — | — |
 | 2019-20 | Revijalno | 5–6 | [Produžavanje titlova](takprog-2019-20/04_REVIJALNO/5-6_razred/03_produzavanje_titlova) | standard | 0.1 s | 16 MB | 10 | default | — | — |
+| 2019-20 | Revijalno | 5–6 | [ABACABA](takprog-2019-20/04_REVIJALNO/5-6_razred/04_abacaba) | standard | 0.1 s | 16 MB | 10 | default | — | — |
 
 ## Summary
 
