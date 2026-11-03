@@ -474,6 +474,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | SIO | — | [Srećan niz](takprog-2021-22/06_SIO/04_srecan_niz) | standard | 0.15 s | 64 MB | 25 | `checker.cpp` (custom) | — | — |
 | 2021-22 | Izborno | — | [Poslovan Čovek](takprog-2021-22/07_IZBORNO/01_poslovan_covek) | standard | 1.3 s | 256 MB | 35 | default | — | — |
 | 2021-22 | Izborno | — | [Arhitekta](takprog-2021-22/07_IZBORNO/02_arhitekta) | standard | 1.5 s | 128 MB | 35 | default | — | — |
+| 2021-22 | Izborno | — | [Zagrade](takprog-2021-22/07_IZBORNO/03_zagrade) | standard | 1 s | 64 MB | 31 | default | — | — |
 
 ## Summary
 
@@ -511,3 +512,15 @@ expected answer is −1 (corrected on Petlja after the contest, which wasn't gra
 [Datum sa najvećom zaradom](takprog-2022-23/01_KV1/8_razred/04_datum_sa_najvecom_zaradom) and
 [Dodavanje cifre stotina](takprog-2022-23/03_KV3/7_razred/01_dodata_cifra_stotina) repeats a group id, as the
 contest's did.
+
+**2021-22:** all 84 tasks (103 task folders in 20 competitions: the three qualifying and the district rounds in each
+of grades 5 to 8, the state round for grades 5–6 and 7–8, SIO and Izborno; there was no municipal round that
+season) have their statement, pictures, limits, scoring and checker (five custom ones, the rest default; Dokaz's
+needed one `#include` for today's compiler). Solutions submitted at each contest get the verdict the contest recorded
+on every test, and the commission's main solution passes every test in the 83 tasks where it compiles on today's
+compiler (Dokaz's lacks an `#include`). Three tasks have a known problem:
+[Magacin](takprog-2021-22/02_KV2/5_razred/05_magacin)'s tests go far beyond the statement's bound on the heights
+(corrected on Petlja after the contest, which wasn't graded again),
+[Kocke](takprog-2021-22/02_KV2/5_razred/06_kocke)'s example 2 has a stray `#` in its input, and
+[Postavljanje domina](takprog-2021-22/01_KV1/8_razred/04_postavljanje_domina)'s statement says there are no partial
+points while its scoring gives some, as the contest's did.
