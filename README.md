@@ -32,10 +32,11 @@ the contest ended. Where the commission corrected tests during or after a contes
 the set is the corrected one. Where a test, a limit or the scoring changed during or after a contest without that,
 the archive has what the contest ended with.
 
-**The statement is the one Petlja showed at the contest**, in Cyrillic, as the commission wrote it in Markdown. The
-author line at the top comes from the commission's collection (`takprog-osnovci`), where the statements were edited
-later for the bulletin of solutions. Where the two differ in more than wording (an example, a subtask's points), the
-contest's version is kept, because the tests and scoring match it.
+**The statement is the one Petlja showed at the contest**, as the commission wrote it in Markdown (2016-17's in HTML,
+converted here; in Latin script that season, in Cyrillic since). The author line at the top comes from the
+commission's collection (`takprog-osnovci`), where the statements were edited later for the bulletin of solutions.
+Where the two differ in more than wording (an example, a subtask's points), the contest's version is kept, because
+the tests and scoring match it.
 
 Before a task is added, solutions are run against the chosen testcases in a copy of Petlja's grader: the commission's
 main C++ solution, which must pass every test (where the collection has a working one), and two C++ solutions
