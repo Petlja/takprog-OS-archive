@@ -542,6 +542,7 @@ Please check the tasks against your own copies too.
 | 2020-21 | Državno | 7–8 | [Zadatak 3](takprog-2020-21/04_DRZAVNO/7-8_razred/03_dino_turnir) | standard | 0.2 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Državno | 7–8 | [Zadatak 4](takprog-2020-21/04_DRZAVNO/7-8_razred/04_kvadrat_broja_nizovi) | standard | 1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | SIO | — | [Knjiga je prozor u svet](takprog-2020-21/05_SIO/01_knjiga_je_prozor_u_svet) | standard | 0.5 s | 64 MB | 10 | default | — | — |
+| 2020-21 | SIO | — | [Udruženje tenisera](takprog-2020-21/05_SIO/02_udruzenje_tenisera) | standard | 1 s | 64 MB | 10 | default | — | — |
 
 ## Summary
 
