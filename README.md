@@ -398,7 +398,9 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 1 | 8 | [Španska serija](takprog-2021-22/01_KV1/8_razred/06_spanska_serija) | standard | 0.6 s | 64 MB | 12 | `checker.cpp` (custom) | — | — |
 | 2021-22 | Kvalifikacije 2 | 5 | [Stolnjak](takprog-2021-22/02_KV2/5_razred/01_stolnjak) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 5 | [Pakovanje](takprog-2021-22/02_KV2/5_razred/02_pakovanje) | standard | 0.1 s | 16 MB | 12 | default | — | — |
+| 2021-22 | Kvalifikacije 2 | 5 | [Samoglasnici](takprog-2021-22/02_KV2/5_razred/03_samoglasnici) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 6 | [Pakovanje](takprog-2021-22/02_KV2/6_razred/01_pakovanje) | standard | 0.1 s | 16 MB | 12 | default | — | — |
+| 2021-22 | Kvalifikacije 2 | 6 | [Samoglasnici](takprog-2021-22/02_KV2/6_razred/02_samoglasnici) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 
 ## Summary
 
