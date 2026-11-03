@@ -575,9 +575,11 @@ Please check the tasks against your own copies too.
 | 2019-20 | Kvalifikacije 2 | 5 | [Kusur](takprog-2019-20/02_KV2/5_razred/01_kusur) | standard | 0.1 s | 64 MB | 8 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 5 | [Deca](takprog-2019-20/02_KV2/5_razred/02_deca) | standard | 0.1 s | 64 MB | 6 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 5 | [Kutije](takprog-2019-20/02_KV2/5_razred/03_kutije) | standard | 0.1 s | 64 MB | 8 | default | — | — |
+| 2019-20 | Kvalifikacije 2 | 5 | [Transformacije (kvalifikacije OŠ druga runda 2019/](takprog-2019-20/02_KV2/5_razred/04_transformacije) | standard | 0.1 s | 64 MB | 5 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 5 | [Statistike3od5 (kvalifikacije OŠ prva runda 2019/2](takprog-2019-20/02_KV2/5_razred/06_triple_double_3od5) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 6 | [Deca](takprog-2019-20/02_KV2/6_razred/01_deca) | standard | 0.1 s | 64 MB | 6 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 6 | [Kutije](takprog-2019-20/02_KV2/6_razred/02_kutije) | standard | 0.1 s | 64 MB | 8 | default | — | — |
+| 2019-20 | Kvalifikacije 2 | 6 | [Transformacije (kvalifikacije OŠ druga runda 2019/](takprog-2019-20/02_KV2/6_razred/03_transformacije) | standard | 0.1 s | 64 MB | 5 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 6 | [Statistike3od5 (kvalifikacije OŠ prva runda 2019/2](takprog-2019-20/02_KV2/6_razred/05_triple_double_3od5) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 7 | [Kutije](takprog-2019-20/02_KV2/7_razred/02_kutije) | standard | 0.1 s | 64 MB | 8 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 8 | [Kutije](takprog-2019-20/02_KV2/8_razred/02_kutije) | standard | 0.1 s | 64 MB | 8 | default | — | — |
