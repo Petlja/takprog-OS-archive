@@ -490,7 +490,9 @@ Please check the tasks against your own copies too.
 | 2020-21 | Kvalifikacije 1 | 7 | [Gađanje](takprog-2020-21/01_KV1/7_razred/01_gadjanje) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 7 | [Otkrij slova](takprog-2020-21/01_KV1/7_razred/02_otkrij_slova) | standard | 1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 7 | [Historia est magistra vitae](takprog-2020-21/01_KV1/7_razred/03_datumi_istorija) | standard | 1 s | 64 MB | 10 | default | Petlja's statement is in English, written after the contest for MG Cup 2021; the Serbian text the contest showed isn't on Petlja any more | — |
+| 2020-21 | Kvalifikacije 1 | 7 | [Štampač](takprog-2020-21/01_KV1/7_razred/04_3d_stampac) | standard | 0.2 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 7 | [Igra niskama](takprog-2020-21/01_KV1/7_razred/05_string_dp) | standard | 0.05 s | 64 MB | 10 | default | — | — |
+| 2020-21 | Kvalifikacije 1 | 8 | [3d otisak](takprog-2020-21/01_KV1/8_razred/01_3d_stampac) | standard | 0.2 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 8 | [Algebra reči](takprog-2020-21/01_KV1/8_razred/05_string_dp) | standard | 0.05 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 8 | [Putovanje](takprog-2020-21/02_KV2/8_razred/03_biciklo) | standard | 1 s | 64 MB | 10 | default | — | — |
 
