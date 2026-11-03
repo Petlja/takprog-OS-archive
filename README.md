@@ -715,6 +715,7 @@ Please check the tasks against your own copies too.
 | 2016-17 | Državno | 7–8 | [Kolona u tabeli sa datim brojem](takprog-2016-17/02_DRZAVNO/7-8_razred/04_kolona_u_tabeli_sa_datim_brojem) | standard | 0.5 s | 64 MB | 25 | default | — | — |
 | 2016-17 | SIO | — | [Karte](takprog-2016-17/03_SIO/01_karte) | standard | 0.6 s | 64 MB | 26 | default | — | — |
 | 2016-17 | SIO | — | [Ograda](takprog-2016-17/03_SIO/02_ograda) | standard | 1 s | 64 MB | 26 | default | — | — |
+| 2016-17 | SIO | — | [Podcifra](takprog-2016-17/03_SIO/03_podcifra) | standard | 1 s | 64 MB | 20 | default | — | — |
 
 ## Summary
 
@@ -798,3 +799,9 @@ point. Petlja kept only the test versions current in November 2018, when its fil
 each contest get the verdict the contest recorded on every test with them. The commission's collection doesn't have
 this season. The one known problem is [Sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku)'s statement, which refers to a
 picture that isn't on Petlja.
+
+**2016-17:** all 22 tasks (four competitions: the district round and SIO for every grade, the state round for grades
+5–6 and 7–8) have their statement (in Latin script, as on Petlja), limits, scoring and tests; every checker is the
+default. Petlja kept only the test versions current in November 2018, when its files were moved; solutions submitted
+at each contest get the verdict the contest recorded on every test with them. The commission's collection doesn't
+have this season. No task has a known problem.
