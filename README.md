@@ -519,6 +519,8 @@ Please check the tasks against your own copies too.
 | 2020-21 | Kvalifikacije 2 | 8 | [Uzajamno prosti članovi](takprog-2020-21/02_KV2/8_razred/05_uzajamno_prosti_clanovi) | standard | 1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Okružno | 5 | [Nikolin broj](takprog-2020-21/03_OKRUZNO/5_razred/01_nikolin_broj) | standard | 1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Okružno | 5 | [Timsko takmičenje](takprog-2020-21/03_OKRUZNO/5_razred/02_timsko_takmicenje) | standard | 0.1 s | 32 MB | 10 | default | — | — |
+| 2020-21 | Okružno | 5 | [Nadini podnizovi](takprog-2020-21/03_OKRUZNO/5_razred/03_broj_segmenata_iste_parnosti) | standard | 1 s | 64 MB | 10 | default | — | — |
+| 2020-21 | Okružno | 6 | [Nadino prebrojavanje](takprog-2020-21/03_OKRUZNO/6_razred/03_broj_segmenata_iste_parnosti) | standard | 1 s | 64 MB | 10 | default | — | — |
 
 ## Summary
 
