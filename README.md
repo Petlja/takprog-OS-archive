@@ -429,6 +429,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 3 | 6 | [Voda](takprog-2021-22/03_KV3/6_razred/01_voda) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 6 | [Ukrasna traka](takprog-2021-22/03_KV3/6_razred/02_ukrasna_traka) | standard | 0.1 s | 16 MB | 13 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 6 | [Morske dubine](takprog-2021-22/03_KV3/6_razred/03_najmanja_dubina) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2021-22 | Kvalifikacije 3 | 6 | [Red u prodavnici](takprog-2021-22/03_KV3/6_razred/04_red) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 6 | [Struja](takprog-2021-22/03_KV3/6_razred/05_struja) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 7 | [Morske dubine](takprog-2021-22/03_KV3/7_razred/02_najmanja_dubina) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 
