@@ -401,6 +401,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 2 | 5 | [Samoglasnici](takprog-2021-22/02_KV2/5_razred/03_samoglasnici) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 5 | [Dežurstvo](takprog-2021-22/02_KV2/5_razred/04_dezurstvo) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 5 | [Magacin](takprog-2021-22/02_KV2/5_razred/05_magacin) | standard | 0.3 s | 64 MB | 16 | default | — | Tests 8, 11 and 12–16 have heights up to 990288, above the statement's bound of 100; Petlja's tests 12–16 were scaled down the day after the contest, which wasn't graded again |
+| 2021-22 | Kvalifikacije 2 | 5 | [Kocke](takprog-2021-22/02_KV2/5_razred/06_kocke) | standard | 0.1 s | 64 MB | 12 | default | Example 2's input has a stray `# ` before `a 1 7` (test 2: `a 1 7`) | — |
 | 2021-22 | Kvalifikacije 2 | 6 | [Pakovanje](takprog-2021-22/02_KV2/6_razred/01_pakovanje) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 6 | [Samoglasnici](takprog-2021-22/02_KV2/6_razred/02_samoglasnici) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 
