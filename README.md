@@ -695,6 +695,7 @@ Please check the tasks against your own copies too.
 | 2017-18 | SIO | — | [Vranje](takprog-2017-18/03_SIO/03_vranje) | standard | 0.5 s | 64 MB | 32 | default | — | — |
 | 2017-18 | SIO | — | [Dunav](takprog-2017-18/03_SIO/04_dunav) | standard | 0.1 s | 32 MB | 10 | default | — | — |
 | 2016-17 | Okružno | — | [Ples](takprog-2016-17/01_OKRUZNO/01_ples) | standard | 1 s | 64 MB | 15 | default | — | — |
+| 2016-17 | Okružno | — | [Obuka](takprog-2016-17/01_OKRUZNO/02_obuka) | standard | 1 s | 64 MB | 15 | default | — | — |
 
 ## Summary
 
