@@ -657,6 +657,7 @@ Please check the tasks against your own copies too.
 | 2018-19 | Okružno | — | [parni](takprog-2018-19/01_OKRUZNO/07_k_pola_puta_paran_broj_k) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 | 2018-19 | Okružno | — | [pravougaonik](takprog-2018-19/01_OKRUZNO/08_pravougaonik_po_kvadrantima) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 | 2018-19 | Okružno | — | [decimale](takprog-2018-19/01_OKRUZNO/09_k_decimala_razlomka) | standard | 0.2 s | 32 MB | 25 | default | — | — |
+| 2018-19 | Okružno | — | [bazen](takprog-2018-19/01_OKRUZNO/10_maksimalan_broj_posetilaca_bazena) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 
 ## Summary
 
