@@ -524,6 +524,8 @@ Please check the tasks against your own copies too.
 | 2020-21 | Okružno | 6 | [Jelisavetin goblen](takprog-2020-21/03_OKRUZNO/6_razred/01_jelisavetin_goblen) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Okružno | 6 | [Perini poeni](takprog-2020-21/03_OKRUZNO/6_razred/02_perini_poeni) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Okružno | 6 | [Nadino prebrojavanje](takprog-2020-21/03_OKRUZNO/6_razred/03_broj_segmenata_iste_parnosti) | standard | 1 s | 64 MB | 10 | default | — | — |
+| 2020-21 | Okružno | 6 | [Lazina trampa](takprog-2020-21/03_OKRUZNO/6_razred/04_lazina_trampa) | standard | 0.1 s | 32 MB | 10 | default | — | — |
+| 2020-21 | Okružno | 7 | [Lazina trampa](takprog-2020-21/03_OKRUZNO/7_razred/03_lazina_trampa) | standard | 0.1 s | 32 MB | 10 | default | — | — |
 
 ## Summary
 
