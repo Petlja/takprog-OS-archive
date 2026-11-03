@@ -599,7 +599,9 @@ Please check the tasks against your own copies too.
 | 2019-20 | Kvalifikacije 2 | 8 | [Dve vrste polica (kvalifikacije OŠ druga runda 201](takprog-2019-20/02_KV2/8_razred/05_dve_police) | standard | 0.1 s | 32 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 8 | [Puno figurica (kvalifikacije OŠ druga runda 2019/2](takprog-2019-20/02_KV2/8_razred/06_puno_figurica) | standard | 0.15 s | 16 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 5 | [Klackalica](takprog-2019-20/03_KV3/5_razred/01_klackalica) | standard | 0.1 s | 64 MB | 3 | default | — | — |
+| 2019-20 | Kvalifikacije 3 | 5 | [Prizemlje](takprog-2019-20/03_KV3/5_razred/02_prizemlje) | standard | 0.1 s | 64 MB | 7 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 6 | [Klackalica](takprog-2019-20/03_KV3/6_razred/01_klackalica) | standard | 0.1 s | 64 MB | 3 | default | — | — |
+| 2019-20 | Kvalifikacije 3 | 6 | [Prizemlje](takprog-2019-20/03_KV3/6_razred/02_prizemlje) | standard | 0.1 s | 64 MB | 7 | default | — | — |
 
 ## Summary
 
