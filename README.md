@@ -586,8 +586,10 @@ Please check the tasks against your own copies too.
 | 2019-20 | Kvalifikacije 2 | 6 | [Statistike3od5 (kvalifikacije OŠ prva runda 2019/2](takprog-2019-20/02_KV2/6_razred/05_triple_double_3od5) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 6 | [Dve vrste polica (kvalifikacije OŠ druga runda 201](takprog-2019-20/02_KV2/6_razred/06_dve_police) | standard | 0.1 s | 32 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 6 | [Ruter](takprog-2019-20/02_KV2/6_razred/07_ruter) | standard | 0.13 s | 32 MB | 10 | default | — | — |
+| 2019-20 | Kvalifikacije 2 | 7 | [Odbojka](takprog-2019-20/02_KV2/7_razred/01_odbojka) | standard | 0.1 s | 64 MB | 7 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 7 | [Kutije](takprog-2019-20/02_KV2/7_razred/02_kutije) | standard | 0.1 s | 64 MB | 8 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 7 | [Dve vrste polica (kvalifikacije OŠ druga runda 201](takprog-2019-20/02_KV2/7_razred/05_dve_police) | standard | 0.1 s | 32 MB | 10 | default | — | — |
+| 2019-20 | Kvalifikacije 2 | 8 | [Odbojka](takprog-2019-20/02_KV2/8_razred/01_odbojka) | standard | 0.1 s | 64 MB | 7 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 8 | [Kutije](takprog-2019-20/02_KV2/8_razred/02_kutije) | standard | 0.1 s | 64 MB | 8 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 8 | [Dve vrste polica (kvalifikacije OŠ druga runda 201](takprog-2019-20/02_KV2/8_razred/05_dve_police) | standard | 0.1 s | 32 MB | 10 | default | — | — |
 
