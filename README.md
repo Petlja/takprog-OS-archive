@@ -45,8 +45,10 @@ From the 2024-25 selection cycle (May 2025) on, the contests ran on Petlja's Lin
 checked on; the earlier ones ran on a Windows machine with other compilers. In 2024-25 the municipal, district and
 state competitions were not held on Petlja, so that season has only the qualifying and selection rounds. From 2020-21
 to 2022-23 there was no municipal round: the qualifying rounds (two in 2020-21, then three) led to the district one.
-In 2020-21 every test was worth one point and all were visible. In 2020-21 and 2021-22 the state competition was one
-competition for grades 5 and 6 and one for 7 and 8, and in 2021-22 Izborno was the selection for EJOI, held for
+In 2019-20 the municipal round was held in schools, not on Petlja, and the district round was cancelled (COVID-19);
+an exhibition round (Revijalno) was held online instead. Where the commission set no scoring (Revijalno, Državno and
+SIO 2020, all of 2020-21) every test was worth one point and all were visible. From 2019-20 to 2021-22 the state
+competition was one competition for grades 5 and 6 and one for 7 and 8, and in 2021-22 Izborno was the selection for EJOI, held for
 primary and secondary school together; the secondary-school archive has its three tasks too. The commission
 sometimes gave a task set in several grades a different name in each; the table shows each grade's.
 
@@ -544,6 +546,8 @@ Please check the tasks against your own copies too.
 | 2020-21 | SIO | — | [Knjiga je prozor u svet](takprog-2020-21/05_SIO/01_knjiga_je_prozor_u_svet) | standard | 0.5 s | 64 MB | 10 | default | — | — |
 | 2020-21 | SIO | — | [Udruženje tenisera](takprog-2020-21/05_SIO/02_udruzenje_tenisera) | standard | 1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | SIO | — | [Broj pojava reči](takprog-2020-21/05_SIO/03_broj_pojava_reci) | standard | 1.2 s | 64 MB | 10 | default | — | — |
+| 2019-20 | Kvalifikacije 1 | 5 | [Knjiga](takprog-2019-20/01_KV1/5_razred/01_knjiga) | standard | 0.1 s | 64 MB | 3 | default | — | — |
+| 2019-20 | Kvalifikacije 1 | 6 | [Knjiga](takprog-2019-20/01_KV1/6_razred/01_knjiga) | standard | 0.1 s | 64 MB | 3 | default | — | — |
 
 ## Summary
 
