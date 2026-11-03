@@ -458,6 +458,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Okružno | 7 | [Krtice i zastavice](takprog-2021-22/04_OKRUZNO/7_razred/04_krtice_i_zastavice) | standard | 0.3 s | 64 MB | 11 | default | — | — |
 | 2021-22 | Okružno | 8 | [Iks-oks](takprog-2021-22/04_OKRUZNO/8_razred/01_iks_oks) | standard | 0.1 s | 64 MB | 25 | default | — | — |
 | 2021-22 | Okružno | 8 | [Rotacije podreči](takprog-2021-22/04_OKRUZNO/8_razred/02_rotacije_podreci) | standard | 0.1 s | 64 MB | 11 | default | — | — |
+| 2021-22 | Okružno | 8 | [Proređen skup](takprog-2021-22/04_OKRUZNO/8_razred/03_proredjen_skup) | standard | 0.5 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
