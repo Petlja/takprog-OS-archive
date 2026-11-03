@@ -139,12 +139,12 @@ Please check the tasks against your own copies too.
 | 2024-25 | Kvalifikacije 1 | 6 | [Kupovina skija](takprog-2024-25/01_KV1/6_razred/06_kupovina_skija) | standard | 0.15 s | 64 MB | 12 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 7 | [Taksi promo-kôd](takprog-2024-25/01_KV1/7_razred/01_taksi_promo_kod) | standard | 0.1 s | 64 MB | 5 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 7 | [Broj suglasnika](takprog-2024-25/01_KV1/7_razred/02_broj_suglasnika) | standard | 0.1 s | 64 MB | 12 | default | — | — |
-| 2024-25 | Kvalifikacije 1 | 7 | [Presek intervala](takprog-2024-25/01_KV1/7_razred/03_presek_intervala) | standard | 0.1 s | 64 MB | 13 | default | Example 2 shows `5 202`; test 2 is `5 2024` (same answer) | Tests 2 and 12 have numbers up to 2061, above the statement's bound of 1000 |
+| 2024-25 | Kvalifikacije 1 | 7 | [Presek intervala](takprog-2024-25/01_KV1/7_razred/03_presek_intervala) | standard | 0.1 s | 64 MB | 13 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 7 | [Programski jezici](takprog-2024-25/01_KV1/7_razred/04_programski_jezici) | standard | 0.5 s | 64 MB | 11 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 7 | [Najduži podniz sa 3 parna broja](takprog-2024-25/01_KV1/7_razred/05_najduzi_podniz_max_3_parna) | standard | 0.75 s | 64 MB | 53 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 7 | [Naelektrisanje](takprog-2024-25/01_KV1/7_razred/06_naelektrisanje) | standard | 0.3 s | 64 MB | 12 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 8 | [PIN aplikacije od PIN-a telefona](takprog-2024-25/01_KV1/8_razred/01_pin_aplikacije_od_pina_telefona) | standard | 0.1 s | 64 MB | 12 | default | — | — |
-| 2024-25 | Kvalifikacije 1 | 8 | [Presek intervala](takprog-2024-25/01_KV1/8_razred/02_presek_intervala) | standard | 0.1 s | 64 MB | 13 | default | — | Tests 2 and 12 have numbers up to 2061, above the statement's bound of 1000 |
+| 2024-25 | Kvalifikacije 1 | 8 | [Presek intervala](takprog-2024-25/01_KV1/8_razred/02_presek_intervala) | standard | 0.1 s | 64 MB | 13 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 8 | [Broj jakih lozinki](takprog-2024-25/01_KV1/8_razred/03_broj_jakih_lozinki) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 8 | [Čudna osmosmerka](takprog-2024-25/01_KV1/8_razred/04_cudna_osmosmerka) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2024-25 | Kvalifikacije 1 | 8 | [Najduži podniz sa 3 parna broja](takprog-2024-25/01_KV1/8_razred/05_najduzi_podniz_max_3_parna) | standard | 0.75 s | 64 MB | 53 | default | — | — |
@@ -691,10 +691,9 @@ Please check the tasks against your own copies too.
 ## Summary
 
 All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on; 13 have
-their own checker, the rest use the default one. **13 tasks have a problem**, listed below (Presek intervala is in
-both lists).
+their own checker, the rest use the default one. **12 tasks have a problem**, listed below.
 
-**Task problems (11 tasks)**
+**Task problems (10 tasks)**
 
 - **Statement only in English (3):** [Prebroj](takprog-2020-21/01_KV1/5_razred/02_varijacije_sa_ponavljanjem)
   (2020-21, grade 5), [Značajni datumi](takprog-2020-21/01_KV1/5_razred/05_datumi_istorija) (2020-21, grades 5 to 7,
@@ -703,8 +702,6 @@ both lists).
 - **Lost pictures (2):** [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) (2017-18),
   [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli) (2018-19; the commission's collection has
   its picture).
-- **An example that differs from its test (1):**
-  [Presek intervala](takprog-2024-25/01_KV1/7_razred/03_presek_intervala) (2024-25, grade 7).
 - **Statement and scoring disagree (2):** [Aljmez](takprog-2023-24/02_KV2/8_razred/06_aljmez) (2023-24),
   [Postavljanje domina](takprog-2021-22/01_KV1/8_razred/04_postavljanje_domina) (2021-22).
 - **Scoring repeats a group id, as at the contest (3):**
@@ -712,10 +709,8 @@ both lists).
   [Datum sa najvećom zaradom](takprog-2022-23/01_KV1/8_razred/04_datum_sa_najvecom_zaradom) and
   [Dodavanje cifre stotina](takprog-2022-23/03_KV3/7_razred/01_dodata_cifra_stotina) (2022-23).
 
-**Testcase problems (3 tasks)**
+**Testcase problems (2 tasks)**
 
-- **Tests beyond the statement's bounds (2):**
-  [Presek intervala](takprog-2024-25/01_KV1/7_razred/03_presek_intervala) (2024-25, grades 7 and 8),
-  [Magacin](takprog-2021-22/02_KV2/5_razred/05_magacin) (2021-22).
+- **Tests beyond the statement's bounds (1):** [Magacin](takprog-2021-22/02_KV2/5_razred/05_magacin) (2021-22).
 - **A stray character in the input (1):** [Puž](takprog-2022-23/02_KV2/8_razred/04_puz) (2022-23): inputs 3–8 end
   with a NUL character, and the expected answers count on it.
