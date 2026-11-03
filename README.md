@@ -411,8 +411,10 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 2 | 7 | [Četvorougao](takprog-2021-22/02_KV2/7_razred/01_cetvorougao) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 7 | [Broj poseta kućici](takprog-2021-22/02_KV2/7_razred/02_broj_poseta_kucici) | standard | 0.3 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 7 | [Igračka](takprog-2021-22/02_KV2/7_razred/03_igracka) | standard | 0.1 s | 64 MB | 11 | default | — | — |
+| 2021-22 | Kvalifikacije 2 | 7 | [Množenje i korenovanje](takprog-2021-22/02_KV2/7_razred/04_mnozenje_i_korenovanje) | standard | 0.3 s | 16 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 7 | [Podmornica](takprog-2021-22/02_KV2/7_razred/05_podmornica) | standard | 1 s | 64 MB | 17 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 8 | [Igračka](takprog-2021-22/02_KV2/8_razred/01_igracka) | standard | 0.1 s | 64 MB | 11 | default | — | — |
+| 2021-22 | Kvalifikacije 2 | 8 | [Množenje i korenovanje](takprog-2021-22/02_KV2/8_razred/04_mnozenje_i_korenovanje) | standard | 0.3 s | 16 MB | 12 | default | — | — |
 
 ## Summary
 
