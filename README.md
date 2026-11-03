@@ -383,6 +383,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 1 | 6 | [Majice](takprog-2021-22/01_KV1/6_razred/03_majice) | standard | 0.1 s | 64 MB | 14 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 6 | [Ukupno vreme](takprog-2021-22/01_KV1/6_razred/04_ukupno_vreme) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 6 | [Slične reči](takprog-2021-22/01_KV1/6_razred/05_slicne_reci) | standard | 0.1 s | 64 MB | 13 | default | — | — |
+| 2021-22 | Kvalifikacije 1 | 6 | [Zgrade](takprog-2021-22/01_KV1/6_razred/06_zgrade) | standard | 1 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
