@@ -636,6 +636,7 @@ Please check the tasks against your own copies too.
 | 2019-20 | Revijalno | 7–8 | [Bez cifre 3](takprog-2019-20/04_REVIJALNO/7-8_razred/05_ne_sadrze_cifru_3) | standard | 0.1 s | 16 MB | 10 | default | — | — |
 | 2019-20 | Državno | 5–6 | [Brisanje](takprog-2019-20/05_DRZAVNO/5-6_razred/01_brisanje) | standard | 0.037 s | 8 MB | 10 | default | — | — |
 | 2019-20 | Državno | 5–6 | [Aeromiting](takprog-2019-20/05_DRZAVNO/5-6_razred/02_aeromiting) | standard | 0.05 s | 8 MB | 10 | default | — | — |
+| 2019-20 | Državno | 5–6 | [Sirakuza](takprog-2019-20/05_DRZAVNO/5-6_razred/03_sirakuza) | standard | 0.04 s | 12 MB | 10 | default | — | — |
 
 ## Summary
 
