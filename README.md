@@ -423,6 +423,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 3 | 5 | [Zvonce](takprog-2021-22/03_KV3/5_razred/01_zvonce) | standard | 0.1 s | 16 MB | 13 | `checker.cpp` (custom) | — | — |
 | 2021-22 | Kvalifikacije 3 | 5 | [Po tri kaše](takprog-2021-22/03_KV3/5_razred/02_po_tri) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 5 | [Ukrasna traka](takprog-2021-22/03_KV3/5_razred/03_ukrasna_traka) | standard | 0.1 s | 16 MB | 13 | default | — | — |
+| 2021-22 | Kvalifikacije 3 | 5 | [Veliko sniženje](takprog-2021-22/03_KV3/5_razred/04_veliko_snizenje) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 6 | [Ukrasna traka](takprog-2021-22/03_KV3/6_razred/02_ukrasna_traka) | standard | 0.1 s | 16 MB | 13 | default | — | — |
 
 ## Summary
