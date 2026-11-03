@@ -653,6 +653,7 @@ Please check the tasks against your own copies too.
 | 2018-19 | Okružno | — | [medalje](takprog-2018-19/01_OKRUZNO/03_medalje) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 | 2018-19 | Okružno | — | [brojevi](takprog-2018-19/01_OKRUZNO/04_k_puta_broj_k) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 | 2018-19 | Okružno | — | [sastanak](takprog-2018-19/01_OKRUZNO/05_sastanak) | standard | 0.2 s | 32 MB | 25 | default | — | — |
+| 2018-19 | Okružno | — | [cifre](takprog-2018-19/01_OKRUZNO/06_najmanji_broj_sa_najvecim_zbirom_cifara) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 
 ## Summary
 
