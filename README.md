@@ -493,7 +493,10 @@ Please check the tasks against your own copies too.
 | 2020-21 | Kvalifikacije 1 | 7 | [Štampač](takprog-2020-21/01_KV1/7_razred/04_3d_stampac) | standard | 0.2 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 7 | [Igra niskama](takprog-2020-21/01_KV1/7_razred/05_string_dp) | standard | 0.05 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 8 | [3d otisak](takprog-2020-21/01_KV1/8_razred/01_3d_stampac) | standard | 0.2 s | 32 MB | 10 | default | — | — |
+| 2020-21 | Kvalifikacije 1 | 8 | [Nagrada](takprog-2020-21/01_KV1/8_razred/02_video_igrice) | standard | 1 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 8 | [Algebra reči](takprog-2020-21/01_KV1/8_razred/05_string_dp) | standard | 0.05 s | 64 MB | 10 | default | — | — |
+| 2020-21 | Kvalifikacije 2 | 5 | [Video igrica](takprog-2020-21/02_KV2/5_razred/05_video_igrice) | standard | 1 s | 32 MB | 10 | default | — | — |
+| 2020-21 | Kvalifikacije 2 | 6 | [EJOI poklon](takprog-2020-21/02_KV2/6_razred/05_video_igrice) | standard | 1 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 8 | [Putovanje](takprog-2020-21/02_KV2/8_razred/03_biciklo) | standard | 1 s | 64 MB | 10 | default | — | — |
 
 ## Summary
