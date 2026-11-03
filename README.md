@@ -217,7 +217,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Kvalifikacije 2 | 8 | [Najbrže do cilja](takprog-2023-24/02_KV2/8_razred/03_najbrze_do_cilja) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 8 | [Neparni delioci](takprog-2023-24/02_KV2/8_razred/04_neparni_delioci) | standard | 0.25 s | 64 MB | 14 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 8 | [Najmanje promena](takprog-2023-24/02_KV2/8_razred/05_najmanje_promena) | standard | 1 s | 64 MB | 12 | default | — | — |
-| 2023-24 | Kvalifikacije 2 | 8 | [Aljmez](takprog-2023-24/02_KV2/8_razred/06_aljmez) | standard | 1 s | 64 MB | 11 | `checker.cpp` (custom) | The statement gives 20 points to the tests where every y is 0; the scoring gives them (tests 6 and 11) 10 | — |
+| 2023-24 | Kvalifikacije 2 | 8 | [Aljmez](takprog-2023-24/02_KV2/8_razred/06_aljmez) | standard | 1 s | 64 MB | 11 | `checker.cpp` (custom) | — | — |
 | 2023-24 | Opštinsko | 6 | [Dani u nedelji](takprog-2023-24/03_OPSTINSKO/6_razred/01_dani_u_nedelji) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Opštinsko | 6 | [Toplotni pojas](takprog-2023-24/03_OPSTINSKO/6_razred/02_toplotni_pojas) | standard | 0.1 s | 16 MB | 13 | default | — | — |
 | 2023-24 | Opštinsko | 6 | [Dostavljač](takprog-2023-24/03_OPSTINSKO/6_razred/03_dostavljac) | standard | 0.1 s | 64 MB | 12 | default | — | — |
@@ -691,9 +691,9 @@ Please check the tasks against your own copies too.
 ## Summary
 
 All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on; 13 have
-their own checker, the rest use the default one. **11 tasks have a problem**, listed below.
+their own checker, the rest use the default one. **10 tasks have a problem**, listed below.
 
-**Task problems (10 tasks)**
+**Task problems (9 tasks)**
 
 - **Statement only in English (3):** [Prebroj](takprog-2020-21/01_KV1/5_razred/02_varijacije_sa_ponavljanjem)
   (2020-21, grade 5), [Značajni datumi](takprog-2020-21/01_KV1/5_razred/05_datumi_istorija) (2020-21, grades 5 to 7,
@@ -702,7 +702,7 @@ their own checker, the rest use the default one. **11 tasks have a problem**, li
 - **Lost pictures (2):** [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) (2017-18),
   [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli) (2018-19; the commission's collection has
   its picture).
-- **Statement and scoring disagree (2):** [Aljmez](takprog-2023-24/02_KV2/8_razred/06_aljmez) (2023-24),
+- **Statement and scoring disagree (1):**
   [Postavljanje domina](takprog-2021-22/01_KV1/8_razred/04_postavljanje_domina) (2021-22).
 - **Scoring repeats a group id, as at the contest (3):**
   [Nepoznat broj](takprog-2023-24/02_KV2/6_razred/02_nepoznati_broj) (2023-24),
