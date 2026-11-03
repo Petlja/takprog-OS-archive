@@ -420,6 +420,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 2 | 8 | [Množenje i korenovanje](takprog-2021-22/02_KV2/8_razred/04_mnozenje_i_korenovanje) | standard | 0.3 s | 16 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 8 | [Eksperiment](takprog-2021-22/02_KV2/8_razred/05_eksperiment) | standard | 0.5 s | 64 MB | 16 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 8 | [Sečenje](takprog-2021-22/02_KV2/8_razred/06_secenje_tezi) | standard | 1.5 s | 64 MB | 16 | default | — | — |
+| 2021-22 | Kvalifikacije 3 | 5 | [Zvonce](takprog-2021-22/03_KV3/5_razred/01_zvonce) | standard | 0.1 s | 16 MB | 13 | `checker.cpp` (custom) | — | — |
 
 ## Summary
 
