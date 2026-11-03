@@ -481,6 +481,9 @@ Please check the tasks against your own copies too.
 | 2020-21 | Kvalifikacije 1 | 5 | [Prebroj](takprog-2020-21/01_KV1/5_razred/02_varijacije_sa_ponavljanjem) | standard | 0.1 s | 8 MB | 10 | default | Petlja's statement is in English, written after the contest for MG Cup 2022; the Serbian text the contest showed isn't on Petlja any more | — |
 | 2020-21 | Kvalifikacije 1 | 5 | [Školsko zvonce](takprog-2020-21/01_KV1/5_razred/03_skolsko_zvonce) | standard | 0.05 s | 8 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 5 | [Prebroj 2](takprog-2020-21/01_KV1/5_razred/04_carobni_broj) | standard | 0.1 s | 32 MB | 10 | default | — | — |
+| 2020-21 | Kvalifikacije 1 | 5 | [Značajni datumi](takprog-2020-21/01_KV1/5_razred/05_datumi_istorija) | standard | 1 s | 64 MB | 10 | default | Petlja's statement is in English, written after the contest for MG Cup 2021; the Serbian text the contest showed isn't on Petlja any more | — |
+| 2020-21 | Kvalifikacije 1 | 6 | [Test iz istorije](takprog-2020-21/01_KV1/6_razred/01_datumi_istorija) | standard | 1 s | 64 MB | 10 | default | Petlja's statement is in English, written after the contest for MG Cup 2021; the Serbian text the contest showed isn't on Petlja any more | — |
+| 2020-21 | Kvalifikacije 1 | 7 | [Historia est magistra vitae](takprog-2020-21/01_KV1/7_razred/03_datumi_istorija) | standard | 1 s | 64 MB | 10 | default | Petlja's statement is in English, written after the contest for MG Cup 2021; the Serbian text the contest showed isn't on Petlja any more | — |
 
 ## Summary
 
