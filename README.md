@@ -603,11 +603,13 @@ Please check the tasks against your own copies too.
 | 2019-20 | Kvalifikacije 3 | 5 | [Riziko](takprog-2019-20/03_KV3/5_razred/03_riziko) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 5 | [Najveći](takprog-2019-20/03_KV3/5_razred/04_najveci_sa_istim_ciframa) | standard | 0.1 s | 64 MB | 7 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 5 | [Mali poštar](takprog-2019-20/03_KV3/5_razred/05_mali_postar) | standard | 0.2 s | 64 MB | 10 | default | — | — |
+| 2019-20 | Kvalifikacije 3 | 5 | [ATP pobednik (kvalifikacije OŠ treća runda 2019/20](takprog-2019-20/03_KV3/5_razred/06_atp_pobednik) | standard | 0.2 s | 64 MB | 6 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 6 | [Klackalica](takprog-2019-20/03_KV3/6_razred/01_klackalica) | standard | 0.1 s | 64 MB | 3 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 6 | [Prizemlje](takprog-2019-20/03_KV3/6_razred/02_prizemlje) | standard | 0.1 s | 64 MB | 7 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 6 | [Riziko](takprog-2019-20/03_KV3/6_razred/03_riziko) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 6 | [Najveći](takprog-2019-20/03_KV3/6_razred/04_najveci_sa_istim_ciframa) | standard | 0.1 s | 64 MB | 7 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 6 | [Mali poštar](takprog-2019-20/03_KV3/6_razred/05_mali_postar) | standard | 0.2 s | 64 MB | 10 | default | — | — |
+| 2019-20 | Kvalifikacije 3 | 6 | [ATP pobednik (kvalifikacije OŠ treća runda 2019/20](takprog-2019-20/03_KV3/6_razred/06_atp_pobednik) | standard | 0.2 s | 64 MB | 6 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 7 | [Riziko](takprog-2019-20/03_KV3/7_razred/01_riziko) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 7 | [Najveći](takprog-2019-20/03_KV3/7_razred/02_najveci_sa_istim_ciframa) | standard | 0.1 s | 64 MB | 7 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 7 | [Mali poštar](takprog-2019-20/03_KV3/7_razred/03_mali_postar) | standard | 0.2 s | 64 MB | 10 | default | — | — |
