@@ -460,6 +460,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Okružno | 8 | [Rotacije podreči](takprog-2021-22/04_OKRUZNO/8_razred/02_rotacije_podreci) | standard | 0.1 s | 64 MB | 11 | default | — | — |
 | 2021-22 | Okružno | 8 | [Proređen skup](takprog-2021-22/04_OKRUZNO/8_razred/03_proredjen_skup) | standard | 0.5 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Okružno | 8 | [Fabrika](takprog-2021-22/04_OKRUZNO/8_razred/04_fabrika) | standard | 1.8 s | 64 MB | 11 | `checker.cpp` (custom) | — | — |
+| 2021-22 | Državno | 5–6 | [Parovi istih cifara](takprog-2021-22/05_DRZAVNO/5-6_razred/01_iste_cifre) | standard | 0.1 s | 16 MB | 13 | default | — | — |
 
 ## Summary
 
