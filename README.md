@@ -393,6 +393,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 1 | 8 | [Kupovina](takprog-2021-22/01_KV1/8_razred/01_kupovina) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 8 | [Karte](takprog-2021-22/01_KV1/8_razred/02_preferans) | standard | 0.1 s | 64 MB | 13 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 8 | [Taksi rastojanje oko pravougaonika](takprog-2021-22/01_KV1/8_razred/03_taksi_rastojanje_oko_pravougaonika) | standard | 0.1 s | 64 MB | 11 | default | — | — |
+| 2021-22 | Kvalifikacije 1 | 8 | [Postavljanje domina](takprog-2021-22/01_KV1/8_razred/04_postavljanje_domina) | standard | 0.1 s | 64 MB | 13 | default | The statement says there are no partial points; the scoring gives 70 points for tests 3–12 and 30 for test 13 alone (as at the contest) | — |
 | 2021-22 | Kvalifikacije 1 | 8 | [Tačke](takprog-2021-22/01_KV1/8_razred/05_tacke) | standard | 1 s | 64 MB | 11 | default | — | — |
 
 ## Summary
