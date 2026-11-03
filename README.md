@@ -440,6 +440,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 3 | 7 | [Blago u pećini](takprog-2021-22/03_KV3/7_razred/06_blago_u_pecini) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 8 | [Ram od slova](takprog-2021-22/03_KV3/8_razred/01_ram_od_slova) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 8 | [Šarko](takprog-2021-22/03_KV3/8_razred/02_sarko) | standard | 0.1 s | 16 MB | 11 | default | — | — |
+| 2021-22 | Kvalifikacije 3 | 8 | [Veći realan broj](takprog-2021-22/03_KV3/8_razred/03_veci_realan_broj) | standard | 0.1 s | 16 MB | 14 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 8 | [Ćuki](takprog-2021-22/03_KV3/8_razred/05_cuki) | standard | 0.3 s | 64 MB | 11 | default | — | — |
 | 2021-22 | Kvalifikacije 3 | 8 | [Blago u pećini](takprog-2021-22/03_KV3/8_razred/06_blago_u_pecini) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 
