@@ -511,9 +511,11 @@ Please check the tasks against your own copies too.
 | 2020-21 | Kvalifikacije 2 | 7 | [Važan je kraj](takprog-2020-21/02_KV2/7_razred/02_mnozenje) | standard | 0.3 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 7 | [Baja i Petrak](takprog-2020-21/02_KV2/7_razred/03_branko_copic) | standard | 1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 7 | [Dino igra](takprog-2020-21/02_KV2/7_razred/04_dino_kaktusi) | standard | 0.3 s | 64 MB | 10 | default | — | — |
+| 2020-21 | Kvalifikacije 2 | 7 | [Prebroj](takprog-2020-21/02_KV2/7_razred/05_zbir_potpun_kvadrat) | standard | 0.85 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 8 | [Saobraćajna signalizacija](takprog-2020-21/02_KV2/8_razred/01_semafor) | standard | 0.2 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 8 | [Datum](takprog-2020-21/02_KV2/8_razred/02_dugovecni_robot) | standard | 1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 8 | [Putovanje](takprog-2020-21/02_KV2/8_razred/03_biciklo) | standard | 1 s | 64 MB | 10 | default | — | — |
+| 2020-21 | Kvalifikacije 2 | 8 | [Kvadrati](takprog-2020-21/02_KV2/8_razred/04_zbir_potpun_kvadrat) | standard | 0.85 s | 64 MB | 10 | default | — | — |
 
 ## Summary
 
