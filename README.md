@@ -619,7 +619,7 @@ Please check the tasks against your own copies too.
 | 2019-20 | SIO | — | [Hačapuri](takprog-2019-20/06_SIO/03_hacapuri) | standard | 0.2 s | 32 MB | 10 | default | — | — |
 | 2019-20 | SIO | — | [Nina Gruzijska](takprog-2019-20/06_SIO/04_nina_gruzijska) | standard | 1 s | 256 MB | 10 | default | — | — |
 | 2018-19 | Okružno | — | [festival](takprog-2018-19/01_OKRUZNO/01_festival) | standard | 0.2 s | 32 MB | 25 | default | — | — |
-| 2018-19 | Okružno | — | [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli) | standard | 0.2 s | 32 MB | 25 | default | The statement refers to a picture of the board that isn't on Petlja (the commission's collection has one, `dijagonale_na_sahovskoj_tabli.png`) | — |
+| 2018-19 | Okružno | — | [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 | 2018-19 | Okružno | — | [medalje](takprog-2018-19/01_OKRUZNO/03_medalje) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 | 2018-19 | Okružno | — | [brojevi](takprog-2018-19/01_OKRUZNO/04_k_puta_broj_k) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 | 2018-19 | Okružno | — | [sastanak](takprog-2018-19/01_OKRUZNO/05_sastanak) | standard | 0.2 s | 32 MB | 25 | default | — | — |
@@ -691,14 +691,12 @@ Please check the tasks against your own copies too.
 ## Summary
 
 All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on; 13 have
-their own checker, the rest use the default one. **5 tasks have a problem**, listed below.
+their own checker, the rest use the default one. **4 tasks have a problem**, listed below.
 
-**Task problems (5 tasks)**
+**Task problems (4 tasks)**
 
 - **Statement only in English (3):** [Prebroj](takprog-2020-21/01_KV1/5_razred/02_varijacije_sa_ponavljanjem)
   (2020-21, grade 5), [Značajni datumi](takprog-2020-21/01_KV1/5_razred/05_datumi_istorija) (2020-21, grades 5 to 7,
   under three names) and [Osvetljenje](takprog-2020-21/01_KV1/6_razred/04_osvetljenje) (2020-21, grade 6): the
   Serbian text the contestants read isn't on Petlja any more.
-- **Lost pictures (2):** [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) (2017-18),
-  [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli) (2018-19; the commission's collection has
-  its picture).
+- **Lost picture (1):** [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) (2017-18).
