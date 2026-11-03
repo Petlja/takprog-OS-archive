@@ -517,6 +517,7 @@ Please check the tasks against your own copies too.
 | 2020-21 | Kvalifikacije 2 | 8 | [Putovanje](takprog-2020-21/02_KV2/8_razred/03_biciklo) | standard | 1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 8 | [Kvadrati](takprog-2020-21/02_KV2/8_razred/04_zbir_potpun_kvadrat) | standard | 0.85 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Kvalifikacije 2 | 8 | [Uzajamno prosti članovi](takprog-2020-21/02_KV2/8_razred/05_uzajamno_prosti_clanovi) | standard | 1 s | 64 MB | 10 | default | — | — |
+| 2020-21 | Okružno | 5 | [Nikolin broj](takprog-2020-21/03_OKRUZNO/5_razred/01_nikolin_broj) | standard | 1 s | 64 MB | 10 | default | — | — |
 
 ## Summary
 
