@@ -543,6 +543,7 @@ Please check the tasks against your own copies too.
 | 2020-21 | Državno | 7–8 | [Zadatak 4](takprog-2020-21/04_DRZAVNO/7-8_razred/04_kvadrat_broja_nizovi) | standard | 1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | SIO | — | [Knjiga je prozor u svet](takprog-2020-21/05_SIO/01_knjiga_je_prozor_u_svet) | standard | 0.5 s | 64 MB | 10 | default | — | — |
 | 2020-21 | SIO | — | [Udruženje tenisera](takprog-2020-21/05_SIO/02_udruzenje_tenisera) | standard | 1 s | 64 MB | 10 | default | — | — |
+| 2020-21 | SIO | — | [Broj pojava reči](takprog-2020-21/05_SIO/03_broj_pojava_reci) | standard | 1.2 s | 64 MB | 10 | default | — | — |
 
 ## Summary
 
@@ -592,3 +593,14 @@ compiler (Dokaz's lacks an `#include`). Three tasks have a known problem:
 [Kocke](takprog-2021-22/02_KV2/5_razred/06_kocke)'s example 2 has a stray `#` in its input, and
 [Postavljanje domina](takprog-2021-22/01_KV1/8_razred/04_postavljanje_domina)'s statement says there are no partial
 points while its scoring gives some, as the contest's did.
+
+**2020-21:** all 45 tasks (67 task folders in 15 competitions: the two qualifying rounds and the district round in
+each of grades 5 to 8, the state round for grades 5–6 and 7–8, and SIO) have their limits, scoring and tests; every
+test is worth one point, as at the contest, and every checker is the default. Solutions submitted at each contest get
+the verdict the contest recorded on every test. The commission's collection has only the district, state and SIO
+tasks (all but one); its main solution passes every test in 19 of those 21, and in the other two it is too slow or
+overflows. Three statements are a problem: those of
+[Prebroj](takprog-2020-21/01_KV1/5_razred/02_varijacije_sa_ponavljanjem) (grade 5) and
+[Značajni datumi](takprog-2020-21/01_KV1/5_razred/05_datumi_istorija) (grades 5 to 7) were replaced on Petlja by
+English ones for MG Cup after the contest, and [Osvetljenje](takprog-2020-21/01_KV1/6_razred/04_osvetljenje)'s is MG
+Cup 2019's English one; the Serbian texts the contestants read aren't on Petlja any more.
