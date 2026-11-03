@@ -18,11 +18,11 @@ seasons have no municipal round, and 2024-25 has only its qualifying and selecti
 
 | File | What |
 |---|---|
-| `statement.md` | The statement in Markdown, with examples. Its header gives `timelimit` (seconds) and `memlimit` (MB). In Cyrillic, except 2016-17's (Latin script) and three 2020-21 statements that exist only in English (listed below) |
+| `statement.md` | The statement in Markdown, with examples. Its header gives `timelimit` (seconds) and `memlimit` (MB). In Cyrillic, except 2016-17's (Latin script). Three 2020-21 statements survive only in English and were translated in 2026: Prebroj, Značajni datumi (grades 5 to 7, under three names) and Osvetljenje |
 | `*.png`, `*.jpg` | Pictures the statement shows, if any. Sudoku's (2017-18) was lost and is drawn from the statement in 2026 |
 | `testcases/` | `NN.in` / `NN.out`: the test set the competition ran on, except Puž's (2022-23) inputs 3–8 and their answers: the commission corrected them the day after the contest |
 | `checker.cpp` | The competition's checker, when it had one. Called as `checker <contestant output> <expected output> <input>`. Exit code 0 = accepted, anything else = wrong. *One include added* marks a checker that needed an `#include` for today's compilers |
-| `scoring.yaml` | The competition's scoring: points per test or per subtask, and which tests are public. Where the commission set no scoring (2016-17 to 2020-21 in many rounds), every test is worth one point and all are public, as at the contest |
+| `scoring.yaml` | The competition's scoring: points per test or per subtask, and which tests are public. Where the commission set no scoring (2016-17 to 2020-21 in many rounds), every test is worth one point and all are public, as at the contest. Three configs repeated a group id, so Petlja's grader merged their groups: Nepoznat broj (2023-24), Datum sa najvećom zaradom and Dodavanje cifre stotina (2022-23) have distinct ids here, and each group scores on its own |
 
 ## Limits
 
@@ -42,8 +42,11 @@ from 2022-23; 5–6 = one competition for both); a task set in several grades ha
 grade's competition gave it (it sometimes differs). *Type* is `standard` (the program reads the input and writes the
 output). *Checker* is `default` when the task uses a plain token comparison and needs no `checker.cpp`.
 
-The last two columns list only what is missing or doesn't work; everything else is as the contest had it.
-Please check the tasks against your own copies too.
+The last two columns list only what is missing or doesn't work; everything else is as the contest had it, except
+what was lost or wrong and was fixed in 2026: a drawn picture, translated statements, examples that differed from
+their tests, bounds the tests broke, points that differed from the scoring, repeated scoring group ids and Puž's
+corrected tests. The commit history says what was changed and why. Please check the tasks against your own copies
+too.
 
 | Season | Round | Grade | Task | Type | Time | Memory | Testcases | Checker | Task problems | Testcase problems |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -690,5 +693,5 @@ Please check the tasks against your own copies too.
 
 ## Summary
 
-All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on; 13 have
-their own checker, the rest use the default one. No task has a known problem.
+All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on (Puž's six
+corrected tests excepted); 13 have their own checker, the rest use the default one. No task has a known problem.
