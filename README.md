@@ -589,10 +589,12 @@ Please check the tasks against your own copies too.
 | 2019-20 | Kvalifikacije 2 | 7 | [Odbojka](takprog-2019-20/02_KV2/7_razred/01_odbojka) | standard | 0.1 s | 64 MB | 7 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 7 | [Kutije](takprog-2019-20/02_KV2/7_razred/02_kutije) | standard | 0.1 s | 64 MB | 8 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 7 | [Horoskop](takprog-2019-20/02_KV2/7_razred/03_horoskop) | standard | 0.1 s | 64 MB | 5 | default | — | — |
+| 2019-20 | Kvalifikacije 2 | 7 | [Aritmogrif](takprog-2019-20/02_KV2/7_razred/04_aritmogrif) | standard | 0.1 s | 64 MB | 5 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 7 | [Dve vrste polica (kvalifikacije OŠ druga runda 201](takprog-2019-20/02_KV2/7_razred/05_dve_police) | standard | 0.1 s | 32 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 8 | [Odbojka](takprog-2019-20/02_KV2/8_razred/01_odbojka) | standard | 0.1 s | 64 MB | 7 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 8 | [Kutije](takprog-2019-20/02_KV2/8_razred/02_kutije) | standard | 0.1 s | 64 MB | 8 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 8 | [Horoskop](takprog-2019-20/02_KV2/8_razred/03_horoskop) | standard | 0.1 s | 64 MB | 5 | default | — | — |
+| 2019-20 | Kvalifikacije 2 | 8 | [Aritmogrif](takprog-2019-20/02_KV2/8_razred/04_aritmogrif) | standard | 0.1 s | 64 MB | 5 | default | — | — |
 | 2019-20 | Kvalifikacije 2 | 8 | [Dve vrste polica (kvalifikacije OŠ druga runda 201](takprog-2019-20/02_KV2/8_razred/05_dve_police) | standard | 0.1 s | 32 MB | 10 | default | — | — |
 
 ## Summary
