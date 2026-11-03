@@ -669,6 +669,7 @@ Please check the tasks against your own copies too.
 | 2018-19 | SIO | — | [Podnizovi](takprog-2018-19/03_SIO/01_min_max_duzina_podnizova) | standard | 0.4 s | 32 MB | 10 | default | — | — |
 | 2018-19 | SIO | — | [Žirafice](takprog-2018-19/03_SIO/02_zirafice) | standard | 0.4 s | 45 MB | 10 | default | — | — |
 | 2018-19 | SIO | — | [Alarmi](takprog-2018-19/03_SIO/03_alarmi) | standard | 0.3 s | 64 MB | 11 | default | — | — |
+| 2018-19 | SIO | — | [Niske](takprog-2018-19/03_SIO/04_broj_manjih_reci) | standard | 0.3 s | 16 MB | 10 | default | — | — |
 
 ## Summary
 
@@ -736,3 +737,10 @@ checker is the default. After each qualifying round and after Revijalno the comm
 graded the whole contest again on them; the archive has those sets. The commission's main solution passes every
 test in all 43 tasks the collection has (it lacks Državno and SIO), and solutions submitted at each contest get the
 verdict the contest recorded on every test. No task has a known problem.
+
+**2018-19:** all 22 tasks (three competitions, each for every grade: the district and state rounds and SIO) have
+their statement, limits, scoring and tests; every checker is the default. The commission's main solution passes every
+test in 19 of the 20 tasks the collection has (for Min-max dužina podnizova it is too slow; the collection has only a
+placeholder statement for it), and solutions submitted at each contest get the verdict the contest recorded on every
+test (for three district tasks Petlja's recorded verdicts are from tests uploaded by mistake a week later; the
+archive has the contest's). No task has a known problem.
