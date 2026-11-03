@@ -666,6 +666,7 @@ Please check the tasks against your own copies too.
 | 2018-19 | Državno | — | [Rečnik](takprog-2018-19/02_DRZAVNO/05_najredje_napisana_rec) | standard | 0.8 s | 64 MB | 10 | default | — | — |
 | 2018-19 | Državno | — | [Visoki učenici](takprog-2018-19/02_DRZAVNO/06_najvisi_decak_i_devojcica) | standard | 0.1 s | 64 MB | 25 | default | — | — |
 | 2018-19 | Državno | — | [Knjiga](takprog-2018-19/02_DRZAVNO/07_podela_knjige) | standard | 0.1 s | 64 MB | 25 | default | — | — |
+| 2018-19 | SIO | — | [Podnizovi](takprog-2018-19/03_SIO/01_min_max_duzina_podnizova) | standard | 0.4 s | 32 MB | 10 | default | — | — |
 
 ## Summary
 
