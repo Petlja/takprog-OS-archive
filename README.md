@@ -616,10 +616,12 @@ Please check the tasks against your own copies too.
 | 2019-20 | Kvalifikacije 3 | 7 | [Najveći](takprog-2019-20/03_KV3/7_razred/02_najveci_sa_istim_ciframa) | standard | 0.1 s | 64 MB | 7 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 7 | [Mali poštar](takprog-2019-20/03_KV3/7_razred/03_mali_postar) | standard | 0.2 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 7 | [ATP lista](takprog-2019-20/03_KV3/7_razred/04_atp_lista) | standard | 0.2 s | 32 MB | 7 | default | — | — |
+| 2019-20 | Kvalifikacije 3 | 7 | [Slatkiši za sav novac (kvalifikacije OŠ treća rund](takprog-2019-20/03_KV3/7_razred/05_slatkisi_za_sav_novac) | standard | 0.35 s | 32 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 8 | [Riziko](takprog-2019-20/03_KV3/8_razred/01_riziko) | standard | 0.1 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 8 | [Najveći](takprog-2019-20/03_KV3/8_razred/02_najveci_sa_istim_ciframa) | standard | 0.1 s | 64 MB | 7 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 8 | [Mali poštar](takprog-2019-20/03_KV3/8_razred/03_mali_postar) | standard | 0.2 s | 64 MB | 10 | default | — | — |
 | 2019-20 | Kvalifikacije 3 | 8 | [ATP lista](takprog-2019-20/03_KV3/8_razred/04_atp_lista) | standard | 0.2 s | 32 MB | 7 | default | — | — |
+| 2019-20 | Kvalifikacije 3 | 8 | [Slatkiši za sav novac (kvalifikacije OŠ treća rund](takprog-2019-20/03_KV3/8_razred/05_slatkisi_za_sav_novac) | standard | 0.35 s | 32 MB | 10 | default | — | — |
 
 ## Summary
 
