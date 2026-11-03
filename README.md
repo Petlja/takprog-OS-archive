@@ -532,6 +532,7 @@ Please check the tasks against your own copies too.
 | 2020-21 | Okružno | 8 | [Lenkin niz](takprog-2020-21/03_OKRUZNO/8_razred/01_lenkin_niz) | standard | 0.1 s | 32 MB | 10 | default | — | — |
 | 2020-21 | Okružno | 8 | [Mikin problem](takprog-2020-21/03_OKRUZNO/8_razred/02_mikin_problem) | standard | 0.7 s | 96 MB | 10 | default | — | — |
 | 2020-21 | Okružno | 8 | [Adin niz](takprog-2020-21/03_OKRUZNO/8_razred/03_adin_zbir) | standard | 0.3 s | 32 MB | 10 | default | — | — |
+| 2020-21 | Okružno | 8 | [Svetlanin problem](takprog-2020-21/03_OKRUZNO/8_razred/04_svetlanin_problem) | standard | 0.15 s | 8 MB | 10 | default | — | — |
 
 ## Summary
 
