@@ -201,7 +201,7 @@ Please check the tasks against your own copies too.
 | 2023-24 | Kvalifikacije 1 | 8 | [WiFi snaga](takprog-2023-24/01_KV1/8_razred/05_wifi_snaga) | standard | 0.15 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 1 | 8 | [Jedan-dva-tri-četiri](takprog-2023-24/01_KV1/8_razred/06_jedan_dva_tri_cetiri) | standard | 0.2 s | 64 MB | 12 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 6 | [Zakucavanje](takprog-2023-24/02_KV2/6_razred/01_zakucavanje) | standard | 0.2 s | 64 MB | 12 | default | — | — |
-| 2023-24 | Kvalifikacije 2 | 6 | [Nepoznat broj](takprog-2023-24/02_KV2/6_razred/02_nepoznati_broj) | standard | 0.1 s | 16 MB | 23 | default | `scoring.yaml` repeats group id 12, so Petlja scores tests 11, 12, 15 and 16 as two 10-point groups that each need all four (as at the contest) | — |
+| 2023-24 | Kvalifikacije 2 | 6 | [Nepoznat broj](takprog-2023-24/02_KV2/6_razred/02_nepoznati_broj) | standard | 0.1 s | 16 MB | 23 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 6 | [Ski karta](takprog-2023-24/02_KV2/6_razred/03_ski_pas) | standard | 0.1 s | 64 MB | 15 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 6 | [Gorivo](takprog-2023-24/02_KV2/6_razred/04_gorivo) | standard | 0.099 s | 64 MB | 13 | default | — | — |
 | 2023-24 | Kvalifikacije 2 | 6 | [Prva i poslednja cifra](takprog-2023-24/02_KV2/6_razred/05_prva_i_poslednja_cifra) | standard | 0.1 s | 16 MB | 12 | default | — | — |
@@ -691,9 +691,9 @@ Please check the tasks against your own copies too.
 ## Summary
 
 All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on; 13 have
-their own checker, the rest use the default one. **9 tasks have a problem**, listed below.
+their own checker, the rest use the default one. **8 tasks have a problem**, listed below.
 
-**Task problems (8 tasks)**
+**Task problems (7 tasks)**
 
 - **Statement only in English (3):** [Prebroj](takprog-2020-21/01_KV1/5_razred/02_varijacije_sa_ponavljanjem)
   (2020-21, grade 5), [Značajni datumi](takprog-2020-21/01_KV1/5_razred/05_datumi_istorija) (2020-21, grades 5 to 7,
@@ -702,8 +702,7 @@ their own checker, the rest use the default one. **9 tasks have a problem**, lis
 - **Lost pictures (2):** [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) (2017-18),
   [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli) (2018-19; the commission's collection has
   its picture).
-- **Scoring repeats a group id, as at the contest (3):**
-  [Nepoznat broj](takprog-2023-24/02_KV2/6_razred/02_nepoznati_broj) (2023-24),
+- **Scoring repeats a group id, as at the contest (2):**
   [Datum sa najvećom zaradom](takprog-2022-23/01_KV1/8_razred/04_datum_sa_najvecom_zaradom) and
   [Dodavanje cifre stotina](takprog-2022-23/03_KV3/7_razred/01_dodata_cifra_stotina) (2022-23).
 
