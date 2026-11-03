@@ -471,6 +471,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | SIO | — | [Završno glasanje](takprog-2021-22/06_SIO/01_zavrsno_glasanje) | standard | 0.25 s | 64 MB | 13 | default | — | — |
 | 2021-22 | SIO | — | [Armatura](takprog-2021-22/06_SIO/02_armatura) | standard | 0.1 s | 64 MB | 19 | default | — | — |
 | 2021-22 | SIO | — | [Najveće jezero](takprog-2021-22/06_SIO/03_najvece_jezero) | standard | 0.25 s | 64 MB | 17 | default | — | — |
+| 2021-22 | SIO | — | [Srećan niz](takprog-2021-22/06_SIO/04_srecan_niz) | standard | 0.15 s | 64 MB | 25 | `checker.cpp` (custom) | — | — |
 
 ## Summary
 
