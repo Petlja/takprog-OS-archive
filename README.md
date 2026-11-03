@@ -677,6 +677,7 @@ Please check the tasks against your own copies too.
 | 2017-18 | Okružno | — | [uglovi](takprog-2017-18/01_OKRUZNO/05_uglovi) | standard | 1 s | 64 MB | 20 | default | — | — |
 | 2017-18 | Okružno | — | [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) | standard | 0.1 s | 64 MB | 20 | default | The statement refers to a picture of the board (twice) that isn't on Petlja | — |
 | 2017-18 | Okružno | — | [kartice](takprog-2017-18/01_OKRUZNO/07_kartice) | standard | 0.1 s | 64 MB | 20 | default | — | — |
+| 2017-18 | Okružno | — | [prag](takprog-2017-18/01_OKRUZNO/08_prag) | standard | 0.2 s | 64 MB | 30 | default | — | — |
 
 ## Summary
 
