@@ -673,6 +673,7 @@ Please check the tasks against your own copies too.
 | 2017-18 | Okružno | — | [stepeni](takprog-2017-18/01_OKRUZNO/01_stepeni) | standard | 1 s | 64 MB | 20 | default | — | — |
 | 2017-18 | Okružno | — | [iksoks](takprog-2017-18/01_OKRUZNO/02_iksoks) | standard | 1 s | 64 MB | 20 | default | — | — |
 | 2017-18 | Okružno | — | [dzudo](takprog-2017-18/01_OKRUZNO/03_dzudo) | standard | 1 s | 64 MB | 20 | default | — | — |
+| 2017-18 | Okružno | — | [loto](takprog-2017-18/01_OKRUZNO/04_loto) | standard | 1 s | 64 MB | 7 | default | — | — |
 
 ## Summary
 
