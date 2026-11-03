@@ -693,6 +693,7 @@ Please check the tasks against your own copies too.
 | 2017-18 | SIO | — | [Aranđelovac](takprog-2017-18/03_SIO/01_arandjelovac) | standard | 0.5 s | 64 MB | 38 | default | — | — |
 | 2017-18 | SIO | — | [Beograd](takprog-2017-18/03_SIO/02_beograd) | standard | 0.5 s | 64 MB | 31 | default | — | — |
 | 2017-18 | SIO | — | [Vranje](takprog-2017-18/03_SIO/03_vranje) | standard | 0.5 s | 64 MB | 32 | default | — | — |
+| 2017-18 | SIO | — | [Dunav](takprog-2017-18/03_SIO/04_dunav) | standard | 0.1 s | 32 MB | 10 | default | — | — |
 
 ## Summary
 
@@ -769,3 +770,10 @@ test (for three district tasks Petlja's recorded verdicts are from tests uploade
 archive has the contest's). The one known problem is
 [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli)'s statement, which refers to a picture that
 isn't on Petlja.
+
+**2017-18:** all 24 tasks (four competitions: the district round and SIO for every grade, the state round for grades
+5–6 and 7–8) have their statement, limits, scoring and tests; every checker is the default and every test is worth one
+point. Petlja kept only the test versions current in November 2018, when its files were moved; solutions submitted at
+each contest get the verdict the contest recorded on every test with them. The commission's collection doesn't have
+this season. The one known problem is [Sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku)'s statement, which refers to a
+picture that isn't on Petlja.
