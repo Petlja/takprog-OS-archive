@@ -43,10 +43,12 @@ working is listed in the table below.
 
 From the 2024-25 selection cycle (May 2025) on, the contests ran on Petlja's Linux grader, the one these tasks were
 checked on; the earlier ones ran on a Windows machine with other compilers. In 2024-25 the municipal, district and
-state competitions were not held on Petlja, so that season has only the qualifying and selection rounds. In 2021-22
-and 2022-23 there was no municipal round: three qualifying rounds led to the district one. In 2021-22 the state
-competition was one competition for grades 5 and 6 and one for 7 and 8, and Izborno was the selection for EJOI, held
-for primary and secondary school together; the secondary-school archive has its three tasks too.
+state competitions were not held on Petlja, so that season has only the qualifying and selection rounds. From 2020-21
+to 2022-23 there was no municipal round: the qualifying rounds (two in 2020-21, then three) led to the district one.
+In 2020-21 every test was worth one point and all were visible. In 2020-21 and 2021-22 the state competition was one
+competition for grades 5 and 6 and one for 7 and 8, and in 2021-22 Izborno was the selection for EJOI, held for
+primary and secondary school together; the secondary-school archive has its three tasks too. The commission
+sometimes gave a task set in several grades a different name in each; the table shows each grade's.
 
 ## Limits
 
@@ -475,6 +477,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Izborno | — | [Poslovan Čovek](takprog-2021-22/07_IZBORNO/01_poslovan_covek) | standard | 1.3 s | 256 MB | 35 | default | — | — |
 | 2021-22 | Izborno | — | [Arhitekta](takprog-2021-22/07_IZBORNO/02_arhitekta) | standard | 1.5 s | 128 MB | 35 | default | — | — |
 | 2021-22 | Izborno | — | [Zagrade](takprog-2021-22/07_IZBORNO/03_zagrade) | standard | 1 s | 64 MB | 31 | default | — | — |
+| 2020-21 | Kvalifikacije 1 | 5 | [Dugovečna koala](takprog-2020-21/01_KV1/5_razred/01_dugovecna_koala) | standard | 1 s | 64 MB | 10 | default | — | — |
 
 ## Summary
 
