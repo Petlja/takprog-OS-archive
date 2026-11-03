@@ -704,6 +704,7 @@ Please check the tasks against your own copies too.
 | 2016-17 | Okružno | — | [Prosek](takprog-2016-17/01_OKRUZNO/08_prosek) | standard | 1 s | 64 MB | 15 | default | — | — |
 | 2016-17 | Okružno | — | [Statusi](takprog-2016-17/01_OKRUZNO/09_statusi) | standard | 1 s | 64 MB | 15 | default | — | — |
 | 2016-17 | Okružno | — | [Razlomci](takprog-2016-17/01_OKRUZNO/10_razlomci) | standard | 1 s | 64 MB | 15 | default | — | — |
+| 2016-17 | Okružno | — | [Glumci](takprog-2016-17/01_OKRUZNO/11_glumci) | standard | 1 s | 64 MB | 15 | default | — | — |
 
 ## Summary
 
