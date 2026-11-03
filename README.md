@@ -699,6 +699,7 @@ Please check the tasks against your own copies too.
 | 2016-17 | Okružno | — | [Zbir](takprog-2016-17/01_OKRUZNO/03_zbir) | standard | 1 s | 64 MB | 15 | default | — | — |
 | 2016-17 | Okružno | — | [Delioci](takprog-2016-17/01_OKRUZNO/04_delioci) | standard | 1 s | 64 MB | 15 | default | — | — |
 | 2016-17 | Okružno | — | [Džeparac](takprog-2016-17/01_OKRUZNO/05_dzeparac) | standard | 1 s | 64 MB | 15 | default | — | — |
+| 2016-17 | Okružno | — | [Slika](takprog-2016-17/01_OKRUZNO/06_slika) | standard | 1 s | 64 MB | 15 | default | — | — |
 
 ## Summary
 
