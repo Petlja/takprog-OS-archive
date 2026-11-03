@@ -406,6 +406,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 2 | 6 | [Samoglasnici](takprog-2021-22/02_KV2/6_razred/02_samoglasnici) | standard | 0.1 s | 16 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 6 | [Broj poseta kućici](takprog-2021-22/02_KV2/6_razred/03_broj_poseta_kucici) | standard | 0.3 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 6 | [Telegraf](takprog-2021-22/02_KV2/6_razred/04_telegraf) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2021-22 | Kvalifikacije 2 | 6 | [Skočko](takprog-2021-22/02_KV2/6_razred/05_skocko) | standard | 0.1 s | 16 MB | 16 | default | — | — |
 | 2021-22 | Kvalifikacije 2 | 7 | [Broj poseta kućici](takprog-2021-22/02_KV2/7_razred/02_broj_poseta_kucici) | standard | 0.3 s | 64 MB | 12 | default | — | — |
 
 ## Summary
