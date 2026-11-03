@@ -13,7 +13,8 @@ younger, then `7_razred` and `8_razred`), and `nn` is the task's place in that c
 grades together is named for both (`5-6_razred`). Each grade folder is the whole competition: a task that was set in
 several grades is copied into each of them. Rounds held as one competition for everyone (the selection rounds for
 international competitions: for infO(1)Cup and IATI, JSIO (SIO until 2022-23), Izborno, and in 2024-25 the two
-levels of the selection cycle) have no grade folder.
+levels of the selection cycle) have no grade folder, and neither do the rounds of 2018-19, when each round was one
+competition for every grade.
 
 | File | What |
 |---|---|
@@ -45,12 +46,13 @@ From the 2024-25 selection cycle (May 2025) on, the contests ran on Petlja's Lin
 checked on; the earlier ones ran on a Windows machine with other compilers. In 2024-25 the municipal, district and
 state competitions were not held on Petlja, so that season has only the qualifying and selection rounds. From 2020-21
 to 2022-23 there was no municipal round: the qualifying rounds (two in 2020-21, then three) led to the district one.
-In 2019-20 the municipal round was held in schools, not on Petlja, and the district round was cancelled (COVID-19);
-an exhibition round (Revijalno) was held online instead. Where the commission set no scoring (Revijalno, Državno and
-SIO 2020, all of 2020-21) every test was worth one point and all were visible. From 2019-20 to 2021-22 the state
-competition was one competition for grades 5 and 6 and one for 7 and 8, and in 2021-22 Izborno was the selection for EJOI, held for
-primary and secondary school together; the secondary-school archive has its three tasks too. The commission
-sometimes gave a task set in several grades a different name in each; the table shows each grade's.
+In 2018-19 and 2019-20 the municipal round was held in schools, not on Petlja; in 2019-20 the district round was
+cancelled (COVID-19) and an exhibition round (Revijalno) was held online instead. Where the commission set no scoring
+(Okružno and SIO 2019, Revijalno, Državno and SIO 2020, all of 2020-21) every test was worth one point and all were
+visible. From 2019-20 to 2021-22 the state competition was one competition for grades 5 and 6 and one for 7 and 8,
+and in 2021-22 Izborno was the selection for EJOI, held for primary and secondary school together; the
+secondary-school archive has its three tasks too. The commission sometimes gave a task set in several grades a
+different name in each; the table shows each grade's.
 
 ## Limits
 
@@ -646,6 +648,7 @@ Please check the tasks against your own copies too.
 | 2019-20 | SIO | — | [Borba](takprog-2019-20/06_SIO/02_borba) | standard | 0.5 s | 32 MB | 10 | default | — | — |
 | 2019-20 | SIO | — | [Hačapuri](takprog-2019-20/06_SIO/03_hacapuri) | standard | 0.2 s | 32 MB | 10 | default | — | — |
 | 2019-20 | SIO | — | [Nina Gruzijska](takprog-2019-20/06_SIO/04_nina_gruzijska) | standard | 1 s | 256 MB | 10 | default | — | — |
+| 2018-19 | Okružno | — | [festival](takprog-2018-19/01_OKRUZNO/01_festival) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 
 ## Summary
 
