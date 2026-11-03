@@ -8,11 +8,12 @@ they are named at the top of its statement.
 ## Layout
 
 Paths follow the competitions: `takprog-{season}/{round}/{grade}/{nn}_{task}/`. Most rounds are held as one
-competition per grade (`6_razred` is the sixth grade and younger, then `7_razred` and `8_razred`), and `nn` is the
-task's place in that competition. Each grade folder is the whole competition: a task that was set in several grades
-is copied into each of them. Rounds held as one competition for everyone (the selection rounds for international
-competitions: for infO(1)Cup and IATI, JSIO (SIO in 2022-23), Izborno, and in 2024-25 the two levels of the
-selection cycle) have no grade folder.
+competition per grade (`5_razred` to `8_razred` until 2021-22; from 2022-23 `6_razred` is the sixth grade and
+younger, then `7_razred` and `8_razred`), and `nn` is the task's place in that competition. A competition held for two
+grades together is named for both (`5-6_razred`). Each grade folder is the whole competition: a task that was set in
+several grades is copied into each of them. Rounds held as one competition for everyone (the selection rounds for
+international competitions: for infO(1)Cup and IATI, JSIO (SIO until 2022-23), Izborno, and in 2024-25 the two
+levels of the selection cycle) have no grade folder.
 
 | File | What |
 |---|---|
@@ -42,8 +43,10 @@ working is listed in the table below.
 
 From the 2024-25 selection cycle (May 2025) on, the contests ran on Petlja's Linux grader, the one these tasks were
 checked on; the earlier ones ran on a Windows machine with other compilers. In 2024-25 the municipal, district and
-state competitions were not held on Petlja, so that season has only the qualifying and selection rounds. In 2022-23
-there was no municipal round: three qualifying rounds led to the district one.
+state competitions were not held on Petlja, so that season has only the qualifying and selection rounds. In 2021-22
+and 2022-23 there was no municipal round: three qualifying rounds led to the district one. In 2021-22 the state
+competition was one competition for grades 5 and 6 and one for 7 and 8, and Izborno was the selection for EJOI, held
+for primary and secondary school together; the secondary-school archive has its three tasks too.
 
 ## Limits
 
@@ -58,7 +61,8 @@ there was no municipal round: three qualifying rounds led to the district one.
 
 ## Tasks
 
-Limits are the competition's. *Grade* is the grade competition the task was set in (6 = sixth grade and younger);
+Limits are the competition's. *Grade* is the grade competition the task was set in (6 = sixth grade and younger
+from 2022-23; 5–6 = one competition for both);
 a task set in several grades has a row for each. *Type* is `standard` (the program reads the input and writes the
 output). *Checker* is `default` when the task uses a plain token comparison and needs no `checker.cpp`.
 
@@ -368,6 +372,8 @@ Please check the tasks against your own copies too.
 | 2022-23 | Izborno | — | [Podniske nesusednih elemenata](takprog-2022-23/07_IZBORNO/02_podniske_nesusednih_elemenata) | standard | 0.1 s | 16 MB | 11 | default | — | — |
 | 2022-23 | Izborno | — | [Ekskurzija](takprog-2022-23/07_IZBORNO/03_ekskurzija) | standard | 1 s | 64 MB | 22 | default | — | — |
 | 2022-23 | Izborno | — | [Antena](takprog-2022-23/07_IZBORNO/04_antena) | standard | 1 s | 64 MB | 39 | default | — | — |
+| 2021-22 | Kvalifikacije 1 | 5 | [Ram](takprog-2021-22/01_KV1/5_razred/01_ram) | standard | 0.1 s | 64 MB | 12 | default | — | — |
+| 2021-22 | Kvalifikacije 1 | 6 | [Ram](takprog-2021-22/01_KV1/6_razred/01_ram) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 
 ## Summary
 
