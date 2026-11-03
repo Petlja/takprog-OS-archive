@@ -478,6 +478,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Izborno | — | [Arhitekta](takprog-2021-22/07_IZBORNO/02_arhitekta) | standard | 1.5 s | 128 MB | 35 | default | — | — |
 | 2021-22 | Izborno | — | [Zagrade](takprog-2021-22/07_IZBORNO/03_zagrade) | standard | 1 s | 64 MB | 31 | default | — | — |
 | 2020-21 | Kvalifikacije 1 | 5 | [Dugovečna koala](takprog-2020-21/01_KV1/5_razred/01_dugovecna_koala) | standard | 1 s | 64 MB | 10 | default | — | — |
+| 2020-21 | Kvalifikacije 1 | 5 | [Prebroj](takprog-2020-21/01_KV1/5_razred/02_varijacije_sa_ponavljanjem) | standard | 0.1 s | 8 MB | 10 | default | Petlja's statement is in English, written after the contest for MG Cup 2022; the Serbian text the contest showed isn't on Petlja any more | — |
 
 ## Summary
 
