@@ -644,6 +644,7 @@ Please check the tasks against your own copies too.
 | 2019-20 | Državno | 7–8 | [Mali rečnik](takprog-2019-20/05_DRZAVNO/7-8_razred/04_mali_recnik) | standard | 0.3 s | 24 MB | 10 | default | — | — |
 | 2019-20 | SIO | — | [Usavršavanje](takprog-2019-20/06_SIO/01_usavrsavanje) | standard | 0.5 s | 64 MB | 10 | default | — | — |
 | 2019-20 | SIO | — | [Borba](takprog-2019-20/06_SIO/02_borba) | standard | 0.5 s | 32 MB | 10 | default | — | — |
+| 2019-20 | SIO | — | [Hačapuri](takprog-2019-20/06_SIO/03_hacapuri) | standard | 0.2 s | 32 MB | 10 | default | — | — |
 
 ## Summary
 
