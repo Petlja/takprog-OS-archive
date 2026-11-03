@@ -709,6 +709,7 @@ Please check the tasks against your own copies too.
 | 2016-17 | Državno | 5–6 | [Arapski u rimski](takprog-2016-17/02_DRZAVNO/5-6_razred/02_arapski_u_rimski) | standard | 1 s | 64 MB | 25 | default | — | — |
 | 2016-17 | Državno | 5–6 | [Najkraća dopuna do palindroma](takprog-2016-17/02_DRZAVNO/5-6_razred/03_najkraca_dopuna_do_palindroma) | standard | 0.1 s | 64 MB | 25 | default | — | — |
 | 2016-17 | Državno | 5–6 | [Broj kolone u tabeli](takprog-2016-17/02_DRZAVNO/5-6_razred/04_broj_kolone_u_tabeli) | standard | 0.5 s | 64 MB | 25 | default | — | — |
+| 2016-17 | Državno | 7–8 | [Stolice](takprog-2016-17/02_DRZAVNO/7-8_razred/01_stolice) | standard | 0.5 s | 64 MB | 25 | default | — | — |
 
 ## Summary
 
