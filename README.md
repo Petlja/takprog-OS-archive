@@ -450,6 +450,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Okružno | 5 | [Leptir mašna](takprog-2021-22/04_OKRUZNO/5_razred/04_crtez) | standard | 0.1 s | 64 MB | 15 | default | — | — |
 | 2021-22 | Okružno | 6 | [Finalista](takprog-2021-22/04_OKRUZNO/6_razred/01_finalista) | standard | 0.1 s | 64 MB | 9 | default | — | — |
 | 2021-22 | Okružno | 6 | [Prvi ponedeljak](takprog-2021-22/04_OKRUZNO/6_razred/02_prvi_ponedeljak_u_mesecu) | standard | 0.1 s | 64 MB | 11 | default | — | — |
+| 2021-22 | Okružno | 6 | [Čudne stepenice](takprog-2021-22/04_OKRUZNO/6_razred/03_cudne_stepenice) | standard | 0.2 s | 64 MB | 11 | default | — | — |
 
 ## Summary
 
