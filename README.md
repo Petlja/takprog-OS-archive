@@ -538,6 +538,7 @@ Please check the tasks against your own copies too.
 | 2020-21 | Državno | 5–6 | [Lazin niz](takprog-2020-21/04_DRZAVNO/5-6_razred/03_lazin_niz) | standard | 0.4 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Državno | 5–6 | [Velika serija brojeva](takprog-2020-21/04_DRZAVNO/5-6_razred/04_velika_serija_brojeva) | standard | 1 s | 64 MB | 10 | default | — | — |
 | 2020-21 | Državno | 7–8 | [Zadatak 1](takprog-2020-21/04_DRZAVNO/7-8_razred/01_neparan_broj_delilaca) | standard | 0.7 s | 64 MB | 10 | default | — | — |
+| 2020-21 | Državno | 7–8 | [Zadatak 2](takprog-2020-21/04_DRZAVNO/7-8_razred/02_basta_sljezove_boje) | standard | 0.5 s | 64 MB | 10 | default | — | — |
 
 ## Summary
 
