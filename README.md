@@ -681,6 +681,7 @@ Please check the tasks against your own copies too.
 | 2017-18 | Okružno | — | [parnepar](takprog-2017-18/01_OKRUZNO/09_parnepar) | standard | 1 s | 64 MB | 20 | default | — | — |
 | 2017-18 | Okružno | — | [numeracija](takprog-2017-18/01_OKRUZNO/10_numeracija) | standard | 1 s | 64 MB | 20 | default | — | — |
 | 2017-18 | Okružno | — | [origami](takprog-2017-18/01_OKRUZNO/11_origami) | standard | 0.1 s | 64 MB | 20 | default | — | — |
+| 2017-18 | Okružno | — | [koferi](takprog-2017-18/01_OKRUZNO/12_koferi) | standard | 0.1 s | 64 MB | 20 | default | — | — |
 
 ## Summary
 
