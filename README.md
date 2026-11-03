@@ -651,6 +651,7 @@ Please check the tasks against your own copies too.
 | 2018-19 | Okružno | — | [festival](takprog-2018-19/01_OKRUZNO/01_festival) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 | 2018-19 | Okružno | — | [dijagonale](takprog-2018-19/01_OKRUZNO/02_dijagonale_na_sahovskoj_tabli) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 | 2018-19 | Okružno | — | [medalje](takprog-2018-19/01_OKRUZNO/03_medalje) | standard | 0.2 s | 32 MB | 25 | default | — | — |
+| 2018-19 | Okružno | — | [brojevi](takprog-2018-19/01_OKRUZNO/04_k_puta_broj_k) | standard | 0.2 s | 32 MB | 25 | default | — | — |
 
 ## Summary
 
