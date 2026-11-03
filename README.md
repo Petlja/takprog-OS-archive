@@ -377,6 +377,7 @@ Please check the tasks against your own copies too.
 | 2021-22 | Kvalifikacije 1 | 5 | [Papir, kamen, makaze](takprog-2021-22/01_KV1/5_razred/03_papir_kamen_makaze) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 5 | [Bliže crti](takprog-2021-22/01_KV1/5_razred/04_blize_crti) | standard | 0.1 s | 64 MB | 17 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 5 | [Ukupno vreme](takprog-2021-22/01_KV1/5_razred/05_ukupno_vreme) | standard | 0.1 s | 16 MB | 11 | default | — | — |
+| 2021-22 | Kvalifikacije 1 | 5 | [Isecanje kvadrata](takprog-2021-22/01_KV1/5_razred/06_kvadrati_maksimalne_povrsine) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 6 | [Ram](takprog-2021-22/01_KV1/6_razred/01_ram) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 6 | [Povećaj svaku cifru](takprog-2021-22/01_KV1/6_razred/02_povecaj_svaku_cifru) | standard | 0.1 s | 64 MB | 12 | default | — | — |
 | 2021-22 | Kvalifikacije 1 | 6 | [Ukupno vreme](takprog-2021-22/01_KV1/6_razred/04_ukupno_vreme) | standard | 0.1 s | 16 MB | 11 | default | — | — |
