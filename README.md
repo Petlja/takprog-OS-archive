@@ -645,6 +645,7 @@ Please check the tasks against your own copies too.
 | 2019-20 | SIO | — | [Usavršavanje](takprog-2019-20/06_SIO/01_usavrsavanje) | standard | 0.5 s | 64 MB | 10 | default | — | — |
 | 2019-20 | SIO | — | [Borba](takprog-2019-20/06_SIO/02_borba) | standard | 0.5 s | 32 MB | 10 | default | — | — |
 | 2019-20 | SIO | — | [Hačapuri](takprog-2019-20/06_SIO/03_hacapuri) | standard | 0.2 s | 32 MB | 10 | default | — | — |
+| 2019-20 | SIO | — | [Nina Gruzijska](takprog-2019-20/06_SIO/04_nina_gruzijska) | standard | 1 s | 256 MB | 10 | default | — | — |
 
 ## Summary
 
@@ -705,3 +706,10 @@ overflows. Three statements are a problem: those of
 [Značajni datumi](takprog-2020-21/01_KV1/5_razred/05_datumi_istorija) (grades 5 to 7) were replaced on Petlja by
 English ones for MG Cup after the contest, and [Osvetljenje](takprog-2020-21/01_KV1/6_razred/04_osvetljenje)'s is MG
 Cup 2019's English one; the Serbian texts the contestants read aren't on Petlja any more.
+
+**2019-20:** all 55 tasks (100 task folders in 17 competitions: the three qualifying rounds in each of grades 5 to 8,
+Revijalno, the state round for grades 5–6 and 7–8, and SIO) have their statement, limits, scoring and tests; every
+checker is the default. After each qualifying round and after Revijalno the commission re-uploaded the tests and
+graded the whole contest again on them; the archive has those sets. The commission's main solution passes every
+test in all 43 tasks the collection has (it lacks Državno and SIO), and solutions submitted at each contest get the
+verdict the contest recorded on every test. No task has a known problem.
