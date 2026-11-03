@@ -689,6 +689,7 @@ Please check the tasks against your own copies too.
 | 2017-18 | Državno | 7–8 | [Fleš-disk](takprog-2017-18/02_DRZAVNO/7-8_razred/01_fles_disk) | standard | 0.1 s | 64 MB | 25 | default | — | — |
 | 2017-18 | Državno | 7–8 | [Binarni nizovi bez susednih jedinica](takprog-2017-18/02_DRZAVNO/7-8_razred/02_binarni_nizovi_bez_susednih_jedinica) | standard | 1 s | 64 MB | 25 | default | — | — |
 | 2017-18 | Državno | 7–8 | [Akcije](takprog-2017-18/02_DRZAVNO/7-8_razred/03_akcije) | standard | 0.15 s | 64 MB | 25 | default | — | — |
+| 2017-18 | Državno | 7–8 | [Domine](takprog-2017-18/02_DRZAVNO/7-8_razred/04_domine) | standard | 0.2 s | 64 MB | 25 | default | — | — |
 
 ## Summary
 
