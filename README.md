@@ -19,7 +19,7 @@ seasons have no municipal round, and 2024-25 has only its qualifying and selecti
 | File | What |
 |---|---|
 | `statement.md` | The statement in Markdown, with examples. Its header gives `timelimit` (seconds) and `memlimit` (MB). In Cyrillic, except 2016-17's (Latin script) and three 2020-21 statements that exist only in English (listed below) |
-| `*.png`, `*.jpg` | Pictures the statement shows, if any |
+| `*.png`, `*.jpg` | Pictures the statement shows, if any. Sudoku's (2017-18) was lost and is drawn from the statement in 2026 |
 | `testcases/` | `NN.in` / `NN.out`: the test set the competition ran on, except Puž's (2022-23) inputs 3–8 and their answers: the commission corrected them the day after the contest |
 | `checker.cpp` | The competition's checker, when it had one. Called as `checker <contestant output> <expected output> <input>`. Exit code 0 = accepted, anything else = wrong. *One include added* marks a checker that needed an `#include` for today's compilers |
 | `scoring.yaml` | The competition's scoring: points per test or per subtask, and which tests are public. Where the commission set no scoring (2016-17 to 2020-21 in many rounds), every test is worth one point and all are public, as at the contest |
@@ -645,7 +645,7 @@ Please check the tasks against your own copies too.
 | 2017-18 | Okružno | — | [dzudo](takprog-2017-18/01_OKRUZNO/03_dzudo) | standard | 1 s | 64 MB | 20 | default | — | — |
 | 2017-18 | Okružno | — | [loto](takprog-2017-18/01_OKRUZNO/04_loto) | standard | 1 s | 64 MB | 7 | default | — | — |
 | 2017-18 | Okružno | — | [uglovi](takprog-2017-18/01_OKRUZNO/05_uglovi) | standard | 1 s | 64 MB | 20 | default | — | — |
-| 2017-18 | Okružno | — | [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) | standard | 0.1 s | 64 MB | 20 | default | The statement refers to a picture of the board (twice) that isn't on Petlja | — |
+| 2017-18 | Okružno | — | [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) | standard | 0.1 s | 64 MB | 20 | default | — | — |
 | 2017-18 | Okružno | — | [kartice](takprog-2017-18/01_OKRUZNO/07_kartice) | standard | 0.1 s | 64 MB | 20 | default | — | — |
 | 2017-18 | Okružno | — | [prag](takprog-2017-18/01_OKRUZNO/08_prag) | standard | 0.2 s | 64 MB | 30 | default | — | — |
 | 2017-18 | Okružno | — | [parnepar](takprog-2017-18/01_OKRUZNO/09_parnepar) | standard | 1 s | 64 MB | 20 | default | — | — |
@@ -691,12 +691,11 @@ Please check the tasks against your own copies too.
 ## Summary
 
 All 523 tasks (639 task folders) have their statement, limits, scoring and every test the contest ran on; 13 have
-their own checker, the rest use the default one. **4 tasks have a problem**, listed below.
+their own checker, the rest use the default one. **3 tasks have a problem**, listed below.
 
-**Task problems (4 tasks)**
+**Task problems (3 tasks)**
 
 - **Statement only in English (3):** [Prebroj](takprog-2020-21/01_KV1/5_razred/02_varijacije_sa_ponavljanjem)
   (2020-21, grade 5), [Značajni datumi](takprog-2020-21/01_KV1/5_razred/05_datumi_istorija) (2020-21, grades 5 to 7,
   under three names) and [Osvetljenje](takprog-2020-21/01_KV1/6_razred/04_osvetljenje) (2020-21, grade 6): the
   Serbian text the contestants read isn't on Petlja any more.
-- **Lost picture (1):** [sudoku](takprog-2017-18/01_OKRUZNO/06_sudoku) (2017-18).
