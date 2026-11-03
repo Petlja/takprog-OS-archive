@@ -1,0 +1,14 @@
+type: subtask
+score_total: 100
+groups:
+- id: 1
+  score: 0
+  testcases: [1, 2, 17]
+- id: 2
+  score: 40
+  testcases: [3, 4, 5, 6, 7, 8]
+- id: 3
+  score: 60
+  testcases: [9, 10, 11, 12, 13, 14, 15, 16]
+
+public: [1]
