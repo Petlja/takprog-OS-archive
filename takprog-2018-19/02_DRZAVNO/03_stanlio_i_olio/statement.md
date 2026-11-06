@@ -1,6 +1,6 @@
 ---
 timelimit: 0.2
-memlimit: 10
+memlimit: 16
 ---
 *Аутор: Филип Марић*
 

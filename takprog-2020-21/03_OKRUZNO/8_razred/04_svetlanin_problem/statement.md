@@ -1,6 +1,6 @@
 ---
 timelimit: 0.15
-memlimit: 8
+memlimit: 16
 ---
 *Аутор: Јелена Хаџи-Пурић*
 

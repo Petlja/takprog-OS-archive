@@ -1,6 +1,6 @@
 ---
 timelimit: 0.1
-memlimit: 4
+memlimit: 16
 ---
 Дато је $N$ ($1 \leq N \leq 50$) LED диско светала, означених бројевима од 1 до $N$.
 
